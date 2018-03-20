@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui">
+
+<ui:composition template="/WEB-INF/templates/admin.xhtml">
+	<ui:define name="pageContent">
+
+		<div class="alert alert-info" align="center">
+			<h3>Öğrenci Ekleme Sayfası</h3>
+		</div>
+		<div class="alert alert-success" align="center">
+
+			<h:form id="addForm">
+				<table align="center">
+					<tr>
+						<td>Öğrenci Adı :</td>
+						<td><p:inputText id="ogrenciad"
+								value="#{ogrenciEkleBean.newOgrenci.ad}" required="true"
+								requiredMessage="Öğrenci Adı boş geçilemez!" /></td>
+						<td><p:message for="ogrenciad" /></td>
+					</tr>
+					<tr>
+						<td>Öğrenci Soyadı :</td>
+						<td><p:inputText id="ogrencisoyad"
+								value="#{ogrenciEkleBean.newOgrenci.soyad}" required="true"
+								requiredMessage="Öğrenci Soyadı boş geçilemez!" /></td>
+						<td><p:message for="ogrencisoyad" /></td>
+					</tr>
+					<tr>
+						<td>Öğrenci No :</td>
+						<td><p:inputText id="ogrencino"
+								value="#{ogrenciEkleBean.newOgrenci.ogrencino}" required="true"
+								requiredMessage="Öğrenci No boş geçilemez!" /></td>
+						<td><p:message for="ogrencino" /></td>
+					</tr>
+					<tr>
+						<td>Doğum Tarihi :</td>
+						<td><p:inputMask id="popup"
+								value="#{ogrenciEkleBean.newOgrenci.dogumTarih}" mask="99.99.9999"/>
+						</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Sınıfı :</td>
+						<td><p:selectOneMenu id="sinif"
+								value="#{ogrenciEkleBean.sinifId}" style="width:204px" required="true" requiredMessage="Sınıf seçimi boş geçilemez!">
+								<f:selectItem itemLabel="Sınıf Seçiniz" itemValue=""
+									noSelectionOption="true" />
+								<f:selectItems value="#{ogrenciSecBean.tumsiniflar}" var="sinif" itemLabel="#{sinif.sinifAd}" itemValue="#{sinif.id}"/>
+							</p:selectOneMenu></td>
+						<td><p:message for="sinif" /></td>
+					</tr>
+					<tr>
+						<td>Cinsiyet :</td>
+						<td><h:selectOneRadio id="cinsiyet"
+								value="#{ogrenciEkleBean.newOgrenci.cinsiyet}">
+								<f:selectItem itemLabel="Erkek" itemValue="Erkek" />
+								<f:selectItem itemLabel="Kız" itemValue="Kız" />
+							</h:selectOneRadio></td>
+						<td><p:message for="cinsiyet" /></td>
+					</tr>
+					<tr>
+						<td>Veli Adı :</td>
+						<td><p:inputText id="veliad"
+								value="#{ogrenciEkleBean.newOgrenci.veliad}" /></td>
+						<td><p:message for="veliad" /></td>
+					</tr>
+					<tr>
+						<td>Veli Soyadı :</td>
+						<td><p:inputText id="velisoyad"
+								value="#{ogrenciEkleBean.newOgrenci.velisoyad}" /></td>
+						<td><p:message for="velisoyad" /></td>
+					</tr>
+					<tr>
+						<td>Telefon :</td>
+						<td><p:inputMask id="telefon"
+								value="#{ogrenciEkleBean.newOgrenci.telefon}"
+								mask="(999) 999-9999" /></td>
+						<td><p:message for="telefon" /></td>
+					</tr>
+					<tr>
+						<td>Adres :</td>
+						<td><p:inputText id="adres"
+								value="#{ogrenciEkleBean.newOgrenci.evadres}" /></td>
+						<td><p:message for="adres" /></td>
+					</tr>
+
+					<tr>
+						<td></td>
+						<td colspan="2"><p:commandButton
+								action="#{ogrenciEkleBean.add()}" value="Öğrenci Ekle"
+								ajax="false" /> <p:button href="adminogrenciekle.xhtml"
+								value="İptal" /></td>
+						<td></td>
+					</tr>
+				</table>
+				<p:messages id="messages" showDetail="true" autoUpdate="true"
+					closable="true" />
+			</h:form>
+		</div>
+	</ui:define>
+</ui:composition>
+
+</html>
+
+
+
+
+

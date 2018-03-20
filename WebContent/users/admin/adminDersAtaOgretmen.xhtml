@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui">
+
+<ui:composition template="/WEB-INF/templates/admin.xhtml">
+	<ui:define name="pageContent">
+
+		<div class="alert alert-info" align="center">
+			<h3>Öğretmen - Ders Atama Sayfası</h3>
+		</div>
+
+		<div class="alert alert-success" align="center">
+			<h:form rendered="#{dersAtaBean.ogretmenler.size() ne 0}">
+				<table align="center">
+					<tr>
+						<td><i class="fa fa-user fa-fw" />&nbsp;<b> Öğretmen : &nbsp;</b></td>
+						<td><p:selectOneMenu value="#{dersAtaBean.ogretmenId}" style="width:200px" >
+								<f:selectItems value="#{dersAtaBean.ogretmenler}" var="ogretmen"
+									itemLabel="#{ogretmen.ad} #{ogretmen.soyad}"
+									itemValue="#{ogretmen.id}" />
+							</p:selectOneMenu></td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td></td>
+						<td></td>
+					</tr>
+
+					<tr>
+						<td><i class="fa fa-book fa-fw" />&nbsp;<b> Ders : &nbsp;</b> &nbsp;</td>
+						<td><p:selectOneMenu value="#{dersAtaBean.dersId}" style="width:200px" >
+								<f:selectItems value="#{dersAtaBean.dersler}" var="ders"
+									itemLabel="#{ders.dersAd}" itemValue="#{ders.id}" />
+							</p:selectOneMenu></td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td><p:commandButton action="#{dersAtaBean.selecttoAddOgretmenDers(ogretmen.id, ders.id)}"
+								value="Ders Ata" update="gr" oncomplete="$('#myModal').modal();" /> 
+								<p:growl id="gr" /></td>
+					</tr>
+				</table>
+			</h:form>
+			
+			<h:form rendered="#{dersAtaBean.ogretmenler.size() eq 0}">
+					<h4>Veri tabanında kayıtlı öğretmen yoktur. Lütfen öncelikle öğretmen bilgilerini giriniz. </h4>
+			</h:form>
+		</div>
+
+		<div class="alert alert-info" align="center">
+			<div class="alert alert-warning" align="center"> <h4>Atama Gerçekleşmiş Öğretmen Bilgisi</h4></div>
+			<h:form id="tableForm" rendered="#{dersAtaBean.ogretmenler.size() ne 0}">
+				<p:dataTable id="dtable" value="#{dersAtaBean.ogretmenler}"
+					var="ogretmenDers">
+
+					<p:column headerText="Öğretmen adı">
+						<h:outputText value="#{ogretmenDers.ad}  #{ogretmenDers.soyad}" />
+					</p:column>
+
+					<p:column headerText="Ders adı">
+						<h:outputText value="#{ogretmenDers.dersler}" />
+					</p:column>
+				</p:dataTable>
+
+			</h:form>
+			<p:growl id="growl"></p:growl>
+			
+				<!-- Modal -->
+			<div id="myModal" class="modal fade" role="dialog">
+				<div class="modal-dialog">
+
+					<!-- Modal content-->
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal">&times;</button>
+							<h4 class="modal-title">Sayın
+								#{mySessionScopedBean.firstname} #{mySessionScopedBean.lastname}</h4>
+						</div>
+						<div class="modal-body">
+							<p>Seçilen ders öğretmene atanacak. Emin misiniz?</p>
+						</div>
+						<div class="modal-footer">
+							<p:commandButton styleClass="btn btn-default" value="Ata"
+								action="#{dersAtaBean.ekle()}"
+								oncomplete="$('#myModal').modal();location.reload();" />
+
+							<button type="button" class="btn btn-default"
+								data-dismiss="modal">İptal</button>
+						</div>
+					</div>
+
+				</div>
+			</div>
+			
+		</div>
+
+
+
+
+	</ui:define>
+</ui:composition>
+
+</html>
+
+
+
+
+

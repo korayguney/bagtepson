@@ -1,0 +1,592 @@
+﻿
+Genel Amaç-1. Bağımsız olarak yemek yeme becerisi kazanır.
+
+Amaç 1. Eliyle yiyecek yer. (4.5 P)
+Davranışlar 
+1. Yiyeceği alır. 
+2. Yiyecekten uygun miktarda ısırır. 
+3. Yiyeceği çiğner. 
+4. Yiyeceği yutar. 
+
+Amaç 2. Bardaktan sıvı içer. (4.5 P)
+Davranışlar 
+1. Bardağı alır. 
+2. Bardağı ağzına götürür. 
+3. Bardağı yukarı doğru kaldırır
+4. Ağzına bir miktar sıvı alır. 
+5. Ağzındaki sıvıyı yutar. 
+
+Amaç 3. Musluktan sürahiye su doldurur. (4 P)
+Davranışlar 
+1. Musluğu açar. 
+2. Sürahiyi alır. 
+3. Sürahiyi musluğun altına getirir. 
+4. Sürahi doluncaya kadar bekler. 
+5. Musluğu kapatır. 
+
+Amaç 4. Damacanadan sürahiye su doldurur. (2 P)
+Davranışlar 
+1. Sürahiyi alır. 
+2. Damacananın su basacağına basar. 
+3. Sürahiyi çeşmenin altına tutar. 
+4. Sürahiyi doluncaya kadar bekler. 
+5. Musluğu kapatır. 
+
+Amaç 5. Sürahiden bardağa sıvı doldurur. (4.5 P)
+Davranışlar 
+1. Sürahiyi alır. 
+2. Bardağı alır. 
+3. Bardak doluncaya kadar sürahideki sıvıyı döker. 
+4. Sürahiyi uygun şekilde tutar. 
+5. Sürahiyi kaldırır. 
+6. Sürahiyi bardağın ağzına yaklaştırır. 
+7. Sürahiyi ağız kısmı bardağın üstüne gelecek şekilde eğer. 
+8. Bardak doluncaya kadar sıvıyı döker. 
+9. Sürahiyi yerine koyar. 
+
+Amaç 6. Pipetle sıvı içer. (3 P)
+Davranışlar 
+1. Sıvının bulunduğu kabı tutar. 
+2. Pipeti tutar.
+3. Pipeti kutunun üzerindeki işaretli yere sokar /pipeti bardağa koyar.
+4. Pipeti dudaklarının arasına yerleştirir. 
+5. Pipetle sıvıyı çeker. 
+6. Pipetle çektiği sıvıyı yutar. 
+
+Amaç 7. Kumaş peçeteyi serer. (2 P)
+Davranışlar 
+1. Peçeteyi alır. 
+2. Peçeteyi masanın üzerine koyar. 
+3. Peçetenin üst katını açar. 
+4. Peçetenin diğer katını açar. 
+5. Peçeteyi eliyle düzeltir. 
+
+Amaç 8. Eliyle ekmek koparır. (4.5 P)
+Davranışlar 
+1. Ekmeği bir eliyle tutar. 
+2. Çekerek, ekmekten bir parçayı koparır. 
+
+Amaç 9. Ekmeğe bıçakla yumuşak gıda sürer. (3 P)
+Davranışlar: 
+1. Bıçağı alır. 
+2. Ekmeği diğer eline alır. 
+3. Bıçağı yiyecek kabına batırıp bileği yukarı döndürür. 
+
+Amaç 10. Üzerinde yemek yediği peçeteyi silkeler. (2 P)
+Davranışlar 
+1. Peçetenin alt kenarını peçetenin ortasına doğru katlar. 
+2. Peçetenin üst kenarını katlanan yerin üzerine koyar. 
+3. Peçetenin yan kenarlarını birleştirir. 
+4. Çöp kutusunun yanına gider. 
+5. Peçeteyi açar. 
+6. Peçeteyi çöp kutusunun üzerinde çırpar. 
+
+Amaç 11. Kumaş peçeteyi katlar. (2 P)
+Davranışlar 
+1. Peçeteyi alır. 
+2. Peçeteyi masanın üzerine serer. 
+3. Peçeteyi eliyle düzeltir. 
+4. Peçetenin alt kenarını üst kenarın üzerine koyar. 
+5. Peçetenin katladığı kısmını eliyle düzeltir. 
+6. Peçetenin katladığı kenarını yana gelecek şekilde çevirir. 
+7. Peçetenin alt kenarını üst kenarının üzerine koyar. 
+8. Peçetenin katladığı kısmını eliyle düzeltir. 
+
+Amaç 12. Kaşık kullanarak yemek yer. (4.5 P)
+Davranışlar 
+1. Kaşığı alır. 
+2. Tabaktan kaşığa bir miktar yemek alır. 
+3. Kaşıktaki yemeği ağzına boşaltır. 
+4. Yiyeceği çiğner. 
+5. Yiyeceği yutar. 
+
+Amaç 13. Çatal kullanarak yemek yer. (4.5 P)
+Davranışlar 
+1. Çatalı alır. 
+2. Çatalı tabaktaki yiyeceğe batırır. 
+3. Çataldaki yiyeceği ağzına alır. 
+4. Yiyeceği çiğner. 
+5. Yiyeceği yutar. 
+
+Amaç 14. Çatal ve bıçağı birlikte kullanarak yemek yer. (4.5 P)
+Davranışlar 
+1. Bıçağı alır. 
+2. Çatalı alır. 
+3. Çatalı tabaktaki yiyeceğe batırır. 
+4. Bıçakla yiyeceği keser. 
+5. Çataldaki yiyeceği ağzına alır. 
+6. Yiyeceği çiğner. 
+7. Yiyeceği yutar. 
+
+Amaç 15. Getirdiği yiyeceği yemede kurallara uyar. (4 P)
+Davranışlar 
+1. Beslenme çantasını masanın üzerine koyar. 
+2. Çantasını açar. 
+3. Peçeteyi masaya serer. 
+4. Yiyecekleri peçetenin üzerine koyar. 
+5. Kaşık, çatal, bardak vb. araç gereçleri peçetenin üzerine koyar. 
+6. Yemeğini yer. 
+7. Araç gereçleri çantaya koyar. 
+8. Peçeteyi silkeler. 
+9. Peçeteyi katlar. 
+10. Peçeteyi çantaya koyar. 
+11. Çantayı kapatır. 
+
+Amaç 16. Peçete ile ağzını siler.(4.5 P)
+1.Peçeteyi eline alır
+2.Peçeteyi ağzına götürür.
+3.Peçeteyi sağa sola hareket ettirerek ağzını siler.
+
+Amaç 17. Yemekhanede yemek yemede izlenmesi gereken sıraya uyar. (4.5 P)
+Davranışlar 
+1. Yemek sırasına girer. 
+2. Tabldot tepsisini alır. 
+3. Su bardağını alır. 
+4. Kaşığı tepsideki yerine koyar. 
+5. Çatalı tepsideki yerine koyar. 
+6. Bıçağı tepsideki yerine koyar. 
+7. Peçeteyi tepsiye koyar. 
+8. Tepsiyle yemek servisi yapılan yere gider. 
+9. Yemekler dolduruluncaya kadar bekler. 
+10. Tepsiyi, yemek yiyeceği masaya koyar. 
+11. Sandalyeye oturur. 
+12. Yemeğini yer. 
+13. Yemeği bittikten sonra ağzını peçeteyle siler. 
+14. Sandalyeden kalkar. 
+15. Sandalyeyi yerine yerleştirir. 
+16. Tabldot tepsisini bulaşıkların konulduğu yere koyar. 
+
+Amaç 18. Yemek yerken kurallara uymaya özen gösterir. (4.5 P)
+Davranışlar 
+1. Yemeğini öncelik sırasına göre yer. 
+2. Ağzı kapalı olarak yemek yer. 
+3. Ağzındaki lokmayı yuttuktan sonra diğer lokmayı alır. 
+4. Yemeğini küçük lokmalar hâlinde yer. 
+5. Yemek yeme sırasında tabağına göre eğilir. 
+6. Ağzındaki lokmayı yuttuktan sonra konuşur. 
+7. Tabağındaki yemeği bitirir. 
+8. Yemek sırasında peçeteyle ağzını siler. 
+9. Yemeği bittikten sonra masadan kalkar. 
+10. Yemeğin türüne uygun çatal, kaşık vb. araç gereç kullanır. 
+11. Yemekte başkasına ait çatal, kaşık vb. araç gereci kullanmaz. 
+
+Genel Amaç-2. Beslenme ile ilgili araç gereçleri kullanma alışkanlığı kazanır.
+
+Amaç 2. Bardaktan sıvı içer. (5 P)
+Davranışlar 
+1. Bardağı alır. 
+2. Bardağı ağzına götürür. 
+3. Bardağı yukarı doğru kaldırır
+4. Ağzına bir miktar sıvı alır. 
+5. Ağzındaki sıvıyı yutar. 
+
+Amaç 3. Musluktan sürahiye su doldurur. (3 P)
+Davranışlar 
+1. Musluğu açar. 
+2. Sürahiyi alır. 
+3. Sürahiyi musluğun altına getirir. 
+4. Sürahi doluncaya kadar bekler. 
+5. Musluğu kapatır. 
+
+Amaç 4. Damacanadan sürahiye su doldurur. (3 P)
+Davranışlar 
+1. Sürahiyi alır. 
+2. Damacananın su basacağına basar. 
+3. Sürahiyi çeşmenin altına tutar. 
+4. Sürahiyi doluncaya kadar bekler. 
+5. Musluğu kapatır. 
+
+Amaç 5. Sürahiden bardağa sıvı doldurur. (5 P)
+Davranışlar 
+1. Sürahiyi alır. 
+2. Bardağı alır. 
+3. Bardak doluncaya kadar sürahideki sıvıyı döker. 
+4. Sürahiyi uygun şekilde tutar. 
+5. Sürahiyi kaldırır. 
+6. Sürahiyi bardağın ağzına yaklaştırır. 
+7. Sürahiyi ağız kısmı bardağın üstüne gelecek şekilde eğer. 
+8. Bardak doluncaya kadar sıvıyı döker. 
+9. Sürahiyi yerine koyar.
+
+Amaç 6. Pipetle sıvı içer. (4 P)
+Davranışlar 
+1. Sıvının bulunduğu kabı tutar. 
+2. Pipeti tutar.
+3. Pipeti kutunun üzerindeki işaretli yere sokar /pipeti bardağa koyar.
+4. Pipeti dudaklarının arasına yerleştirir. 
+5. Pipetle sıvıyı çeker. 
+6. Pipetle çektiği sıvıyı yutar. 
+
+Amaç 7. Kumaş peçeteyi serer. (3 P)
+Davranışlar 
+1. Peçeteyi alır. 
+2. Peçeteyi masanın üzerine koyar. 
+3. Peçetenin üst katını açar. 
+4. Peçetenin diğer katını açar. 
+5. Peçeteyi eliyle düzeltir. 
+
+Amaç 9. Ekmeğe bıçakla yumuşak gıda sürer. (4 P)
+Davranışlar: 
+1. Bıçağı alır. 
+2. Ekmeği diğer eline alır. 
+3. Bıçağı yiyecek kabına batırıp bileği yukarı döndürür. 
+
+Amaç 10. Üzerinde yemek yediği peçeteyi silkeler. (3 P)
+Davranışlar 
+1. Peçetenin alt kenarını peçetenin ortasına doğru katlar. 
+2. Peçetenin üst kenarını katlanan yerin üzerine koyar. 
+3. Peçetenin yan kenarlarını birleştirir. 
+4. Çöp kutusunun yanına gider. 
+5. Peçeteyi açar. 
+6. Peçeteyi çöp kutusunun üzerinde çırpar. 
+
+Amaç 11. Kumaş peçeteyi katlar. (3 P)
+Davranışlar 
+1. Peçeteyi alır. 
+2. Peçeteyi masanın üzerine serer. 
+3. Peçeteyi eliyle düzeltir. 
+4. Peçetenin alt kenarını üst kenarın üzerine koyar. 
+5. Peçetenin katladığı kısmını eliyle düzeltir. 
+6. Peçetenin katladığı kenarını yana gelecek şekilde çevirir. 
+7. Peçetenin alt kenarını üst kenarının üzerine koyar. 
+8. Peçetenin katladığı kısmını eliyle düzeltir. 
+
+Amaç 12. Kaşık kullanarak yemek yer. (6 P)
+Davranışlar 
+1. Kaşığı alır. 
+2. Tabaktan kaşığa bir miktar yemek alır. 
+3. Kaşıktaki yemeği ağzına boşaltır. 
+4. Yiyeceği çiğner. 
+5. Yiyeceği yutar. 
+
+Amaç 13. Çatal kullanarak yemek yer. (6 P)
+Davranışlar 
+1. Çatalı alır. 
+2. Çatalı tabaktaki yiyeceğe batırır. 
+3. Çataldaki yiyeceği ağzına alır. 
+4. Yiyeceği çiğner. 
+5. Yiyeceği yutar. 
+
+Amaç 14. Çatal ve bıçağı birlikte kullanarak yemek yer. (5 P)
+Davranışlar 
+1. Bıçağı alır. 
+2. Çatalı alır. 
+3. Çatalı tabaktaki yiyeceğe batırır. 
+4. Bıçakla yiyeceği keser. 
+5. Çataldaki yiyeceği ağzına alır. 
+6. Yiyeceği çiğner. 
+7. Yiyeceği yutar. 
+
+Amaç 16. Peçete ile ağzını siler.(5 P)
+1.Peçeteyi eline alır
+2.Peçeteyi ağzına götürür.
+3.Peçeteyi sağa sola hareket ettirerek ağzını siler.
+
+Genel Amaç-3. Beslenmede belli bir düzene ve kurallara uyar. 
+
+Amaç 10. Üzerinde yemek yediği peçeteyi silkeler. (4 P)
+Davranışlar 
+1. Peçetenin alt kenarını peçetenin ortasına doğru katlar. 
+2. Peçetenin üst kenarını katlanan yerin üzerine koyar. 
+3. Peçetenin yan kenarlarını birleştirir. 
+4. Çöp kutusunun yanına gider. 
+5. Peçeteyi açar. 
+6. Peçeteyi çöp kutusunun üzerinde çırpar. 
+
+Amaç 12. Kaşık kullanarak yemek yer. (7.5 P)
+Davranışlar 
+1. Kaşığı alır. 
+2. Tabaktan kaşığa bir miktar yemek alır. 
+3. Kaşıktaki yemeği ağzına boşaltır. 
+4. Yiyeceği çiğner. 
+5. Yiyeceği yutar. 
+
+Amaç 13. Çatal kullanarak yemek yer. (7.5 P)
+Davranışlar 
+1. Çatalı alır. 
+2. Çatalı tabaktaki yiyeceğe batırır. 
+3. Çataldaki yiyeceği ağzına alır. 
+4. Yiyeceği çiğner. 
+5. Yiyeceği yutar. 
+
+Amaç 14. Çatal ve bıçağı birlikte kullanarak yemek yer. (7.5 P)
+Davranışlar 
+1. Bıçağı alır. 
+2. Çatalı alır. 
+3. Çatalı tabaktaki yiyeceğe batırır. 
+4. Bıçakla yiyeceği keser. 
+5. Çataldaki yiyeceği ağzına alır. 
+6. Yiyeceği çiğner. 
+7. Yiyeceği yutar. 
+
+Amaç 15. Getirdiği yiyeceği yemede kurallara uyar. (11 P)
+Davranışlar 
+1. Beslenme çantasını masanın üzerine koyar. 
+2. Çantasını açar. 
+3. Peçeteyi masaya serer. 
+4. Yiyecekleri peçetenin üzerine koyar. 
+5. Kaşık, çatal, bardak vb. araç gereçleri peçetenin üzerine koyar. 
+6. Yemeğini yer. 
+7. Araç gereçleri çantaya koyar. 
+8. Peçeteyi silkeler. 
+9. Peçeteyi katlar. 
+10. Peçeteyi çantaya koyar. 
+11. Çantayı kapatır. 
+
+Amaç 16. Peçete ile ağzını siler.(7.5 P)
+1.Peçeteyi eline alır
+2.Peçeteyi ağzına götürür.
+3.Peçeteyi sağa sola hareket ettirerek ağzını siler.
+
+Amaç 17. Yemekhanede yemek yemede izlenmesi gereken sıraya uyar. (16 P)
+Davranışlar 
+1. Yemek sırasına girer. 
+2. Tabldot tepsisini alır. 
+3. Su bardağını alır. 
+4. Kaşığı tepsideki yerine koyar. 
+5. Çatalı tepsideki yerine koyar. 
+6. Bıçağı tepsideki yerine koyar. 
+7. Peçeteyi tepsiye koyar. 
+8. Tepsiyle yemek servisi yapılan yere gider. 
+9. Yemekler dolduruluncaya kadar bekler. 
+10. Tepsiyi, yemek yiyeceği masaya koyar. 
+11. Sandalyeye oturur. 
+12. Yemeğini yer. 
+13. Yemeği bittikten sonra ağzını peçeteyle siler. 
+14. Sandalyeden kalkar. 
+15. Sandalyeyi yerine yerleştirir. 
+16. Tabldot tepsisini bulaşıkların konulduğu yere koyar. 
+
+Amaç 18. Yemek yerken kurallara uymaya özen gösterir. (16.5 P)
+Davranışlar 
+1. Yemeğini öncelik sırasına göre yer. 
+2. Ağzı kapalı olarak yemek yer. 
+3. Ağzındaki lokmayı yuttuktan sonra diğer lokmayı alır. 
+4. Yemeğini küçük lokmalar hâlinde yer. 
+5. Yemek yeme sırasında tabağına göre eğilir. 
+6. Ağzındaki lokmayı yuttuktan sonra konuşur. 
+7. Tabağındaki yemeği bitirir. 
+8. Yemek sırasında peçeteyle ağzını siler. 
+9. Yemeği bittikten sonra masadan kalkar. 
+10. Yemeğin türüne uygun çatal, kaşık vb. araç gereç kullanır. 
+11. Yemekte başkasına ait çatal, kaşık vb. araç gereci kullanmaz. 
+
+Genel Amaç-4. Toplum yaşamına ve düzenine uyum sağlar. 
+
+Amaç 15. Getirdiği yiyeceği yemede kurallara uyar.(9 P)
+Davranışlar 
+1. Beslenme çantasını masanın üzerine koyar. 
+2. Çantasını açar. 
+3. Peçeteyi masaya serer. 
+4. Yiyecekleri peçetenin üzerine koyar. 
+5. Kaşık, çatal, bardak vb. araç gereçleri peçetenin üzerine koyar. 
+6. Yemeğini yer. 
+7. Araç gereçleri çantaya koyar. 
+8. Peçeteyi silkeler. 
+9. Peçeteyi katlar. 
+10. Peçeteyi çantaya koyar. 
+11. Çantayı kapatır. 
+
+Amaç 17. Yemekhanede yemek yemede izlenmesi gereken sıraya uyar.(9 P)
+Davranışlar 
+1. Yemek sırasına girer. 
+2. Tabldot tepsisini alır. 
+3. Su bardağını alır. 
+4. Kaşığı tepsideki yerine koyar. 
+5. Çatalı tepsideki yerine koyar. 
+6. Bıçağı tepsideki yerine koyar. 
+7. Peçeteyi tepsiye koyar. 
+8. Tepsiyle yemek servisi yapılan yere gider. 
+9. Yemekler dolduruluncaya kadar bekler. 
+10. Tepsiyi, yemek yiyeceği masaya koyar. 
+11. Sandalyeye oturur. 
+12. Yemeğini yer. 
+13. Yemeği bittikten sonra ağzını peçeteyle siler. 
+14. Sandalyeden kalkar. 
+15. Sandalyeyi yerine yerleştirir. 
+16. Tabldot tepsisini bulaşıkların konulduğu yere koyar. 
+
+Amaç 18. Yemek yerken kurallara uymaya özen gösterir. (9 P)
+Davranışlar 
+1. Yemeğini öncelik sırasına göre yer. 
+2. Ağzı kapalı olarak yemek yer. 
+3. Ağzındaki lokmayı yuttuktan sonra diğer lokmayı alır. 
+4. Yemeğini küçük lokmalar hâlinde yer. 
+5. Yemek yeme sırasında tabağına göre eğilir. 
+6. Ağzındaki lokmayı yuttuktan sonra konuşur. 
+7. Tabağındaki yemeği bitirir. 
+8. Yemek sırasında peçeteyle ağzını siler. 
+9. Yemeği bittikten sonra masadan kalkar. 
+10. Yemeğin türüne uygun çatal, kaşık vb. araç gereç kullanır. 
+11. Yemekte başkasına ait çatal, kaşık vb. araç gereci kullanmaz. 
+
+Genel Amaç-5. Edindiği becerileri günlük yaşamda uygular. 
+
+Amaç 1. Eliyle yiyecek yer. (4 P)
+Davranışlar 
+1. Yiyeceği alır. 
+2. Yiyecekten uygun miktarda ısırır. 
+3. Yiyeceği çiğner. 
+4. Yiyeceği yutar. 
+
+Amaç 2. Bardaktan sıvı içer. (4 P)
+Davranışlar 
+1. Bardağı alır. 
+2. Bardağı ağzına götürür. 
+3. Bardağı yukarı doğru kaldırır
+4. Ağzına bir miktar sıvı alır. 
+5. Ağzındaki sıvıyı yutar. 
+
+Amaç 3. Musluktan sürahiye su doldurur. (4 P)
+Davranışlar 
+1. Musluğu açar. 
+2. Sürahiyi alır. 
+3. Sürahiyi musluğun altına getirir. 
+4. Sürahi doluncaya kadar bekler. 
+5. Musluğu kapatır. 
+
+Amaç 4. Damacanadan sürahiye su doldurur. (4 P)
+Davranışlar 
+1. Sürahiyi alır. 
+2. Damacananın su basacağına basar. 
+3. Sürahiyi çeşmenin altına tutar. 
+4. Sürahiyi doluncaya kadar bekler. 
+5. Musluğu kapatır. 
+
+Amaç 5. Sürahiden bardağa sıvı doldurur. (4 P)
+Davranışlar 
+1. Sürahiyi alır. 
+2. Bardağı alır. 
+3. Bardak doluncaya kadar sürahideki sıvıyı döker. 
+4. Sürahiyi uygun şekilde tutar. 
+5. Sürahiyi kaldırır. 
+6. Sürahiyi bardağın ağzına yaklaştırır. 
+7. Sürahiyi ağız kısmı bardağın üstüne gelecek şekilde eğer. 
+8. Bardak doluncaya kadar sıvıyı döker. 
+9. Sürahiyi yerine koyar. 
+
+Amaç 6. Pipetle sıvı içer. (4 P)
+Davranışlar 
+1. Sıvının bulunduğu kabı tutar. 
+2. Pipeti tutar.
+3. Pipeti kutunun üzerindeki işaretli yere sokar /pipeti bardağa koyar.
+4. Pipeti dudaklarının arasına yerleştirir. 
+5. Pipetle sıvıyı çeker. 
+6. Pipetle çektiği sıvıyı yutar. 
+
+Amaç 7. Kumaş peçeteyi serer. (4 P)
+Davranışlar 
+1. Peçeteyi alır. 
+2. Peçeteyi masanın üzerine koyar. 
+3. Peçetenin üst katını açar. 
+4. Peçetenin diğer katını açar. 
+5. Peçeteyi eliyle düzeltir. 
+
+Amaç 8. Eliyle ekmek koparır. (4 P)
+Davranışlar 
+1. Ekmeği bir eliyle tutar. 
+2. Çekerek, ekmekten bir parçayı koparır. 
+
+Amaç 9. Ekmeğe bıçakla yumuşak gıda sürer. (4 P)
+Davranışlar: 
+1. Bıçağı alır. 
+2. Ekmeği diğer eline alır. 
+3. Bıçağı yiyecek kabına batırıp bileği yukarı döndürür. 
+
+Amaç 10. Üzerinde yemek yediği peçeteyi silkeler. (4 P)
+Davranışlar 
+1. Peçetenin alt kenarını peçetenin ortasına doğru katlar. 
+2. Peçetenin üst kenarını katlanan yerin üzerine koyar. 
+3. Peçetenin yan kenarlarını birleştirir. 
+4. Çöp kutusunun yanına gider. 
+5. Peçeteyi açar. 
+6. Peçeteyi çöp kutusunun üzerinde çırpar. 
+
+Amaç 11. Kumaş peçeteyi katlar. (4 P)
+Davranışlar 
+1. Peçeteyi alır. 
+2. Peçeteyi masanın üzerine serer. 
+3. Peçeteyi eliyle düzeltir. 
+4. Peçetenin alt kenarını üst kenarın üzerine koyar. 
+5. Peçetenin katladığı kısmını eliyle düzeltir. 
+6. Peçetenin katladığı kenarını yana gelecek şekilde çevirir. 
+7. Peçetenin alt kenarını üst kenarının üzerine koyar. 
+8. Peçetenin katladığı kısmını eliyle düzeltir. 
+
+Amaç 12. Kaşık kullanarak yemek yer. (5 P)
+Davranışlar 
+1. Kaşığı alır. 
+2. Tabaktan kaşığa bir miktar yemek alır. 
+3. Kaşıktaki yemeği ağzına boşaltır. 
+4. Yiyeceği çiğner. 
+5. Yiyeceği yutar. 
+
+Amaç 13. Çatal kullanarak yemek yer. (5 P)
+Davranışlar 
+1. Çatalı alır. 
+2. Çatalı tabaktaki yiyeceğe batırır. 
+3. Çataldaki yiyeceği ağzına alır. 
+4. Yiyeceği çiğner. 
+5. Yiyeceği yutar. 
+
+Amaç 14. Çatal ve bıçağı birlikte kullanarak yemek yer. (5 P)
+Davranışlar 
+1. Bıçağı alır. 
+2. Çatalı alır. 
+3. Çatalı tabaktaki yiyeceğe batırır. 
+4. Bıçakla yiyeceği keser. 
+5. Çataldaki yiyeceği ağzına alır. 
+6. Yiyeceği çiğner. 
+7. Yiyeceği yutar. 
+
+Amaç 15. Getirdiği yiyeceği yemede kurallara uyar. (5 P)
+Davranışlar 
+1. Beslenme çantasını masanın üzerine koyar. 
+2. Çantasını açar. 
+3. Peçeteyi masaya serer. 
+4. Yiyecekleri peçetenin üzerine koyar. 
+5. Kaşık, çatal, bardak vb. araç gereçleri peçetenin üzerine koyar. 
+6. Yemeğini yer. 
+7. Araç gereçleri çantaya koyar. 
+8. Peçeteyi silkeler. 
+9. Peçeteyi katlar. 
+10. Peçeteyi çantaya koyar. 
+11. Çantayı kapatır. 
+
+Amaç 16. Peçete ile ağzını siler.(5 P)
+1.Peçeteyi eline alır
+2.Peçeteyi ağzına götürür.
+3.Peçeteyi sağa sola hareket ettirerek ağzını siler.
+
+Amaç 17. Yemekhanede yemek yemede izlenmesi gereken sıraya uyar. (5 P)
+Davranışlar 
+1. Yemek sırasına girer. 
+2. Tabldot tepsisini alır. 
+3. Su bardağını alır. 
+4. Kaşığı tepsideki yerine koyar. 
+5. Çatalı tepsideki yerine koyar. 
+6. Bıçağı tepsideki yerine koyar. 
+7. Peçeteyi tepsiye koyar. 
+8. Tepsiyle yemek servisi yapılan yere gider. 
+9. Yemekler dolduruluncaya kadar bekler. 
+10. Tepsiyi, yemek yiyeceği masaya koyar. 
+11. Sandalyeye oturur. 
+12. Yemeğini yer. 
+13. Yemeği bittikten sonra ağzını peçeteyle siler. 
+14. Sandalyeden kalkar. 
+15. Sandalyeyi yerine yerleştirir. 
+16. Tabldot tepsisini bulaşıkların konulduğu yere koyar. 
+
+Amaç 18. Yemek yerken kurallara uymaya özen gösterir. (4 P)
+Davranışlar 
+1. Yemeğini öncelik sırasına göre yer. 
+2. Ağzı kapalı olarak yemek yer. 
+3. Ağzındaki lokmayı yuttuktan sonra diğer lokmayı alır. 
+4. Yemeğini küçük lokmalar hâlinde yer. 
+5. Yemek yeme sırasında tabağına göre eğilir. 
+6. Ağzındaki lokmayı yuttuktan sonra konuşur. 
+7. Tabağındaki yemeği bitirir. 
+8. Yemek sırasında peçeteyle ağzını siler. 
+9. Yemeği bittikten sonra masadan kalkar. 
+10. Yemeğin türüne uygun çatal, kaşık vb. araç gereç kullanır. 
+11. Yemekte başkasına ait çatal, kaşık vb. araç gereci kullanmaz. 

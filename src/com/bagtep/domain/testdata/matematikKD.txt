@@ -1,0 +1,1271 @@
+﻿Genel Amaç-1. Varlıklar arasındaki temel ilişkileri kavrar. 
+
+Amaç 1. Eşleme çalışmaları yapar. (4 P)
+Davranışlar 
+1. Eş nesneyi, eş nesneyle eşler. 
+2. Eş nesneyi, eş nesne resmi ile eşler. 
+3. Aynı tip ve renkteki farklı şekiller arasından aynı şekilde olanı eşler. 
+4. Farklı tip ve renkteki farklı şekiller arasından aynı şekilde olanı eşler. 
+5. Eş nesne resmini, eş nesne resmiyle eşler. 
+6. Aynı sınıftan eş olmayan nesneleri eşler. 
+7. Aynı sınıftan eş olmayan resimleri eşler. 
+8. Aynı sınıftan nesnelerle eş olmayan resimlerini eşler.
+9. Nesneyi, nesnenin gölge resmiyle eşler.  
+10. Nesne resmini, nesnenin gölge resmiyle eşler. 
+
+Amaç 2. Şekil, zemin ilişkisi kurar. (3 P)
+Davranışlar 
+1. Tek parçalı yuvalı yapbozu takar. 
+2. İki parçalı yuvalı yapbozu takar.  
+3. Üç ve daha fazla parçalı yuvalı yapbozu takar.  
+
+Amaç 3. Parça, bütün ilişkisi kurar. (3 P)
+Davranışlar 
+1. İki parçalı yapbozu yapar. 
+2. Üç parçalı yapbozu yapar.  
+3. Dört ve daha fazla parçalı yapbozu yapar.  
+
+Amaç 4. Verilen örüntüyü tamamlar. (4 P)
+Davranışlar 
+1. İki farklı nesneyle oluşturulan örüntüyü tamamlar. 
+2. Üç farklı nesneyle oluşturulan örüntüyü tamamlar. 
+3. İki farklı şekil kullanılarak oluşturulan örüntüyü tamamlar. 
+4. Üç ve daha fazla şekil/rakam kullanılarak oluşturulan örüntüyü tamamlar. 
+
+Amaç 5. Varlıklar arasından "büyük" olan varlığı ayırt eder. (2 P)
+Davranışlar 
+1. Farklı büyüklükteki iki varlık arasından "büyük" olan varlığı gösterir. 
+2. Farklı büyüklükteki iki varlığı ifade eden resim kartlarından "büyük" olan varlığı ifade eden resim kartını gösterir. 
+3. Farklı büyüklükteki iki varlık veya varlık resmini ifade eden resim kartlarından "büyük" olan gösterildiğinde "büyük" olduğunu söyler. 
+
+Amaç 6. Varlıklar arasından "küçük" olan varlığı ayırt eder. (2 P)
+Davranışlar 
+1. Farklı büyüklükteki iki varlık arasından "küçük" olan varlığı gösterir. 
+2. Farklı büyüklükteki iki varlığı ifade eden resim kartlarından "küçük" olan varlığı ifade eden resim kartını gösterir. 
+3. Farklı büyüklükteki iki varlık veya varlık resmini ifade eden resim kartlarından "küçük" olan gösterildiğinde "küçük" olduğunu söyler. 
+
+Amaç 7. Varlıklar arasından "en büyük" olan varlığı ayırt eder. (1 P)
+Davranışlar 
+1. Farklı büyüklükteki üç varlık arasından "en büyük" olan varlığı gösterir. 
+2. Farklı büyüklükteki üç varlığı ifade eden resim kartlarından "en büyük" olan varlığı ifade eden resim kartını gösterir. 
+3. Farklı büyüklükteki üç varlık veya varlığı ifade eden resim kartlarından "en büyük" olan gösterildiğinde "en büyük" olduğunu söyler. 
+
+Amaç 8. Varlıklar arasından "en küçük" olan varlığı ayırt eder. (1 P)
+Davranışlar 
+1. Farklı büyüklükteki üç varlık arasından "en küçük" olan varlığı gösterir. 
+2. Farklı büyüklükteki üç varlığı ifade eden resim kartlarından "en küçük" olan varlığı ifade eden resim kartını gösterir. 
+3. Farklı büyüklükteki üç varlık veya varlığı ifade eden resim kartlarından "en küçük" olan gösterildiğinde "en küçük" olduğunu söyler. 
+
+Amaç 9. Varlıkları büyüklüklerine göre sıralar. (1 P)
+Davranışlar
+1. Farklı büyüklükteki üç varlığı büyükten küçüğe doğru sıraya koyar. 
+2. Farklı büyüklükteki üçten fazla varlığı büyükten küçüğe doğru sıraya koyar. 
+3. Farklı büyüklükteki üç varlığı küçükten büyüğe doğru sıraya koyar. 
+4. Farklı büyüklükteki üçten fazla varlığı küçükten büyüğe doğru sıraya koyar. 
+
+Amaç 10. Varlıklar arasından "uzun" olan varlığı ayırt eder. (2 P)
+Davranışlar
+1. Farklı uzunluktaki iki varlık arasından "uzun" olan varlığı gösterir. 
+2. Farklı uzunluktaki iki varlığı ifade eden resim kartlarından "uzun" olan varlığı ifade eden resim kartını gösterir. 
+3. Farklı uzunluktaki iki varlık veya varlığı ifade eden resim kartlarından "uzun" olan gösterildiğinde "uzun" olduğunu söyler. 
+
+Amaç 11. Varlıklar arasından "kısa" olan varlığı ayırt eder. (2 P)
+Davranışlar 
+1. Farklı uzunluktaki iki varlık arasından "kısa" olan varlığı gösterir. 
+2. Farklı uzunluktaki iki varlığı ifade eden resim kartlarından "kısa" olan varlığı ifade eden resim kartını gösterir. 
+3. Farklı uzunluktaki iki varlık veya varlığı ifade eden resim kartlarından "kısa" olan gösterildiğinde "kısa" olduğunu söyler. 
+
+Amaç 12. Varlıklar arasından "en uzun" olan varlığı ayırt eder. (1 P)
+Davranışlar 
+1. Farklı uzunluktaki üç varlık arasından "en uzun" olan varlığı gösterir. 
+2. Farklı uzunluktaki üç varlığı ifade eden resim kartlarından "en uzun" olan varlığı ifade eden resim kartını gösterir. 
+3. Farklı uzunluktaki üç varlık veya varlığı ifade eden resim kartlarından "en uzun" olan gösterildiğinde "en uzun" olduğunu söyler. 
+
+Amaç 13. Varlıklar arasından "en kısa" olan varlığı ayırt eder. (1 P)
+Davranışlar 
+1. Farklı uzunluktaki üç varlık arasından "en kısa" olan varlığı gösterir. 
+2. Farklı uzunluktaki üç varlığı ifade eden resim kartlarından "en kısa" olan varlığı ifade eden resim kartını gösterir. 
+3. Farklı uzunluktaki üç varlık veya varlığı ifade eden resim kartlarından "en kısa" olan gösterildiğinde "en kısa" olduğunu söyler. 
+
+Amaç 14. Varlıkları uzunluklarına göre sıralar. (1 P)
+Davranışlar 
+1. Farklı uzunluktaki üç varlığı uzundan kısaya doğru sıraya koyar. 
+2. Farklı uzunluktaki üçten fazla varlığı uzundan kısaya doğru sıraya koyar. 
+3. Farklı uzunluktaki üç varlığı kısadan uzuna doğru sıraya koyar. 
+4. Farklı uzunluktaki üçten fazla varlığı kısadan uzuna doğru sıraya koyar. 
+
+Amaç 15. Varlık grupları arasından "çok" olan varlık grubunu ayırt eder. (2 P)
+Davranışlar 
+1. Farklı miktardaki iki varlık grubu arasından "çok" olan varlık grubunu gösterir. 
+2. Farklı miktardaki iki varlık grubunu ifade eden resim kartlarından "çok “olan varlık grubunu ifade eden resim kartını gösterir. 
+3. Farklı miktardaki iki varlık grubu veya varlık grubunu ifade eden resim kartlarından "çok" olan gösterildiğinde "çok" olduğunu söyler. 
+
+Amaç 16. Varlık grupları arasından "az" olan varlık grubunu ayırt eder. (2 P)
+Davranışlar 
+1. Farklı miktardaki iki varlık grubu arasından "az" olan varlık grubunu gösterir. 
+2. Farklı miktardaki iki varlık grubunu ifade eden resim kartlarından "az" olan varlık grubunu ifade eden resim kartını gösterir. 
+3. Farklı miktardaki iki varlık grubu veya varlık grubunu ifade eden resim kartlarından "az" olan gösterildiğinde "az" olduğunu söyler. 
+
+Amaç 17. Varlık grupları arasından "en çok" olan varlık grubunu ayırt eder. (1 P)
+Davranışlar
+1. Farklı miktardaki üç varlık grubu arasından "en çok" olan varlık grubunu gösterir. 
+2. Farklı miktardaki üç varlık grubunu ifade eden resim kartlarından "en çok" olan varlık grubunu ifade eden resim kartını gösterir. 
+3. Farklı miktardaki üç varlık grubu veya varlık grubunu ifade eden resim kartlarından "en çok" olan gösterildiğinde "en çok" olduğunu söyler. 
+
+Amaç 18. Varlık grupları arasından "en az" olan varlık grubunu ayırt eder. (1 P)
+Davranışlar
+1. Farklı miktardaki üç varlık grubu arasından "en az" olan varlık grubunu gösterir. 
+2. Farklı miktardaki üç varlık grubunu ifade eden resim kartlarından "en az" olan varlık grubunu ifade eden resim kartını gösterir. 
+3. Farklı miktardaki üç varlık grubu veya varlık grubunu ifade eden resim kartlarından "en az"olan gösterildiğinde "en az" olduğunu söyler. 
+
+Amaç 19. Varlık gruplarını miktarlarına göre sıralar. (1 P)
+Davranışlar
+1. Farklı miktardaki üç varlık grubunu azdan çoğa doğru sıraya koyar. 
+2. Farklı miktardaki üçten fazla varlık grubunu azdan çoğa doğru sıraya koyar. 
+3. Farklı miktardaki üç varlık grubunu çoktan aza doğru sıraya koyar. 
+4. Farklı miktardaki üçten fazla varlık grubunu çoktan aza doğru sıraya koyar. 
+
+Amaç 20. Varlıklar arasından "ağır" olan varlığı ayırt eder. (2 P)
+Davranışlar
+1. Ağırlıkları farklı iki varlığı elle tartarak "ağır" olan varlığı gösterir. 
+2. Ağırlıkları farklı iki varlığı elle tartarak "ağır" olan varlığın "ağır" olduğunu söyler. 
+
+Amaç 21. Varlıklar arasından "hafif" olan varlığı ayırt eder. (2 P)
+Davranışlar
+1. Ağırlıkları farklı iki varlığı elle tartarak "hafif" olan varlığı gösterir. 
+2. Ağırlıkları farklı iki varlığı elle tartarak "hafif" olan varlığın "hafif" olduğunu söyler. 
+
+Amaç 22. Varlıklar arasından "en ağır" olan varlığı ayırt eder. (1 P)
+Davranışlar
+1. Ağırlıkları farklı üç varlığı elle tartarak "en ağır" olan varlığı gösterir. 
+2. Ağırlıkları farklı üç varlığı elle tartarak "en ağır" olan varlığın "en ağır" olduğunu söyler. 
+
+Amaç 23. Varlıklar arasından "en hafif" olan varlığı ayırt eder. (1 P)
+Davranışlar
+1. Ağırlıkları farklı üç varlığı elle tartarak "en hafif" olan varlığı gösterir. 
+2. Ağırlıkları farklı üç varlığı elle tartarak "en hafif" olan varlığın "en hafif" olduğunu söyler. 
+
+Amaç 24. Varlıkları ağırlıklarına göre sıralar. (1 P)
+Davranışlar 
+1. Ağırlıkları farklı üç varlığı elle tartarak en ağırdan en hafife doğru sıraya koyar. 
+2. Ağırlıkları farklı üçten fazla varlığı elle tartarak en ağırdan en hafife doğru sıraya koyar. 
+3. Ağırlıkları farklı üç varlığı elle tartarak en hafiften en ağıra doğru sıraya koyar. 
+4. Ağırlıkları farklı üçten fazla varlığı elle tartarak en hafiften en ağıra doğru sıraya koyar. 
+
+Amaç 25. Varlıklar arasından "kalın" olan varlığı ayırt eder. (2 P)
+Davranışlar 
+1. Farklı kalınlıktaki iki varlık arasından "kalın" olan varlığı gösterir. 
+2. Farklı kalınlıktaki iki varlığı ifade eden resim kartlarından "kalın" olan varlığı ifade eden resim kartını gösterir. 
+3. Farklı kalınlıktaki iki varlık veya varlığı ifade eden resim kartlarından "kalın" olan gösterildiğinde "kalın" olduğunu söyler. 
+
+Amaç 26. Varlıklar arasından "ince" olan varlığı ayırt eder. (2 P)
+Davranışlar 
+1. Farklı kalınlıktaki iki varlık arasından "ince" olan varlığı gösterir. 
+2. Farklı kalınlıktaki iki varlığı ifade eden resim kartlarından "ince" olan varlığı ifade eden resim kartını gösterir. 
+3. Farklı kalınlıktaki iki varlık veya varlığı ifade eden resim kartlarından "ince" olan gösterildiğinde "ince" olduğunu söyler. 
+
+Amaç 27. Varlıklar arasından "en kalın" olan varlığı ayırt eder. (1 P)
+Davranışlar 
+1. Farklı kalınlıktaki üç varlık arasından "en kalın" olan varlığı gösterir. 
+2. Farklı kalınlıktaki üç varlığı ifade eden resim kartlarından "en kalın" olan varlığı ifade eden resim kartını gösterir. 
+3. Farklı kalınlıktaki üç varlık veya varlığı ifade eden resim kartlarından "en kalın" olan gösterildiğinde "en kalın" olduğunu söyler. 
+
+Amaç 28. Varlıklar arasından "en ince" olan varlığı ayırt eder. (1 P)
+Davranışlar 
+1. Farklı kalınlıktaki üç varlık arasından "en ince" olan varlığı gösterir. 
+2. Farklı kalınlıktaki üç varlığı ifade eden resim kartlarından "en ince" olan varlığı ifade eden resim kartını gösterir. 
+3. Farklı kalınlıktaki üç varlık veya varlığı ifade eden resim kartlarından "en ince" olan gösterildiğinde "en ince" olduğunu söyler. 
+
+Amaç 29. Varlıkları kalınlıklarına göre sıralar. (1 P)
+Davranışlar 
+1. Farklı kalınlıktaki üç varlığı kalından inceye doğru sıraya koyar. 
+2. Farklı kalınlıktaki üçten fazla varlığı kalından inceye doğru sıraya koyar. 
+3. Farklı kalınlıktaki üç varlığı inceden kalına doğru sıraya koyar.  
+4. Farklı kalınlıktaki üçten fazla varlığı inceden kalına doğru sıraya koyar. 
+
+Amaç 30. Nesneleri “boş” olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. İki varlık arasından dolu olanı gösterir.
+2. İki varlık arasından dolu olan gösterildiğinde “dolu” olduğunu söyler. 
+3. İki resim kartından dolu olan varlığı ifade eden resim kartını gösterir. 
+4. Dolu olan varlığı ifade eden resim kartı gösterildiğinde “dolu” olduğunu söyler. 
+
+Amaç 31. Nesneleri “dolu” olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. İki varlık arasından boş olanı gösterir.
+2. İki varlık arasından boş olan gösterildiğinde “boş” olduğunu söyler. 
+3. İki resim kartından boş olan varlığı ifade eden resim kartını gösterir. 
+4. Boş olan varlığı ifade eden resim kartı gösterildiğinde “boş” olduğunu söyler. 
+
+Amaç 32. Varlıklar arasındaki benzer yönleri ayırt eder. (2 P)
+Davranışlar 
+1. Aralarında bir benzer yön bulunan iki varlığın benzer yönünü gösterir. 
+2. Aralarında bir benzer yön bulunan iki varlık resminin benzer yönünü gösterir. 
+3. Aralarında bir benzer yön bulunan iki varlık veya varlık resminin benzer yönlerini söyler. 
+4. Aralarında birden fazla benzer yön bulunan iki varlığın benzer yönlerini gösterir. 
+5. Aralarında birden fazla benzer yön bulunan iki varlık resminin benzer yönlerini gösterir. 
+6. Aralarında birden fazla benzer yön bulunan iki varlık veya varlık resminin benzer yönlerini söyler. 
+
+Amaç 33. Varlıklar arasındaki farklı yönleri ayırt eder. (2 P)
+Davranışlar 
+1. Aralarında bir farklı yön bulunan iki varlığın farklı yönünü gösterir. 
+2. Aralarında bir farklı yön bulunan iki varlık resminin farklı yönünü gösterir. 
+3. Aralarında bir farklı yön bulunan iki varlık veya varlık resminin farklı yönünü söyler 
+4. Aralarında birden fazla farklı yön bulunan iki varlığın farklı yönlerini gösterir. 
+5. Aralarında birden fazla farklı yön bulunan iki varlık resminin farklı yönlerini gösterir.	
+6. Aralarında birden fazla farklı yön bulunan iki varlık veya varlık resminin farklı yönlerini söyler. 
+
+Amaç 34. Varlıkları "uzakta" olma durumuna göre ayırt eder.  (2 P)
+Davranışlar
+1. Belirtilen bir varlığa göre, iki varlıktan "uzakta" olan varlığı gösterir. 
+2. Resim kartında belirtilen bir varlığa göre, iki varlıktan "uzakta" olan varlığı gösterir. 
+3. Belirtilen bir varlığa göre iki varlıktan veya resim kartında belirtilen bir varlığa göre iki varlıktan "uzakta" olan varlık gösterildiğinde "uzakta" olduğunu söyler. 
+
+Amaç 35. Varlıkları "yakında" olma durumuna göre ayırt eder.  (2 P)
+Davranışlar
+1. Belirtilen bir varlığa göre, iki varlıktan "yakında" olan varlığı gösterir. 
+2. Resim kartında belirtilen bir varlığa göre, iki varlıktan "yakında" olan varlığı gösterir. 
+3. Belirtilen bir varlığa göre, iki varlıktan veya resim kartında belirtilen bir varlığa göre iki varlıktan "yakında" olan varlık gösterildiğinde "yakında" olduğunu söyler. 
+
+Amaç 36. Varlıkları "en uzakta" olma durumuna göre ayırt eder.  (1 P)
+Davranışlar
+1. Belirtilen bir varlığa göre, üç varlıktan, "en uzakta" olan varlığı gösterir. 
+2. Resim kartında belirtilen bir varlığa göre, üç varlıktan "en uzakta" olan varlığı gösterir. 
+3. Belirtilen bir varlığa göre üç varlıktan veya resim kartında belirtilen bir varlığa göre, üç varlıktan "en uzakta" olan varlık gösterildiğinde "en uzakta" olduğunu söyler. 
+
+Amaç 37. Varlıkları "en yakında" olma durumuna göre ayırt eder.  (1 P)
+Davranışlar
+1. Belirtilen bir varlığa göre, üç varlıktan "en yakında" olan varlığı gösterir. 
+2. Resim kartında belirtilen bir varlığa göre, üç varlıktan "en yakında" olan varlığı gösterir. 
+3. Belirtilen bir varlığa göre üç varlıktan veya resim kartında belirtilen bir varlığa göre, üç varlıktan "en yakında" olan varlık gösterildiğinde "en yakında" olduğunu söyler. 
+
+Amaç 38. Varlıkları "önde" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. Belirtilen noktadan bakıldığında, iki varlık arasından "önde" olan varlığı gösterir. 
+2. Belirtilen noktadan bakıldığında, iki varlık arasından önde olan varlığı ifade eden resim kartından "önde" olan varlığı gösterir. 
+3. Belirtilen noktadan bakıldığında, iki varlık arasından veya iki varlığı ifade eden resim kartından "önde" olan varlık gösterildiğinde "önde" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın "önüne" koyar. 
+
+Amaç 39. Varlıkları "arkada" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. Belirtilen noktadan bakıldığında iki varlık arasından "arkada" olan varlığı gösterir. 
+2. Belirtilen noktadan bakıldığında iki varlığı ifade eden resim kartından "arkada" olan varlığı gösterir. 
+3. Belirtilen noktadan bakıldığında iki varlık arasından veya iki varlığı ifade eden resim kartından "arkada" olan varlık gösterildiğinde "arkada" olduğunu söyler. 
+4. Söylendiğinde bir varlığı, diğer varlığın "arkasına" koyar. 
+
+Amaç 40. Varlıkları "en önde" olma durumuna göre ayırt eder. (1 P)
+Davranışlar
+1. Belirtilen noktadan bakıldığında üç varlık arasından "en önde" olan varlığı gösterir. 
+2. Belirtilen noktadan bakıldığında üç varlığı ifade eden resim kartından "en önde" olan varlığı gösterir. 
+3. Belirtilen noktadan bakıldığında üç varlık arasından veya üç varlığı ifade eden resim kartından "en önde" olan varlık gösterildiğinde "en önde olduğunu söyler. 
+
+Amaç 41. Varlıkları "en arkada" olma durumuna göre ayırt eder. (1 P)
+Davranışlar
+1. Belirtilen noktadan bakıldığında üç varlık arasından "en arkada" olan varlığı gösterir. 
+2. Belirtilen noktadan bakıldığında üç varlığı ifade eden resim kartından "en arkada" olan varlığı gösterir. 
+3. Belirtilen noktadan bakıldığında üç varlık arasından veya üç varlığı ifade eden resim kartından "en arkada" olan varlık gösterildiğinde "en arkada" olduğunu söyler. 
+
+Amaç 42. Nesneleri "başta" olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. Sıralı üç varlık arasından "başta" olanı gösterir.
+2. Sıralı üç varlık arasından "başta"  olan varlık gösterildiğinde "başta" olduğunu söyler. 
+3. Sıralı üç varlık arasından "başta"  olan varlığı resim kartından gösterir. 
+4. Sıralı üç varlık arasından, başta olan varlık, resim kartından gösterildiğinde "başta" olduğunu söyler. 
+5. Söylendiğinde bir varlığı sıralı iki varlığın başına koyar. 
+
+Amaç 43. Nesneleri "sonda" olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. Sıralı üç varlık arasından "sonda" olanı gösterir.
+2. Sıralı üç varlık arasından "sonda" olan varlık gösterildiğinde "sonda" olduğunu söyler. 
+3. Sıralı üç varlık arasından "sonda" olan varlığı resim kartından gösterir. 
+4. Sıralı üç varlık arasından "sonda" olan varlık, resim kartından gösterildiğinde "sonda" olduğunu söyler. 
+5. Söylendiğinde bir varlığı sıralı iki varlığın sonuna koyar. 
+Amaç 44. Nesneleri "ortada" olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. Sıralı üç varlık arasından "ortada" olanı gösterir.
+2. Sıralı üç varlık arasından "ortada" olan varlık gösterildiğinde "ortada" olduğunu söyler. 
+3. Sıralı üç varlık arasından "ortada" olan varlığı resim kartından gösterir. 
+4. Sıralı üç varlık arasından "ortada" olan varlık, resim kartından gösterildiğinde "ortada" olduğunu söyler. 
+5. Söylendiğinde bir varlığı iki varlığın ortasına koyar. 
+
+Amaç 45. Varlıkları "yüksekte" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. İki varlık arasından "yüksek" olan varlığı gösterir. 
+2. Resim kartında, iki varlık arasından "yüksekte" olan varlığı gösterir. 
+3. İki varlık arasından veya resim kartında iki varlık arasından "yüksekte" olan varlık gösterildiğinde "yüksekte" olduğunu söyler. 
+
+Amaç 46. Varlıkları "alçakta" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. İki varlık arasından "alçakta" olan varlığı gösterir. 
+2. Resim kartında, iki varlık arasından "alçakta" olan varlığı gösterir. 
+3. İki varlık arasından veya resim kartında, iki varlık arasından "alçakta" olan varlık gösterildiğinde "alçakta" olduğunu söyler. 
+
+Amaç 47. Varlıkları "en yüksekte" olma durumuna göre ayırt eder. (1 P)
+Davranışlar 
+1. Üç varlık arasından "en yüksekte" olan varlığı gösterir. 
+2. Resim kartında üç varlık arasından "en yüksekte" olan varlığı gösterir. 
+3. Üç varlık veya resim kartında, üç varlık arasından "en yüksekte" olan varlık gösterildiğinde "en yüksekte" olduğunu söyler. 
+
+Amaç 48. Varlıkları "en alçakta" olma durumuna göre ayırt eder. (1 P)
+Davranışlar 
+1. Üç varlık arasından "en alçakta" olan varlığı gösterir. 
+2. Resim kartında üç varlık arasından "en alçakta" olan varlığı gösterir. 
+3. Üç varlık veya resim kartında üç varlık arasından "en alçakta" olan varlık gösterildiğinde "en alçakta" olduğunu söyler. 
+
+Amaç 49. Varlıkları bir varlığın "içinde" olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. Bir varlığın "içinde" olan varlığı gösterir. 
+2. Resim kartında bir varlığın "içinde" olan varlığı gösterir. 
+3. Bir varlığın içinde olan varlık veya resim kartında bir varlığın "içinde" olan varlık gösterildiğinde "içinde" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın içine koyar. 
+
+Amaç 50. Varlıkları bir varlığın "dışında" olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. Bir varlığın "dışında" olan varlığı gösterir. 
+2. Resim kartında bir varlığın "dışında" olan varlığı gösterir. 
+3. Bir varlığın "dışında" olan varlık veya resim kartında bir varlığın dışında olan varlık gösterildiğinde "dışında" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın dışına koyar. 
+
+Amaç 51. Varlıkları bir varlığın "üzerinde" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. Bir varlığın "üzerinde" olan varlığı gösterir. 
+2. Resim kartında bir varlığın "üzerinde" olan varlığı gösterir. 
+3. Bir varlığın "üzerinde" olan varlık veya resim kartında bir varlığın "üzerinde" olan varlık gösterildiğinde "üzerinde" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın üzerine koyar. 
+
+Amaç 52. Varlıkları bir varlığın "altında" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. Bir varlığın "altında" olan varlığı gösterir. 
+2. Resim kartında bir varlığın "altında" olan varlığı gösterir.  
+3. Bir varlığın "altında" olan varlık veya resim kartında bir varlığın "altında" olan varlık gösterildiğinde "altında" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın altına koyar. 
+
+Amaç 53. Varlıkları bir varlığın "sağında" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. Üç varlık arasından, ortadaki varlığa göre "sağda" olan varlığı gösterir. 
+2. Üç varlığı ifade eden resim kartından ortadaki varlığa göre "sağda" olan varlığı gösterir.  
+3. Üç varlık arasından veya üç varlığı ifade eden resim kartından, ortadaki varlığa göre  "sağda" olan varlık gösterildiğinde "sağda" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın sağına koyar. 
+
+Amaç 54. Varlıkları bir varlığın "solunda" olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. Üç varlık arasından, ortadaki varlığa göre "solda" olan varlığı gösterir. 
+2. Üç varlığı ifade eden resim kartından ortadaki varlığa göre "solda" olan varlık gösterildiğinde "solda" olduğunu söyler. 
+3. Üç varlık arasından veya üç varlığı ifade eden resim kartından, ortadaki varlığa göre      "solda" olan varlık gösterildiğinde "solda" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın "soluna" koyar. 
+
+Amaç 55. Varlıkları "arada" olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. Üç varlıktan "arada" olan varlığı gösterir. 
+2. Üç varlığı ifade eden resim kartından "arada" olan varlığı gösterir. 
+3. Üç varlıktan veya üç varlığı ifade eden resim kartından "arada" olan varlık gösterildiğinde "arada" olduğunu söyler. 
+4. Söylendiğinde bir varlığı iki varlığın "arasına" koyar.  
+
+Amaç 56. "Bütün" olan varlığı ayırt eder. (2 P)
+Davranışlar 
+1. İki varlık arasından "bütün" olan varlığı gösterir. 
+2. İki varlığı ifade eden resim kartlarından "bütün" olan varlığı ifade eden resim kartını gösterir. 
+3. İki varlık veya iki varlığı ifade eden resim kartlarından "bütün" olan varlık gösterildiğinde "bütün" olduğunu söyler. 
+4. Bir varlığın kendisinin "bütün" olduğunu söyler. 
+
+Amaç 57. "Yarım" olan varlığı ayırt eder. (2 P)
+Davranışlar 
+1. İki varlık arasından "yarım" olan varlığı gösterir. 
+2. İki varlığı ifade eden resim kartlarından "yarım" olan varlığı ifade eden resim kartını gösterir. 
+3. İki varlık veya iki varlığı ifade eden resim kartlarından "yarım" olan varlık gösterildiğinde "yarım" olduğunu söyler. 
+4. İki eş parçaya bölünen bir varlığın, her parçasının "yarım" olduğunu söyler. 
+5. İki eş yarımdan bir bütün elde eder. 
+
+Amaç 58. "Çeyrek" olan varlığı ayırt eder. (1 P)
+Davranışlar
+1. İki varlık arasından "çeyrek" olan varlığı gösterir. 
+2. İki varlığı ifade eden resim kartlarından "çeyrek" olan varlığı ifade eden resim kartını gösterir. 
+3. İki varlık veya iki varlığı ifade eden resim kartlarından "çeyrek" olan varlık gösterildiğinde "çeyrek" olduğunu söyler. 
+4. Dört eş parçaya bölünen bir varlığın, her parçasının "çeyrek" olduğunu söyler. 
+5. İki eş çeyrekten bir yarım elde eder. 
+
+Genel Amaç-2.Zaman, yer ve sayılar arasındaki ilişkileri kavrar. 
+
+Amaç 34. Varlıkları "uzakta" olma durumuna göre ayırt eder.  (2 P)
+Davranışlar
+1. Belirtilen bir varlığa göre, iki varlıktan "uzakta" olan varlığı gösterir. 
+2. Resim kartında belirtilen bir varlığa göre, iki varlıktan "uzakta" olan varlığı gösterir. 
+3. Belirtilen bir varlığa göre iki varlıktan veya resim kartında belirtilen bir varlığa göre iki varlıktan "uzakta" olan varlık gösterildiğinde "uzakta" olduğunu söyler. 
+
+Amaç 35. Varlıkları "yakında" olma durumuna göre ayırt eder.  (2 P)
+Davranışlar
+1. Belirtilen bir varlığa göre, iki varlıktan "yakında" olan varlığı gösterir. 
+2. Resim kartında belirtilen bir varlığa göre, iki varlıktan "yakında" olan varlığı gösterir. 
+3. Belirtilen bir varlığa göre, iki varlıktan veya resim kartında belirtilen bir varlığa göre iki varlıktan "yakında" olan varlık gösterildiğinde "yakında" olduğunu söyler. 
+
+Amaç 36. Varlıkları "en uzakta" olma durumuna göre ayırt eder.  (2 P)
+Davranışlar
+1. Belirtilen bir varlığa göre, üç varlıktan, "en uzakta" olan varlığı gösterir. 
+2. Resim kartında belirtilen bir varlığa göre, üç varlıktan "en uzakta" olan varlığı gösterir. 
+3. Belirtilen bir varlığa göre üç varlıktan veya resim kartında belirtilen bir varlığa göre, üç varlıktan "en uzakta" olan varlık gösterildiğinde "en uzakta" olduğunu söyler. 
+
+Amaç 37. Varlıkları "en yakında" olma durumuna göre ayırt eder.  (2 P)
+Davranışlar
+1. Belirtilen bir varlığa göre, üç varlıktan "en yakında" olan varlığı gösterir. 
+2. Resim kartında belirtilen bir varlığa göre, üç varlıktan "en yakında" olan varlığı gösterir. 
+3. Belirtilen bir varlığa göre üç varlıktan veya resim kartında belirtilen bir varlığa göre, üç varlıktan "en yakında" olan varlık gösterildiğinde "en yakında" olduğunu söyler. 
+
+Amaç 38. Varlıkları "önde" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. Belirtilen noktadan bakıldığında, iki varlık arasından "önde" olan varlığı gösterir. 
+2. Belirtilen noktadan bakıldığında, iki varlık arasından önde olan varlığı ifade eden resim kartından "önde" olan varlığı gösterir. 
+3. Belirtilen noktadan bakıldığında, iki varlık arasından veya iki varlığı ifade eden resim kartından "önde" olan varlık gösterildiğinde "önde" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın "önüne" koyar. 
+
+Amaç 39. Varlıkları "arkada" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. Belirtilen noktadan bakıldığında iki varlık arasından "arkada" olan varlığı gösterir. 
+2. Belirtilen noktadan bakıldığında iki varlığı ifade eden resim kartından "arkada" olan varlığı gösterir. 
+3. Belirtilen noktadan bakıldığında iki varlık arasından veya iki varlığı ifade eden resim kartından "arkada" olan varlık gösterildiğinde "arkada" olduğunu söyler. 
+4. Söylendiğinde bir varlığı, diğer varlığın "arkasına" koyar. 
+
+Amaç 40. Varlıkları "en önde" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. Belirtilen noktadan bakıldığında üç varlık arasından "en önde" olan varlığı gösterir. 
+2. Belirtilen noktadan bakıldığında üç varlığı ifade eden resim kartından "en önde" olan varlığı gösterir. 
+3. Belirtilen noktadan bakıldığında üç varlık arasından veya üç varlığı ifade eden resim kartından "en önde" olan varlık gösterildiğinde "en önde olduğunu söyler. 
+
+Amaç 41. Varlıkları "en arkada" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. Belirtilen noktadan bakıldığında üç varlık arasından "en arkada" olan varlığı gösterir. 
+2. Belirtilen noktadan bakıldığında üç varlığı ifade eden resim kartından "en arkada" olan varlığı gösterir. 
+3. Belirtilen noktadan bakıldığında üç varlık arasından veya üç varlığı ifade eden resim kartından "en arkada" olan varlık gösterildiğinde "en arkada" olduğunu söyler. 
+
+Amaç 42. Nesneleri "başta" olma durumuna göre ayırt eder. (3 P)
+Davranışlar 
+1. Sıralı üç varlık arasından "başta" olanı gösterir.
+2. Sıralı üç varlık arasından "başta"  olan varlık gösterildiğinde "başta" olduğunu söyler. 
+3. Sıralı üç varlık arasından "başta"  olan varlığı resim kartından gösterir. 
+4. Sıralı üç varlık arasından, başta olan varlık, resim kartından gösterildiğinde "başta" olduğunu söyler. 
+5. Söylendiğinde bir varlığı sıralı iki varlığın başına koyar. 
+
+Amaç 43. Nesneleri "sonda" olma durumuna göre ayırt eder. (3 P)
+Davranışlar 
+1. Sıralı üç varlık arasından "sonda" olanı gösterir.
+2. Sıralı üç varlık arasından "sonda" olan varlık gösterildiğinde "sonda" olduğunu söyler. 
+3. Sıralı üç varlık arasından "sonda" olan varlığı resim kartından gösterir. 
+4. Sıralı üç varlık arasından "sonda" olan varlık, resim kartından gösterildiğinde "sonda" olduğunu söyler. 
+5. Söylendiğinde bir varlığı sıralı iki varlığın sonuna koyar. 
+Amaç 44. Nesneleri "ortada" olma durumuna göre ayırt eder. (3 P)
+Davranışlar 
+1. Sıralı üç varlık arasından "ortada" olanı gösterir.
+2. Sıralı üç varlık arasından "ortada" olan varlık gösterildiğinde "ortada" olduğunu söyler. 
+3. Sıralı üç varlık arasından "ortada" olan varlığı resim kartından gösterir. 
+4. Sıralı üç varlık arasından "ortada" olan varlık, resim kartından gösterildiğinde "ortada"     olduğunu söyler. 
+5. Söylendiğinde bir varlığı iki varlığın ortasına koyar. 
+
+Amaç 45. Varlıkları "yüksekte" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. İki varlık arasından "yüksek" olan varlığı gösterir. 
+2. Resim kartında, iki varlık arasından "yüksekte" olan varlığı gösterir. 
+3. İki varlık arasından veya resim kartında iki varlık arasından "yüksekte" olan varlık gösterildiğinde "yüksekte" olduğunu söyler. 
+
+Amaç 46. Varlıkları "alçakta" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. İki varlık arasından "alçakta" olan varlığı gösterir. 
+2. Resim kartında, iki varlık arasından "alçakta" olan varlığı gösterir. 
+3. İki varlık arasından veya resim kartında, iki varlık arasından "alçakta" olan varlık gösterildiğinde "alçakta" olduğunu söyler. 
+
+Amaç 47. Varlıkları "en yüksekte" olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. Üç varlık arasından "en yüksekte" olan varlığı gösterir. 
+2. Resim kartında üç varlık arasından "en yüksekte" olan varlığı gösterir. 
+3. Üç varlık veya resim kartında, üç varlık arasından "en yüksekte" olan varlık gösterildiğinde "en yüksekte" olduğunu söyler. 
+
+Amaç 48. Varlıkları "en alçakta" olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. Üç varlık arasından "en alçakta" olan varlığı gösterir. 
+2. Resim kartında üç varlık arasından "en alçakta" olan varlığı gösterir. 
+3. Üç varlık veya resim kartında üç varlık arasından "en alçakta" olan varlık gösterildiğinde "en alçakta" olduğunu söyler. 
+
+Amaç 49. Varlıkları bir varlığın "içinde" olma durumuna göre ayırt eder. (3 P)
+Davranışlar 
+1. Bir varlığın "içinde" olan varlığı gösterir. 
+2. Resim kartında bir varlığın "içinde" olan varlığı gösterir. 
+3. Bir varlığın içinde olan varlık veya resim kartında bir varlığın "içinde" olan varlık gösterildiğinde "içinde" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın içine koyar. 
+
+Amaç 50. Varlıkları bir varlığın "dışında" olma durumuna göre ayırt eder. (3 P)
+Davranışlar 
+1. Bir varlığın "dışında" olan varlığı gösterir. 
+2. Resim kartında bir varlığın "dışında" olan varlığı gösterir. 
+3. Bir varlığın "dışında" olan varlık veya resim kartında bir varlığın dışında olan varlık gösterildiğinde "dışında" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın dışına koyar. 
+
+Amaç 51. Varlıkları bir varlığın "üzerinde" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. Bir varlığın "üzerinde" olan varlığı gösterir. 
+2. Resim kartında bir varlığın "üzerinde" olan varlığı gösterir. 
+3. Bir varlığın "üzerinde" olan varlık veya resim kartında bir varlığın "üzerinde" olan varlık gösterildiğinde "üzerinde" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın üzerine koyar. 
+
+Amaç 52. Varlıkları bir varlığın "altında" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. Bir varlığın "altında" olan varlığı gösterir. 
+2. Resim kartında bir varlığın "altında" olan varlığı gösterir.  
+3. Bir varlığın "altında" olan varlık veya resim kartında bir varlığın "altında" olan varlık gösterildiğinde "altında" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın altına koyar. 
+
+Amaç 53. Varlıkları bir varlığın "sağında" olma durumuna göre ayırt eder. (2 P)
+Davranışlar
+1. Üç varlık arasından, ortadaki varlığa göre "sağda" olan varlığı gösterir. 
+2. Üç varlığı ifade eden resim kartından ortadaki varlığa göre "sağda" olan varlığı gösterir.  
+3. Üç varlık arasından veya üç varlığı ifade eden resim kartından, ortadaki varlığa göre "sağda" olan varlık gösterildiğinde "sağda" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın sağına koyar. 
+
+Amaç 54. Varlıkları bir varlığın "solunda" olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. Üç varlık arasından, ortadaki varlığa göre "solda" olan varlığı gösterir. 
+2. Üç varlığı ifade eden resim kartından ortadaki varlığa göre "solda" olan varlık gösterildiğinde "solda" olduğunu söyler. 
+3. Üç varlık arasından veya üç varlığı ifade eden resim kartından, ortadaki varlığa göre "solda" olan varlık gösterildiğinde "solda" olduğunu söyler. 
+4. Söylendiğinde bir varlığı diğer varlığın "soluna" koyar. 
+
+Amaç 55. Varlıkları "arada" olma durumuna göre ayırt eder. (2 P)
+Davranışlar 
+1. Üç varlıktan "arada" olan varlığı gösterir. 
+2. Üç varlığı ifade eden resim kartından "arada" olan varlığı gösterir. 
+3. Üç varlıktan veya üç varlığı ifade eden resim kartından "arada" olan varlık gösterildiğinde "arada" olduğunu söyler. 
+4. Söylendiğinde bir varlığı iki varlığın "arasına" koyar.  
+
+Amaç:65. Kümeyi bilir.(2 P)
+Davranışlar
+1. Belirtilen varlıklar topluluğundan oluşan kümeyi gösterir. 
+2. Kümeyi oluşturan varlıkların adını söyler. 
+3. Varlıkların bir araya gelerek oluşturduğu topluluğa "küme" denildiğini söyler. 
+4. Kümeyi oluşturan varlıkların kümenin elemanı olduğunu söyler. 
+5. Bir kümenin eleman sayısını söyler. 
+6. Boş kümeyi gösterir. 
+7. Elemanı olmayan kümenin "boş küme" olduğunu söyler. 
+
+Amaç 66. Kümeyi tanır. (2 P)
+Davranışlar
+1. Verilen varlıklardan belirtilen varlıklarla bir küme oluşturur. 
+2. Oluşturduğu kümedeki varlıkların adını söyler. 
+3. Oluşturduğu kümenin eleman sayısını söyler.
+4. Elemanları verilen bir kümeyi şemayla gösterir. 
+5. Boş kümeyi şemayla gösterir. 
+
+Amaç 67. Kümeler arasındaki ilişkileri tanır. (2 P)
+Davranışlar: 
+1. Elemanları ve eleman sayıları aynı olan iki kümenin elemanlarını bire bir eşler.  
+2. Eleman sayıları aynı, elemanları farklı bir kümenin elemanlarını bire bir eşler. 
+3. Eleman sayıları faklı, elemanları aynı iki kümenin elemanlarını bire bir eşler. 
+4. Elemanları ve eleman sayıları farklı iki kümenin elemanlarını bire bir eşler. 
+5. Verilen kümeler arasından, elemanları ve eleman sayıları aynı olan iki kümeyi gösterir. 
+6. Verilen kümeler arasından elemanları farklı, eleman sayıları aynı olan iki kümeyi gösterir. 
+7. Eleman sayıları farklı iki kümeden, eleman sayısı fazla olan kümeyi gösterir. 
+
+Amaç:68. Kümeler arasındaki denklik ilişkisini kavrar.(2 P)
+Davranışlar 
+1. Eşlediği iki kümenin denk küme olduğunu söyler. 
+2. Verilenler arasından denk kümeyi gösterir. 
+3. Verilen bir kümeye denk küme oluşturur. 
+
+Amaç 69. Kümeler arasındaki eşitlik ilişkisini kavrar. (2 P)
+Davranışlar 
+1. Eşlediği iki kümenin eşit küme olduğunu söyler. 
+2. Verilenler arasından eşit kümeyi gösterir. 
+3. Verilen bir kümeye eşit küme oluşturur. 
+
+Amaç 70. Nesnelerden/resimlerden küme oluşturur.   (2 P)
+Davranışlar 
+1. Nesneleri eşit gruplara ayırır.
+2. Verilen iki gruptaki nesne sayısının birbirine eşit olup olmadığını ayırt eder. 
+3. Söylenen sayıda nesneyi dokunarak sayarak gruplandırır. 
+4. Söylenen sayıda nesne resmini dokunarak sayarak gruplandırır. 
+
+Amaç 71. “1, 2, 3, 4, 5, 6, 7, 8, 9” doğal sayılarını tanır. (4 P)
+Davranışlar 
+1. Farklı sayıda nesnelerden oluşan kümeler içinden 1 (2, 3, 4, 5, 6, 7, 8, 9) tane nesne olanı gösterir. 
+2. 1 (2, 3, 4, 5, 6, ,8, 9) tane nesnesi olan küme gösterildiğinde nesne sayısının 1 (2, 3, 4, 5, 6, 7, 8, 9) tane olduğunu söyler. 
+3. Farklı sayıda nesnelerden oluşan kümeleri ifade eden resim kartları arasından 1 (2, 3, 4, 5, 6, 7, 8, 9) tane nesnesi olan resim kartını gösterir. 
+4. 1 (2, 3, 4, 5, 6, 7, 8, 9) tane nesneyi ifade eden resim kartı gösterildiğinde nesne sayısının 1 (2, 3, 4, 5, 6, 7, 8, 9) tane olduğunu söyler. 
+5. Söylendiğinde nesne kümesi içinden 1 (2, 3, 4, 5, 6, 7, 8, 9) nesne alır. 
+6. Sayı sembolü 1 (2, 3, 4, 5, 6, 7, 8, 9) gösterildiğinde farklı sayıda nesnelerden oluşan kümeler içinden, sayı sembolü miktarı kadar nesneden oluşan kümeyi gösterir. 
+7. Sayı sembolü 1 (2, 3, 4, 5, 6, 7, 8, 9) gösterildiğinde farklı sayıda nesnelerden oluşan kümeleri ifade eden resim kartları içinden, sayı sembolü miktarını ifade eden resim kartını gösterir. 
+8. Gösterilen nesne kümesindeki nesne sayısını ifade eden sayı sembolünü gösterir. 
+9. Nesne kümesini ifade eden resim kartı gösterildiğinde karşılığı olan sayı sembolünü gösterir. 
+10. Sayı sembolü gösterildiğinde nesne kümesi içinden gösterilen sayı sembolü miktarı kadar nesne alır. 
+11. Sayı sembollerini ifade eden kartlar arasından söylenen sayı sembolünü gösterir. 
+12. Gösterilen sayı sembolünün kaç olduğunu söyler. 
+
+Amaç 72. Rakamları yazar. (4 P)
+Davranışlar 
+1. Rakamları şekline ve yazılış yönlerine uygun olarak havada parmakla yazar.
+2. Rakamları şekline ve yazılış yönlerine uygun olarak sıra üzerine parmakla yazar. 
+3. Rakamları şekline ve yazılış yönlerine uygun olarak çöp, fasulye vb. araçlarla yazar. 
+4. Yazılı verilmiş rakamların üzerinden çizer. 
+5. Kesik çizgilerle verilmiş rakamların üzerinden çizer. 
+6. Satır aralığına bakarak rakamları yazar. 
+7. Söylenen rakamı satır aralığına yazar. 
+8. Söylenen sayıyı rakamla yazar. 
+9. Söylenen sayıyı yazıyla yazar. 
+
+Amaç 73. "0" doğal sayısını tanır.  (2 P)
+Davranışlar 
+1. Verilen kümeler arasından elemanı olmayan kümeyi gösterir. 
+2. Boş kümenin eleman sayısının 0 (sıfır) olduğunu söyler. 
+3. Boş kümenin eleman sayısını rakamla yazar. 
+
+Amaç 74. İki basamaklı doğal sayıları tanır. (2 P)
+Davranışlar 
+1. Doğal sayı kartları içinden, gösterilen iki basamaklı doğal sayının aynısını gösterir.
+2. Doğal sayı kartları içinden, söylenen iki basamaklı doğal sayıyı gösterir. 
+3. Gösterilen iki basamaklı doğal sayısının kaç olduğunu söyler. 
+4. Verilen iki basamaklı sayıdaki onlar ve birler basamağını gösterir. 
+5. Verilen iki basamaklı sayıda gösterilen basamağın onlar/birler basamağı olduğunu söyler. 
+6. Verilen iki basamaklı sayının onluk ve birliklerini ayrılmış hâlini ifade eden resim kartını gösterir. 
+7. Verilen iki basamaklı sayıyı gerçek nesneleri kullanarak onluk ve birliklerine ayırır. 
+8. Verilen iki basamaklı sayının kaç onluk ve birlikten oluştuğunu söyler
+9. İki basamaklı bir doğal sayıyı onluk ve birliklerine ayırır. 
+10. İki basamaklı bir doğal sayıdaki onlukları ve birlikleri gösterir. 
+11. Söylenen iki basamaklı doğal sayıyı rakamla yazar. 
+12. Rakamla yazılı iki basamaklı doğal sayıyı yazıyla yazar. 
+13. İki basamaklı bir doğal sayıdan önce ve sonra gelen sayıyı söyler.
+Amaç 75. Üç basamaklı doğal sayıları tanır. (2 P)
+Davranışlar 
+1. Doğal sayı kartları içinden, gösterilen üç basamaklı doğal sayının aynısını gösterir.
+2. Doğal sayı kartları içinden, söylenen üç basamaklı doğal sayıyı gösterir. 
+3. Gösterilen üç basamaklı doğal sayının kaç olduğunu söyler. 
+4. Verilen üç basamaklı sayıdaki yüzler, onlar ve birler basamağını gösterir. 
+5. Verilen üç basamaklı sayıda gösterilen basamağın yüzler/onlar/birler basamağı olduğunu söyler. 
+6. Verilen üç basamaklı sayının yüzlük, onluk ve birliklerine ayrılmış hâlini ifade eden resim kartını gösterir. 
+7. Verilen üç basamaklı sayıyı gerçek nesneleri kullanarak yüzlük, onluk ve birliklerine ayırır. 
+8. Verilen üç basamaklı sayının kaç yüzlük, onluk ve birlikten oluştuğunu söyler. 
+9. Verilen üç basamaklı sayının kaç yüzlük, onluk ve birlikten oluştuğunu yazar. 
+10. Üç basamaklı bir doğal sayıyı yüzlük, onluk ve birliklerine ayırır. 
+11. Üç basamaklı bir doğal sayıdaki yüzlük, onluk ve birlikleri gösterir. 
+12. Söylenen üç basamaklı doğal sayıyı rakamla yazar. 
+13. Rakamla yazılı üç basamaklı doğal sayıyı yazıyla yazar. 
+14. Üç basamaklı bir doğal sayıdan önce ve sonra gelen sayıyı söyler. 
+
+Amaç 76. Dört ve daha fazla basamaklı doğal sayıları tanır. (2 P)
+Davranışlar 
+1. Doğal sayı kartları içinden, gösterilen dört (beş, altı…) basamaklı doğal sayının aynısını gösterir.
+2. Doğal sayı kartları içinden, söylenen dört(beş, altı…)  basamaklı doğal sayıyı gösterir. 
+3. Gösterilen dört(beş, altı…)  basamaklı doğal sayının kaç olduğunu söyler. 
+4. Verilen dört (beş, altı, ...) basamaklı doğal sayıdaki istenilen basamağı gösterir. 
+5. Dört (beş, altı...) basamaklı bir doğal sayının belirtilen basamaklarındaki rakamların sayı değerlerini söyler.  
+6. Dört (beş, altı...) basamaklı bir doğal sayının belirtilen basamaklarındaki rakamların basamak değerlerini söyler. 
+7. Verilen dört (beş, altı, ...) basamaklı doğal sayının basamaklarındaki rakamların basamak değerlerini yazar. 
+8. Söylenen dört basamaklı doğal sayıyı rakamla yazar. 
+9. Rakamla yazılı dört basamaklı doğal sayıyı yazıyla yazar. 
+10. Dört(beş, altı…) basamaklı bir doğal sayıdan önce ve sonra gelen sayıyı söyler. 
+
+Amaç 77. Doğal sayılar arasındaki büyüklük/küçüklük ilişkisini ayırt eder. (3 P)
+Davranışlar 
+1. Bir basamaklı iki doğal sayıdan büyük/küçük olanı gösterir.
+2. Bir basamaklı üç doğal sayıyı küçükten büyüğe doğru sıraya koyar. 
+3. Bir basamaklı üç doğal sayıyı büyükten küçüğe doğru sıraya koyar. 
+4. İki basamaklı iki doğal sayıdan büyük ve küçük olanı gösterir. 
+5. İki basamaklı üç doğal sayıyı küçükten büyüğe doğru sıraya koyar. 
+6. İki basamaklı üç doğal sayıyı büyükten küçüğe doğru sıraya koyar. 
+7. Üç (dört, beş…) basamaklı iki doğal sayıdan büyük ve küçük olanı gösterir. 
+8. Üç (dört, beş…) basamaklı üç doğal sayıyı küçükten büyüğe doğru sıraya koyar. 
+9. Üç (dört, beş…) basamaklı üç doğal sayıyı büyükten küçüğe doğru sıraya koyar. 
+
+Amaç 78. Sıra bildiren sayıları ayırt eder. (3 P)
+Davranışlar 
+1. Sayıların sağına konulan noktanın sıra bildirdiğini söyler.
+2. Sıra bildiren bir sayıyı okur. 
+3. 20’ye kadar olan, yazıyla verilmiş sıra bildiren bir sayıyı simgeyle yazar. 
+4. Sıra bildiren sayıların nerelerde kullanıldığını söyler. 
+
+Amaç 110.Saati tanır. (3 P)
+Davranışlar  
+1. Saati gösterir.  
+2. Saat gösterildiğinde "saat" olduğunu söyler.  
+3. Saatin zaman ölçen bir araç olduğunu söyler.  
+4. Saat üzerinde akrebi gösterir.  
+5. Saat üzerinde akrep gösterildiğinde "akrep" olduğunu söyler.  
+6. Saat üzerinde yelkovanı gösterir.  
+7. Saat üzerinde yelkovan gösterildiğinde "yelkovan" olduğunu söyler.  
+8. Saat üzerinde akrep, yelkovan ve rakamlar bulunduğunu söyler.  
+9. Kısa kol olan akrebin saatleri gösterdiğini söyler.  
+10. Uzun kol olan yelkovanın dakikaları gösterdiğini söyler  
+11. Söylenen tam saati gösterir.  
+12. Akrebin bir rakam üzerinde, yelkovanın ise 12'nin üzerinde olması durumuna "tam saat" denildiğini söyler.  
+13. Söylenen yarım saati gösterir.  
+14. Akrebin bir rakamın üzerinde, yelkovanın ise 6'nın üzerinde olması durumuna "yarım saat" denildiğini söyler.  
+15. Söylenen çeyrek saati gösterir.  
+16. Akrebin bir rakamın üzerinde, yelkovanın ise 3 veya 9'un üzerinde olması durumuna  "çeyrek saat" denildiğini söyler.
+
+Amaç 111. Saati okur. (3 P)
+Davranışlar  
+1. Tam saate göre ayarlanan saatin kaç olduğunu söyler.  
+2. Yarım saate göre ayarlanan saatin kaç olduğunu söyler.  
+3. Çeyrek saate göre ayarlanan saatin kaç olduğunu söyler.  
+4. Akrep ve yelkovanın verilen durumlarına göre saatin kaç olduğunu söyler/yazar. 
+5. Belirtilen bir saat aralığını “saat” ve “dakika” cinsinden okunup kısaltılmış gösterimiyle yazar. 
+
+Amaç 112. Saat ayarı yapar.  (3 P)
+Davranışlar  
+1. Belirtilen tam saati gösterecek şekilde saati ayarlar.  
+2. Belirtilen yarım saati gösterecek şekilde saati ayarlar.  
+3. Belirtilen çeyrek saati gösterecek şekilde saati ayarlar.  
+4. Akrep ve yelkovanın belirtilen durumuna göre saati ayarlar.  
+
+Amaç 113. Zaman ölçülerinden dakikayı tanır.(3 P)
+Davranışlar  
+1. Bir saatin " 60 dakika" olduğunu söyler.  
+2. Yarım saatin "30 dakika" olduğunu söyler.  
+3. Çeyrek saatin "15 dakika" olduğunu söyler.  
+4. Dakikanın kısaltılmış gösteriminin "dk." olduğunu söyler.  
+
+Amaç 114. Zaman ölçülerinden saniyeyi tanır. (3 P)
+Davranışlar  
+1. Bir dakikanın "60 saniye" olduğunu söyler.  
+2. Saniyenin kısaltılmış gösteriminin "sn" olduğunu söyler. 
+
+Genel Amaç-3.Dört işlem yapma becerisi kazanır. 
+
+Amaç 79. Toplama işlemini kavrar. (5 P)
+Davranışlar 
+1. "Daha ile ve toplam, artı, eşittir, eder" sözcüklerinin toplama işlemi ile ilgili olduğunu söyler. 
+2. İki ayrık kümenin elemanlarını ve/daha/ile/artı/toplam/eşittir/eder sözcüklerini kullanarak birleştirir. 
+3. Ve/daha/ile/artı/toplam/eşittir/eder sözcükleri kullanılarak söylenen iki ayrık kümeyi ve bunların birleşim kümesini ifade eden resim kartını gösterir. 
+4. İki ayrık kümeyi ve bunların birleşim kümesini "+", "=" işaretlerini kullanarak yapar. 
+5. "+", "=" işaretleri kullanılarak söylenen iki ayrık kümeyi ve bunların birleşim kümesini ifade den resim kartını gösterir. 
+6. İki doğal sayının toplama işlemini "+", "=" işaretlerini kullanarak yazar. 
+7. Bir doğal sayının "0" ile toplamının kendisi olduğunu söyler. 	
+
+Amaç 80. Doğal sayılarla eldesiz toplama işlemi yapar. (5 P)
+Davranışlar 
+1. Bir basamaklı bir doğal sayıyla, bir basamaklı bir doğal sayıyı sonuç bir basamaklı çıkacak şekilde yan yana toplayıp sonucunu yazar/söyler.
+2. Bir basamaklı bir doğal sayıyla bir basamaklı bir doğal sayıyı sonuç bir basamaklı çıkacak şekilde alt alta toplayıp sonucunu yazar/söyler. 
+3. Bir basamaklı bir doğal sayıyla, bir basamaklı bir doğal sayıyı sonuç iki basamaklı çıkacak şekilde yan yana toplayıp sonucunu yazar/söyler. 
+4. Bir basamaklı bir doğal sayıyla, bir basamaklı bir doğal sayıyı sonuç iki basamaklı çıkacak şekilde alt alta toplayıp sonucunu yazar/söyler. 
+5. Bir basamaklı üç doğal sayıyı sonuç bir basamaklı çıkacak şekilde yan yana toplayıp sonucunu yazar/söyler. 
+6. Bir basamaklı üç doğal sayıyı sonuç bir basamaklı çıkacak şekilde alt alta toplayıp sonucunu yazar/söyler. 
+7. Bir basamaklı üç doğal sayıyı sonuç iki basamaklı çıkacak şekilde yan yana toplayıp sonucunu yazar/söyler. 
+8. Bir basamaklı üç doğal sayıyı sonuç iki basamaklı çıkacak şekilde alt alta toplayıp sonucunu yazar/söyler. 
+9. İki basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldesiz toplayıp sonucunu yazar/söyler. 
+10. İki basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı sonuç iki basamaklı çıkacak şekilde eldesiz toplayıp sonucunu yazar/söyler. 
+11. İki basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı sonuç üç basamaklı çıkacak şekilde eldesiz toplayıp sonucunu yazar/söyler. 
+12. İki basamaklı bir doğal sayı ile bir basamaklı iki doğal sayıyı eldesiz toplayıp sonucunu yazar/söyler. 
+13. İki basamaklı bir doğal sayı ile iki basamaklı iki doğal sayıyı eldesiz, sonuç iki basamaklı çıkacak şekilde toplayıp sonucunu yazar/söyler. 
+14. İki basamaklı bir doğal sayı ile iki basamaklı iki doğal sayıyı eldesiz, sonuç üç basamaklı çıkacak şekilde toplayıp sonucunu yazar/söyler. 
+15. Üç basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldesiz toplayıp sonucunu yazar/söyler. 
+16. Üç basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldesiz toplayıp sonucunu yazar/söyler. 
+17. Üç basamaklı bir doğal sayı ile üç basamaklı bir doğal sayıyı eldesiz toplayıp sonucunu yazar/söyler. 
+18. En fazla üç basamaklı en fazla dört doğal sayıyı eldesiz toplayıp sonucunu yazar/söyler. 
+19. Dört basamaklı bir doğal sayı ile tek basamaklı bir doğal sayıyı eldesiz toplayıp sonucunu yazar/söyler. 
+20. Dört basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldesiz toplayıp sonucunu yazar/söyler. 
+21. Dört basamaklı bir doğal sayı ile üç basamaklı bir doğal sayıyı eldesiz toplayıp sonucunu yazar/söyler. 
+22. Dört basamaklı bir doğal sayı ile dört basamaklı bir doğal sayıyı eldesiz toplayıp sonucunu yazar/söyler.
+23. Dört ve daha fazla basamaklı doğal sayılarla eldesiz toplama işlemi yapıp sonucunu yazar/söyler. 
+24. Beş ve daha fazla basamaklı doğal sayılarla eldesiz toplama işlemi yapıp sonucunu yazar/söyler. 
+
+Amaç 81. Doğal sayılarla eldeli toplama işlemi yapar. (3 P)
+Davranışlar 
+1. İki basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldeli toplayıp sonucunu yazar/söyler.
+2. İki basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı sonuç iki basamaklı çıkacak şekilde eldeli toplayıp sonucunu yazar/söyler. 
+3. İki basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı sonuç üç basamaklı çıkacak şekilde eldeli toplayıp sonucunu yazar/söyler. 
+4. İki basamaklı bir doğal sayı ile bir basamaklı iki doğal sayıyı eldeli toplayıp sonucunu yazar/söyler. 
+5. İki basamaklı bir doğal sayı ile iki basamaklı iki doğal sayıyı eldeli, sonuç iki basamaklı çıkacak şekilde toplayıp sonucunu yazar/söyler. 
+6. İki basamaklı bir doğal sayı ile iki basamaklı iki doğal sayıyı eldeli, sonuç üç basamaklı çıkacak şekilde toplayıp sonucunu yazar/söyler. 
+7. Üç basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldeli toplayıp sonucunu yazar/söyler. 
+8. Üç basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldeli toplayıp sonucunu yazar/söyler. 
+9. Üç basamaklı bir doğal sayı ile üç basamaklı bir doğal sayıyı eldeli toplayıp sonucunu yazar/söyler. 
+10. En fazla üç basamaklı, en fazla dört doğal sayıyı eldeli toplayıp sonucunu yazar/söyler. 
+11. Dört ve daha fazla basamaklı doğal sayılarla eldeli toplama işlemi yapıp sonucunu yazar/söyler. 
+
+Amaç 82. Çıkarma işlemini kavrar. (5 P)
+Davranışlar 
+1. "Eksildi, çıktı, eksi, kaldı, eşittir" sözcüklerinin çıkarma işlemi ile ilgili olduğunu söyler. 
+2. Bir kümeden belirtilen sayıdaki elemanını eksildi/çıktı/eksi/kaldı/eşittir sözcüklerini kullanarak ayırır. 
+3. Eksildi/çıktı/eksi/kaldı/eşittir sözcükleri kullanılarak söylenen bir kümeyi ve kümenin ayrılan ve kalan kümelerini ifade eden resim kartını gösterir. 
+4. Belirtilen sayıda elemanı olan kümeyi ve bu kümeden ayrılan ve kalan kümelerini "-", "=" işaretlerini kullanarak yapar. 
+5. "-", "=" işaretleri kullanılarak, belirtilen sayıda elemanı olan ve bu kümeden ayrılan ve kalan kümelerini ifade eden resim kartını gösterir. 
+6. İki doğal sayının çıkarma işlemini "-", "=" işaretlerini kullanarak yazar. 
+7. Bir doğal sayıdan "0" çıkarıldığında sayının kendisinin kaldığını söyler. 
+
+Amaç 83. Doğal sayılarla onluk, bozmayı gerektirmeyen çıkarma işlemi yapar. (3 P)
+Davranışlar 
+1. Bir basamaklı bir doğal sayıdan, bir basamaklı bir doğal sayıyı yan yana çıkarıp sonucunu yazar/söyler.
+2. Bir basamaklı bir doğal sayıdan, bir basamaklı bir doğal sayıyı alt alta çıkarıp sonucunu yazar/söyler. 
+3. İki basamaklı bir doğal sayıdan, onluk bozmayı gerektirmeyecek şekilde bir basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+4. İki basamaklı bir doğal sayıdan, onluk bozmayı gerektirmeyecek şekilde iki basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+5. Üç basamaklı bir doğal sayıdan, onluk bozmayı gerektirmeyecek şekilde bir basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+6. Üç basamaklı bir doğal sayıdan, onluk bozmayı gerektirmeyecek şekilde iki basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+7. Üç basamaklı bir doğal sayıdan, onluk bozmayı gerektirmeyecek şekilde üç basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+8. Dört basamaklı bir doğal sayıdan, onluk bozmayı gerektirmeyecek şekilde tek basamaklı bir doğal sayıyı çıkarıp sonucu yazar/söyler. 
+9. Dört basamaklı bir doğal sayıdan, onluk bozmayı gerektirmeyecek şekilde iki basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+10. Dört basamaklı bir doğal sayıdan, onluk bozmayı gerektirmeyecek şekilde üç basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+11. Dört basamaklı bir doğal sayıdan, onluk bozmayı gerektirmeyecek şekilde dört basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+
+Amaç 84. Doğal sayılarla onluk, yüzlük, binlik, onbinlik bozmayı gerektiren çıkarma işlemi yapar.(3 P)
+Davranışlar 
+1. İki basamaklı bir doğal sayıdan, onluk bozmayı gerektirecek şekilde tek basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+2. İki basamaklı bir doğal sayıdan, onluk bozmayı gerektirecek şekilde iki basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+3. Üç basamaklı bir doğal sayıdan, onluk, yüzlük bozmayı gerektirecek şekilde tek basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+4. Üç basamaklı bir doğal sayıdan, onluk, yüzlük bozmayı gerektirecek şekilde iki basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+5. Üç basamaklı bir doğal sayıdan, onluk, yüzlük bozmayı gerektirecek şekilde üç basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+6. Dört basamaklı bir doğal sayıdan, onluk, yüzlük bozmayı gerektirecek şekilde tek basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+7. Dört basamaklı bir doğal sayıdan, onluk, yüzlük, binlik bozmayı gerektirecek şekilde iki basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+8. Dört basamaklı bir doğal sayıdan, onluk, yüzlük, binlik bozmayı gerektirecek şekilde üç basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+9. Dört basamaklı bir doğal sayıdan, onluk, yüzlük, binlik bozmayı gerektirecek şekilde dört basamaklı bir doğal sayıyı çıkarıp sonucunu yazar/söyler. 
+10. Beş ve daha fazla basamaklı bir doğal sayıdan, onluk, yüzlük, binlik, on binlik bozmayı gerektirecek şekilde tek, iki, üç, dört ve daha fazla basamaklı sayıyı çıkarıp sonucunu yazar/söyler. 
+
+Amaç 85. Çarpma işlemini kavrar. (4 P)
+Davranışlar 
+1. "Tane, kere, çarpı, eder" kelimelerinin çarpma işlemi ile ilgili olduğunu söyler. 
+2. Elemanları eşit sayıda olan iki kümeyi tane/kere/çarpı/eder sözcüklerini kullanarak birleştirir. 
+3. Tane/kere/çarpı/eder sözcükleri kullanılarak söylenen elemanları eşit sayıda olan kümeyi ve bunların elemanlarının toplamını ifade eden resim kartını gösterir. 
+4. Elemanları eşit sayıda olan iki kümeyi ve bunların elemanlarının toplamını "x", "=" işaretlerini kullanarak yapar. 
+5. "x", "=" işaretlerini kullanarak söylenen elemanları eşit sayıda olan iki kümeyi ifade eden, resim kartını gösterir. 
+6. İki doğal sayının çarpma işlemini "x", "=" işaretlerini kullanarak yazar. 
+
+Amaç 86. Doğal sayılarla eldesiz çarpma işlemi yapar. (5 P)
+Davranışlar 
+1. Bir basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı sonuç bir basamaklı olacak şekilde yan yana çarpıp sonucu yazar/söyler.
+2. Bir basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı sonuç bir basamaklı çıkacak şekilde alt alta çarpıp sonucunu yazar/söyler. 
+3. Bir basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı sonuç iki basamaklı çıkacak şekilde yan yana çarpıp sonucunu yazar/söyler. 
+4. Bir basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı sonuç iki basamaklı çıkacak şekilde alt alta eldesiz çarpıp sonucunu yazar/söyler. 
+5. İki basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldesiz çarpıp sonucunu yazar/söyler. 
+6. Üç basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldesiz çarpıp sonucunu yazar/söyler. 
+7. İki basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldesiz çarpıp sonucunu yazar/söyler. 
+8. Üç basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldesiz çarpıp sonucunu yazar/söyler. 
+9. Üç basamaklı bir doğal sayı ile üç basamaklı bir doğal sayıyı eldesiz çarpıp sonucunu yazar/söyler. 
+10. Üçten fazla basamaklı doğal sayılar içinde eldesiz çarpma işlemi yapıp sonucunu yazar/söyler. 
+
+Amaç 87. Doğal sayılarla eldeli çarpma işlemi yapar. (3 P)
+Davranışlar 
+1. İki basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldeli çarpıp sonucunu yazar/söyler.
+2. Üç basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldeli çarpıp sonucunu yazar/söyler. 
+3. İki basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldeli çarpıp sonucunu yazar/söyler. 
+4. Üç basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldeli çarpıp sonucunu yazar/söyler. 
+5. Üç basamaklı bir doğal sayı ile üç basamaklı bir doğal sayıyı eldeli çarpıp sonucunu yazar/söyler. 
+6. Üçten fazla basamaklı doğal sayılar içinde eldeli çarpma işlemi yapıp sonucunu yazar/söyler. 
+
+Amaç 88. Bölme işlemini kavrar. (4 P)
+Davranışlar 
+1. Verilen 20 varlığı; 2, 5, 4'lü gruplandırır. 
+2. Verilen 20 varlığı; 2, 5, 4'lü gruplandırdığında elde edilen grup sayısını söyler. 
+3. Verilen 20 varlığı; 2, 5, 4'lü gruplandırdığında her gruptaki varlık sayısını söyler. 
+4. Verilen iki doğal sayının bölme işlemini varlıklarla "bölü", "eder" kelimelerini kullanarak yapar. 
+5. Resim kartında, iki doğal sayının bölme işlemini varlıklarla ifade eden resim kartını gösterir. 
+6. Verilen bir doğal sayının bölme işlemini "bölü işareti" kullanarak yapar. 
+7. Bir bölme işleminde bölüneni, böleni, bölümü ve kalanı gösterir. 
+8. Bir doğal sayının 1'e bölümünün kendisi olduğunu söyler. 
+
+Amaç 89. Doğal sayılarla kalansız bölme işlemi yapar. (5 P)
+Davranışlar 
+1. Bir basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalansız bölerek sonucunu yazar/söyler.
+2. İki basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalansız bölerek sonucunu yazar/söyler. 
+3. Üç basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalansız bölerek sonucunu yazar/söyler. 
+4. İki basamaklı bir doğal sayıyı iki basamaklı bir doğal sayıya kalansız bölerek sonucunu yazar/söyler. 
+5. Üç basamaklı bir doğal sayıyı iki basamaklı bir doğal sayıya kalansız bölerek sonucunu yazar/söyler. 
+6. Üç basamaklı bir doğal sayıyı üç basamaklı bir doğal sayıya kalansız bölerek sonucunu yazar/söyler. 
+7. Dört ve daha fazla basamaklı doğal sayılarla kalansız bölme işlemi yaparak sonucunu yazar/söyler. 
+
+Amaç 90. Doğal sayılarla kalanlı bölme işlemi yapar. (3 P)
+Davranışlar 
+1. Bir basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalanlı bölerek sonucunu yazar/söyler.
+2. İki basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalanlı bölerek sonucunu yazar/söyler. 
+3. Üç basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalanlı bölerek sonucunu yazar/söyler. 
+4. İki basamaklı bir doğal sayıyı iki basamaklı bir doğal sayıya kalanlı bölerek sonucunu yazar/söyler. 
+5. Üç basamaklı bir doğal sayıyı iki basamaklı bir doğal sayıya kalanlı bölerek sonucunu yazar/söyler. 
+6. Üç basamaklı bir doğal sayıyı üç basamaklı bir doğal sayıya kalanlı bölerek sonucunu yazar/söyler. 
+7. Dört veya daha fazla basamaklı bir doğal sayıyla kalanlı bölme işlemi yaparak sonucunu yazar/söyler. 
+
+Amaç 91. Problem çözme basamaklarını kavrar. (3 P)
+Davranışlar 
+1. Problemde verilenleri söyler/yazar. 
+2. Problemde istenileni söyler/yazar. 
+3. Problemde istenilene ulaşmak için yapılması gereken işlemi söyler. 
+
+Amaç 92. Toplama işlemi ile ilgili problem çözer. (4 P)
+Davranışlar 
+1. Bir basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıyla toplayarak problem çözer.
+2. Bir basamaklı doğal sayılar içinden üç sayıyı kullanarak eldesiz toplama işlemi ile problem çözer. 
+3. İki basamaklı bir doğal sayıyı bir basamaklı bir doğal sayı ile eldesiz toplayarak problem çözer. 
+4. İki basamaklı bir doğal sayıyı iki basamaklı bir doğal sayı ile eldesiz toplayarak problem çözer. 
+5. İki basamaklı bir doğal sayı ile bir/iki basamaklı iki doğal sayıyı eldesiz toplayarak problem çözer. 
+6. Üç basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+7. Üç basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+8. Üç basamaklı bir doğal sayı ile üç basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+9. Dört basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+10. Dört basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+11. Dört basamaklı bir doğal sayı ile üç basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+12. Dört basamaklı bir doğal sayı ile dört basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+13. İki basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldeli toplayarak problem çözer. 
+14. İki basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldeli toplayarak problem çözer. 
+15. İki basamaklı bir doğal sayı ile bir/iki basamaklı iki doğal sayıyı eldeli toplayarak problem çözer. 
+16. Üç basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldeli toplayarak problem çözer. 
+17. Üç basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldeli toplayarak problem çözer. 
+18. Üç basamaklı bir doğal sayı ile üç basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+19. Dört ve daha fazla basamaklı doğal sayılarla eldesiz eldeli toplama işlemi yaparak problem çözer. 
+
+Amaç 93. Çıkarma işlemi ile ilgili problem çözer. (4 P)
+Davranışlar 
+1. Bir basamaklı bir doğal sayıdan bir basamaklı bir doğal sayıyı çıkararak problem çözer.
+2. İki basamaklı bir doğal sayıdan bir basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+3. İki basamaklı bir doğal sayıdan iki basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+4. Üç basamaklı bir doğal sayıdan bir basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+5. Üç basamaklı bir doğal sayıdan iki basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+6. Üç basamaklı bir doğal sayıdan üç basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+7. Dört basamaklı bir doğal sayıdan bir basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+8. Dört basamaklı bir doğal sayıdan iki basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+9. Dört basamaklı bir doğal sayıdan üç basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+10. Dört basamaklı bir doğal sayıdan dört basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+11. İki basamaklı bir doğal sayıdan bir basamaklı bir doğal sayıyı onluk bozarak çıkarıp problem çözer. 
+12. İki basamaklı bir doğal sayıdan iki basamaklı bir doğal sayıyı onluk bozarak çıkarıp problem çözer. 
+13. Üç basamaklı bir doğal sayıdan bir basamaklı bir doğal sayıyı onluk, yüzlük bozarak çıkarıp problem çözer. 
+14. Üç basamaklı bir doğal sayıdan iki basamaklı bir doğal sayıyı onluk, yüzlük bozarak çıkarıp problem çözer. 
+15. Üç basamaklı bir doğal sayıdan, üç basamaklı bir doğal sayıyı onluk, yüzlük bozarak çıkarıp problem çözer. 
+16. Dört ve daha fazla basamaklı doğal sayılarla onluk, yüzlük, binlik bozmayı gerektirmeyen/gerektiren çıkarma işlemi ile problem çözer. 
+
+Amaç 94. Çarpma işlemi ile ilgili problem çözer. (4 P)
+Davranışlar 
+1. Bir basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı çarparak problem çözer.
+2. İki basamaklı bir doğal sayıyı bir basamaklı bir doğal sayı ile eldesiz çarparak problem çözer. 
+3. Üç basamaklı bir doğal sayıyı bir basamaklı bir doğal sayı ile eldesiz çarparak problem çözer. 
+4. İki basamaklı bir doğal sayıyı iki basamaklı bir doğal sayı ile eldesiz çarparak problem çözer. 
+5. Üç basamaklı bir doğal sayıyı iki basamaklı bir doğal sayı ile eldesiz çarparak problem çözer. 
+6. Üç basamaklı bir doğal sayıyı üç basamaklı bir doğal sayı ile eldesiz çarparak problem çözer. 
+7. İki basamaklı bir doğal sayıyı bir basamaklı bir doğal sayı ile eldeli çarparak problem çözer. 
+8. Üç basamaklı bir doğal sayıyı bir basamaklı bir doğal sayı ile eldeli çarparak problem çözer. 
+9. İki basamaklı bir doğal sayıyı iki basamaklı bir doğal sayı ile eldeli çarparak problem çözer. 
+10. Üç basamaklı bir doğal sayıyı iki basamaklı bir doğal sayı ile eldeli çarparak problem çözer. 
+11. Üç basamaklı bir doğal sayıyı üç basamaklı bir doğal sayı ile eldeli çarparak problem çözer. 
+12. Üçten fazla basamaklı doğal sayılar içinde eldeli/eldesiz çarpma işlemleriyle problem çözer. 
+
+Amaç 95. Bölme işlemi ile ilgili problem çözer. (4 P)
+Davranışlar  
+1. Bir basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalansız bölerek problem çözer.
+2. İki basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalansız bölerek problem çözer. 
+3. Üç basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalansız bölerek problem çözer. 
+4. İki basamaklı bir doğal sayıyı iki basamaklı bir doğal sayıya kalansız bölerek problem çözer. 
+5. Üç basamaklı bir doğal sayıyı iki basamaklı bir doğal sayıya kalansız bölerek problem çözer. 
+6. Üç basamaklı bir doğal sayıyı üç basamaklı bir doğal sayıya kalansız bölerek problem çözer. 
+7. Bir basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalanlı bölerek problem çözer. 
+8. İki basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalanlı bölerek problem çözer. 
+9. Üç basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalanlı bölerek problem çözer. 
+10. İki basamaklı bir doğal sayıyı iki basamaklı bir doğal sayıya kalanlı bölerek problem çözer. 
+11. Üç basamaklı bir doğal sayıyı iki basamaklı bir doğal sayıya kalanlı bölerek problem çözer. 
+12. Üç basamaklı bir doğal sayıyı üç basamaklı bir doğal sayıya kalanlı bölerek problem çözer. 
+13. Üçten fazla basamaklı doğal sayılarla kalansız/kalanlı bölme işlemiyle problem çözer. 
+
+Amaç 96. Dört işlem yaparak problem çözer. (4 P)
+Davranışlar 
+1. İki ve daha fazla işlem kullanarak 10’a kadar olan doğal sayılarla problem çözer.
+2. İki ve daha fazla işlem kullanarak 100’e kadar olan doğal sayılarla problem çözer. 
+3. İki ve daha fazla işlem kullanarak 1000’e kadar olan doğal sayılarla problem çözer. 
+4. İki ve daha fazla işlem kullanarak 1000’den fazla doğal sayılarla problem çözer. 
+
+Amaç 97. Hesap makinesi kullanır. (2 P)
+Davranışlar 
+1. Hesap makinesinin "on" açma tuşuna basar. 
+2. Makinenin rakam tuşlarına basarak sayıyı yazar. 
+3. Makinede yapılacak işlemi ifade eden "+, -, x, /" simgesine basar. 
+4. Makinenin rakam tuşlarına basarak diğer sayıyı yazar. 
+5. Sonucu görmek için "=" tuşuna basar. 
+6. Yaptığı işlemin sonucu söyler. 
+7. İşi bittikten sonra makinenin "of" tuşuna basar.
+
+98. Hesap makinesi kullanarak işlem yapar. (2 P)
+Davranışlar 
+1. Hesap makinesi kullanarak toplama işlemi yapar. 
+2. Hesap makinesi kullanarak çıkarma işlemi yapar. 
+3. Hesap makinesi kullanarak çarpma işlemi yapar. 
+4. Hesap makinesi kullanarak bölme işlemi yapar. 
+
+Genel Amaç-4. Problem çözebilme becerisi kazanır. 
+
+Amaç 91. Problem çözme basamaklarını kavrar. (8 P)
+Davranışlar 
+1. Problemde verilenleri söyler/yazar. 
+2. Problemde istenileni söyler/yazar. 
+3. Problemde istenilene ulaşmak için yapılması gereken işlemi söyler. 
+
+Amaç 92. Toplama işlemi ile ilgili problem çözer. (8 P)
+Davranışlar 
+1. Bir basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıyla toplayarak problem çözer.
+2. Bir basamaklı doğal sayılar içinden üç sayıyı kullanarak eldesiz toplama işlemi ile problem çözer. 
+3. İki basamaklı bir doğal sayıyı bir basamaklı bir doğal sayı ile eldesiz toplayarak problem çözer. 
+4. İki basamaklı bir doğal sayıyı iki basamaklı bir doğal sayı ile eldesiz toplayarak problem çözer. 
+5. İki basamaklı bir doğal sayı ile bir/iki basamaklı iki doğal sayıyı eldesiz toplayarak problem çözer. 
+6. Üç basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+7. Üç basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+8. Üç basamaklı bir doğal sayı ile üç basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+9. Dört basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+10. Dört basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+11. Dört basamaklı bir doğal sayı ile üç basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+12. Dört basamaklı bir doğal sayı ile dört basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+13. İki basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldeli toplayarak problem çözer. 
+14. İki basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldeli toplayarak problem çözer. 
+15. İki basamaklı bir doğal sayı ile bir/iki basamaklı iki doğal sayıyı eldeli toplayarak problem çözer. 
+16. Üç basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı eldeli toplayarak problem çözer. 
+17. Üç basamaklı bir doğal sayı ile iki basamaklı bir doğal sayıyı eldeli toplayarak problem çözer. 
+18. Üç basamaklı bir doğal sayı ile üç basamaklı bir doğal sayıyı eldesiz toplayarak problem çözer. 
+19. Dört ve daha fazla basamaklı doğal sayılarla eldesiz eldeli toplama işlemi yaparak problem çözer. 
+
+Amaç 93. Çıkarma işlemi ile ilgili problem çözer. (8 P)
+Davranışlar 
+1. Bir basamaklı bir doğal sayıdan bir basamaklı bir doğal sayıyı çıkararak problem çözer.
+2. İki basamaklı bir doğal sayıdan bir basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+3. İki basamaklı bir doğal sayıdan iki basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+4. Üç basamaklı bir doğal sayıdan bir basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+5. Üç basamaklı bir doğal sayıdan iki basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+6. Üç basamaklı bir doğal sayıdan üç basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+7. Dört basamaklı bir doğal sayıdan bir basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+8. Dört basamaklı bir doğal sayıdan iki basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+9. Dört basamaklı bir doğal sayıdan üç basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+10. Dört basamaklı bir doğal sayıdan dört basamaklı bir doğal sayıyı onluk bozmadan çıkararak problem çözer. 
+11. İki basamaklı bir doğal sayıdan bir basamaklı bir doğal sayıyı onluk bozarak çıkarıp problem çözer. 
+12. İki basamaklı bir doğal sayıdan iki basamaklı bir doğal sayıyı onluk bozarak çıkarıp problem çözer. 
+13. Üç basamaklı bir doğal sayıdan bir basamaklı bir doğal sayıyı onluk, yüzlük bozarak çıkarıp problem çözer. 
+14. Üç basamaklı bir doğal sayıdan iki basamaklı bir doğal sayıyı onluk, yüzlük bozarak çıkarıp problem çözer. 
+15. Üç basamaklı bir doğal sayıdan, üç basamaklı bir doğal sayıyı onluk, yüzlük bozarak çıkarıp problem çözer. 
+16. Dört ve daha fazla basamaklı doğal sayılarla onluk, yüzlük, binlik bozmayı gerektirmeyen/gerektiren çıkarma işlemi ile problem çözer. 
+
+Amaç 94. Çarpma işlemi ile ilgili problem çözer. (8 P)
+Davranışlar 
+1. Bir basamaklı bir doğal sayı ile bir basamaklı bir doğal sayıyı çarparak problem çözer.
+2. İki basamaklı bir doğal sayıyı bir basamaklı bir doğal sayı ile eldesiz çarparak problem çözer. 
+3. Üç basamaklı bir doğal sayıyı bir basamaklı bir doğal sayı ile eldesiz çarparak problem çözer. 
+4. İki basamaklı bir doğal sayıyı iki basamaklı bir doğal sayı ile eldesiz çarparak problem çözer. 
+5. Üç basamaklı bir doğal sayıyı iki basamaklı bir doğal sayı ile eldesiz çarparak problem çözer. 
+6. Üç basamaklı bir doğal sayıyı üç basamaklı bir doğal sayı ile eldesiz çarparak problem çözer. 
+7. İki basamaklı bir doğal sayıyı bir basamaklı bir doğal sayı ile eldeli çarparak problem çözer. 
+8. Üç basamaklı bir doğal sayıyı bir basamaklı bir doğal sayı ile eldeli çarparak problem çözer. 
+9. İki basamaklı bir doğal sayıyı iki basamaklı bir doğal sayı ile eldeli çarparak problem çözer. 
+10. Üç basamaklı bir doğal sayıyı iki basamaklı bir doğal sayı ile eldeli çarparak problem çözer. 
+11. Üç basamaklı bir doğal sayıyı üç basamaklı bir doğal sayı ile eldeli çarparak problem çözer. 
+12. Üçten fazla basamaklı doğal sayılar içinde eldeli/eldesiz çarpma işlemleriyle problem çözer. 
+
+Amaç 95. Bölme işlemi ile ilgili problem çözer. (8 P)
+Davranışlar  
+1. Bir basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalansız bölerek problem çözer.
+2. İki basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalansız bölerek problem çözer. 
+3. Üç basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalansız bölerek problem çözer. 
+4. İki basamaklı bir doğal sayıyı iki basamaklı bir doğal sayıya kalansız bölerek problem çözer. 
+5. Üç basamaklı bir doğal sayıyı iki basamaklı bir doğal sayıya kalansız bölerek problem çözer. 
+6. Üç basamaklı bir doğal sayıyı üç basamaklı bir doğal sayıya kalansız bölerek problem çözer. 
+7. Bir basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalanlı bölerek problem çözer. 
+8. İki basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalanlı bölerek problem çözer. 
+9. Üç basamaklı bir doğal sayıyı bir basamaklı bir doğal sayıya kalanlı bölerek problem çözer. 
+10. İki basamaklı bir doğal sayıyı iki basamaklı bir doğal sayıya kalanlı bölerek problem çözer. 
+11. Üç basamaklı bir doğal sayıyı iki basamaklı bir doğal sayıya kalanlı bölerek problem çözer. 
+12. Üç basamaklı bir doğal sayıyı üç basamaklı bir doğal sayıya kalanlı bölerek problem çözer. 
+13. Üçten fazla basamaklı doğal sayılarla kalansız/kalanlı bölme işlemiyle problem çözer. 
+
+Amaç 96. Dört işlem yaparak problem çözer. (8 P)
+Davranışlar 
+1. İki ve daha fazla işlem kullanarak 10’a kadar olan doğal sayılarla problem çözer.
+2. İki ve daha fazla işlem kullanarak 100’e kadar olan doğal sayılarla problem çözer. 
+3. İki ve daha fazla işlem kullanarak 1000’e kadar olan doğal sayılarla problem çözer. 
+4. İki ve daha fazla işlem kullanarak 1000’den fazla doğal sayılarla problem çözer. 
+
+Amaç 117. Parayı günlük yaşamda kullanır. (8 P)
+Davranışlar 
+1. Verilen paraları sayarak toplam kaç para olduğunu söyler. 
+2. Alacağı nesnenin tutarı kadar verilen para ile alışveriş yapar. 
+3. Alacağı nesnenin tutarından fazla para verildiğinde para üstünü hesaplar. 
+
+
+Genel Amaç-5. Geometrik şekiller arasındaki ilişkileri kavrar. 
+
+Amaç 118. Geometrik şekiller arasından daireyi ayırt eder. (6 P)
+Davranışlar 
+1. Geometrik şekiller arasından "daire" olan şekli gösterir. 
+2. Geometrik şekilleri ifade eden resim kartları arasından "daire" olan şekli ifade eden resim kartını gösterir. 
+3. Geometrik şekiller veya geometrik şekilleri ifade eden resim kartları arasından "daire" olan şekil gösterildiğinde "daire" olduğunu söyler. 
+4. Çevresindeki nesnelerin "daire" olan bölümlerini gösterir.  
+5. Çevresindeki nesneleri ifade eden resim kartından "daire" olan bölümleri gösterir. 
+6. Çevresindeki nesnelerin veya çevresindeki nesneleri ifade eden resim kartından "daire" olan bölüm gösterildiğinde "daire" olduğunu söyler. 
+
+Amaç 119. Dairenin özeliklerini belirtir. (6 P)
+Davranışlar 
+1. Daireyi çember denilen eğri bir çizginin çevrelediğini söyler.
+2. Dairenin, çember içinde kalan düzlem parçası olduğunu söyler. 
+3. Dairede, merkezin, çemberin tüm noktalarından eşit uzaklıkta olduğunu söyler. 
+4. Daireyi iki eşit parçaya bölen “çap”ın merkezden geçtiğini söyler. 
+5. Merkezden, çembere çizilen doğru parçasının yarıçap olduğunu söyler. 
+
+Amaç 120. Daire çizer. (7 P)
+Davranışlar 
+1. Daire şeklindeki nesnelerin yüzeylerinden yararlanarak daire çizer.
+2. Belirli bir uzunlukta verilen ipin bağlı olduğu tebeşir, kalem vb.lerini kullanarak daire çizer.
+3. Pergel yardımıyla daire çizer.
+4. Yarıçap uzunluğu verilen bir çemberi pergel yardımıyla çizer.
+
+Amaç 121. Geometrik şekiller arasından kareyi ayırt eder. (6 P)
+Davranışlar 
+1. Geometrik şekiller arasından "kare" olan şekli gösterir. 
+2. Geometrik şekilleri ifade eden resim kartları arasından "kare" olan şekli ifade eden resim kartını gösterir. 
+3. Geometrik şekiller veya geometrik şekilleri ifade eden resim kartlarından "kare" olan şekil gösterildiğinde "kare" olduğunu söyler. 
+4. Çevresindeki nesnelerin "kare" olan bölümlerini gösterir. 
+5. Çevresindeki nesneleri ifade eden resim kartından "kare" olan bölümleri gösterir. 
+6. Çevresindeki nesnelerin veya çevresindeki nesneleri ifade eden resim kartından "kare" olan bölüm gösterildiğinde " kare" olduğunu söyler.  
+
+Amaç 122. Karenin özelliklerini belirtir. (6 P)
+Davranışlar 
+1. Karenin dört kenarı olduğunu gösterir/söyler. 
+2. Karenin dört köşesi olduğunu gösterir/söyler. 
+3. Karenin kenar uzunluklarının birbirine eşit olduğunu söyler. 
+4. Karenin köşelerinin birbirine dik olduğunu söyler. 
+5. Karenin dörtkenar uzunluklarının toplamının çevresini oluşturduğunu söyler. 
+6. Karenin çevresinin, bir kenar uzunluğunun dört katı olduğunu söyler
+
+Amaç 123. Kare çizer. (7 P)
+Davranışlar 
+1. Çevresinde bulunan kare şeklindeki nesnelerin yüzeylerinden yararlanarak kare çizer.
+2. Kareli defter üzerinde kare çizer. 
+3. Kenar uzunluğu verilen bir kareyi cetvelle çizer. 
+4. Karenin köşelerini adlandırır. 
+5. Karenin kenarlarını adlandırır. 
+
+Amaç 124. Karenin çevresini hesaplar. (6 P)
+Davranışlar 
+1. Çizilmiş olarak verilen bir karenin çevresini ölçer/söyler.
+2. Karenin çevresini dörtkenarının uzunluğunu toplayarak hesaplar/yazar. 
+3. Karenin çevresini bir kenarının uzunluğunu dört ile çarparak hesaplar/yazar. 
+
+Amaç 125. Geometrik şekiller arasından üçgeni ayırt eder. (6 P)
+Davranışlar 
+1. Geometrik şekiller arasından "üçgen" olan şekli gösterir. 
+2. Geometrik şekilleri ifade eden resim kartları arasından "üçgen" olan şekli ifade eden resim kartını gösterir. 
+3. Geometrik şekiller veya geometrik şekilleri ifade eden resim kartları arasından "üçgen" olan şekil gösterildiğinde "üçgen" olduğunu söyler. 
+4. Çevresindeki nesnelerin "üçgen" olan bölümlerini gösterir.  
+5. Çevresindeki nesneleri ifade eden resim kartından "üçgen" olan bölümleri gösterir. 
+6. Çevresindeki nesnelerin veya çevresindeki nesneleri ifade eden resim kartından "üçgen" olan bölüm gösterildiğinde "üçgen" olduğunu söyler. 
+
+Amaç 126. Üçgenin özeliklerini belirtir. (6 P)
+Davranışlar 
+1. Üçgenin üç kenarı olduğunu söyler.
+2. Üçgenin üç köşesi olduğunu söyler. 
+3. Üçgenin alt kenarına “taban” denildiğini söyler. 
+
+Amaç 127. Üçgen çizer. (7 P)
+Davranışlar 
+1. Üçgen şeklindeki nesnelerin yüzeylerinden yararlanarak üçgen çizer.
+2. Kenar uzunlukları belirtilmeyen bir üçgen çizer. 
+3. Kenar uzunlukları verilen bir üçgen çizer. 
+4. Üçgenin köşelerini adlandırır. 
+5. Üçgenin kenarlarını adlandırır. 
+
+Amaç 128. Üçgenin çevresini hesaplar. (6 P)
+Davranışlar 
+1. Çizilmiş olarak verilen bir üçgenin çevresini, ölçer/söyler.
+2. Üçgenin çevresini kenarlarının uzunluğunu toplayarak hesaplar/yazar. 
+
+Amaç 129. Geometrik şekiller arasından dikdörtgeni ayırt eder.(6 P)
+Davranışlar 
+1. Geometrik şekiller arasından "dikdörtgen" olan şekli gösterir. 
+2. Geometrik şekilleri ifade eden resim kartları arasından "dikdörtgen" olan şekli ifade eden resim kartını gösterir. 
+3. Geometrik şekiller veya geometrik şekilleri ifade eden resim kartları arasından dikdörtgen" olan şekil gösterildiğinde "dikdörtgen olduğunu söyler. 
+4. Çevresindeki nesnelerin "dikdörtgen" olan bölümlerini gösterir.  
+5. Çevresindeki nesneleri ifade eden resim kartından "dikdörtgen" olan bölümleri gösterir. 
+6. Çevresindeki nesnelerin veya çevresindeki nesneleri ifade eden resim kartından  "dikdörtgen" olan bölüm gösterildiğinde "dikdörtgen" olduğunu söyler. 
+
+Amaç 130. Dikdörtgenin özelliklerini belirtir. (6 P)
+Davranışlar 
+1. Dikdörtgenin dörtkenarı olduğunu gösterir/söyler.
+2. Dikdörtgenin dört köşesi olduğunu gösterir/söyler. 
+3. Dikdörtgenin karşılıklı kenarlarının birbirine eşit olduğunu söyler. 
+4. Dikdörtgenin köşelerinin birbirine dik olduğunu söyler. 
+5. Dikdörtgenin dörtkenarının çevresini oluşturduğunu söyler. 
+
+Amaç 131. Dikdörtgen çizer. (7 P)
+Davranışlar 
+1. Çevresinde bulunan dikdörtgen şeklindeki nesnelerin yüzeylerinden yararlanarak dikdörtgen çizer.
+2. Kareli defter üzerinde dikdörtgen çizer. 
+3. Kenar uzunlukları verilen bir dikdörtgeni cetvelle çizer. 
+4. Dikdörtgenin köşelerini adlandırır. 
+5. Dikdörtgenin kenarlarını adlandırır. 
+6. Adı ile verilen köşenin kenar doğrusunu işaretler. 
+
+Amaç 132. Dikdörtgenin çevresini hesaplar. (6 P)
+Davranışlar 
+1. Çizilmiş olarak verilen bir dikdörtgenin çevresini ölçer/söyler.
+2. Dikdörtgenin çevresini dörtkenarının uzunluğunu toplayarak hesaplar/yazar. 
+3. Dikdörtgenin çevresini, kısa ve uzun kenarlarının uzunluğunu iki ile çarpıp, çarpım sonuçlarını toplayarak hesaplar. 
+4. Dikdörtgenin çevresini, kısa ve uzun kenarlarının toplamını iki ile çarparak hesaplar. 
+
+Genel Amaç-6. Matematiğin kazandırdığı bilgi ve becerileri bilir ve günlük yaşamda uygular. 
+
+Amaç 97. Hesap makinesi kullanır. (5 P)
+Davranışlar 
+1. Hesap makinesinin "on" açma tuşuna basar. 
+2. Makinenin rakam tuşlarına basarak sayıyı yazar. 
+3. Makinede yapılacak işlemi ifade eden "+, -, x, /" simgesine basar. 
+4. Makinenin rakam tuşlarına basarak diğer sayıyı yazar. 
+5. Sonucu görmek için "=" tuşuna basar. 
+6. Yaptığı işlemin sonucu söyler. 
+7. İşi bittikten sonra makinenin "of" tuşuna basar
+
+Amaç 98. Hesap makinesi kullanarak işlem yapar. (5 P)
+Davranışlar 
+1. Hesap makinesi kullanarak toplama işlemi yapar. 
+2. Hesap makinesi kullanarak çıkarma işlemi yapar. 
+3. Hesap makinesi kullanarak çarpma işlemi yapar. 
+4. Hesap makinesi kullanarak bölme işlemi yapar. 
+
+Amaç 99. Parmakla ölçme yapar.  (4 P)
+Davranışlar  
+1. Gösterilen nesneyi parmakla ölçer.  
+2. Parmakla ölçtüğü nesnenin, kaç parmak geldiğini söyler.  
+3. Parmakla ölçtüğü nesnenin, kaç parmak geldiğini yazar.  
+
+Amaç 100. Karışla ölçme yapar.  (4 P)
+Davranışlar  
+1. Gösterilen nesneyi karışla ölçer.  
+2. Karışla ölçtüğü nesnenin, kaç karış geldiğini söyler.  
+3. Karışla ölçtüğü nesnenin, kaç karış geldiğini yazar.  
+
+Amaç 101. Ayakla ölçme yapar.  (5 P)
+Davranışlar  
+1. Gösterilen alanı ayakla ölçer.  
+2. Ayakla ölçtüğü alanın, kaç ayak geldiğini söyler.  
+3. Ayakla ölçtüğü alanın, kaç ayak geldiğini yazar.  
+
+Amaç 102. Adımla ölçme yapar.  (5 P)
+Davranışlar  
+1. Gösterilen alanı adımla ölçer.  
+2. Adımla ölçtüğü alanın, kaç adım geldiğini söyler.  
+3. Adımla ölçtüğü alanın, kaç adım geldiğini yazar.  
+
+Amaç 105. Metreyle ölçme yapar.  (5 P)
+Davranışlar  
+1. Gösterilen nesneyi metreyle ölçer.  
+2. Metreyle ölçtüğü nesnenin kaç metre geldiğini söyler.  
+3. Metreyle ölçtüğü nesnenin kaç metre olduğunu yazar.  
+
+Amaç 106. Cetvelle ölçme yapar.  (6 P)
+Davranışlar  
+1. Gösterilen nesneyi cetvelle santimetre cinsinden ölçer.  
+2. Cetvelle ölçtüğü nesnenin kaç santimetre geldiğini söyler.  
+3. Cetvelle ölçtüğü nesnenin kaç santimetre geldiğini yazar. 
+Amaç 109. Kütle ölçü araçlarıyla ölçüm yapar.  (5 P)
+Davranışlar
+1. Verilen katı maddeyi kilogram/gram kullanarak ölçer. 
+2. Kilogram kullanarak ölçüm yaptığı maddenin kaç kilogram/gram geldiğini söyler. 
+3. Kilogram kullanarak ölçüm yaptığı maddenin kaç kilogram/gram geldiğini yazar. 
+
+Amaç 111. Saati okur.  (5 P)
+Davranışlar  
+1. Tam saate göre ayarlanan saatin kaç olduğunu söyler.  
+2. Yarım saate göre ayarlanan saatin kaç olduğunu söyler.  
+3. Çeyrek saate göre ayarlanan saatin kaç olduğunu söyler.  
+4. Akrep ve yelkovanın verilen durumlarına göre saatin kaç olduğunu söyler/yazar. 
+5. Belirtilen bir saat aralığını “saat” ve “dakika” cinsinden okunup kısaltılmış gösterimiyle yazar. 
+
+Amaç 112. Saat ayarı yapar.  (5 P)
+Davranışlar  
+1. Belirtilen tam saati gösterecek şekilde saati ayarlar.  
+2. Belirtilen yarım saati gösterecek şekilde saati ayarlar.  
+3. Belirtilen çeyrek saati gösterecek şekilde saati ayarlar.  
+4. Akrep ve yelkovanın belirtilen durumuna göre saati ayarlar.  
+
+Amaç 117. Parayı günlük yaşamda kullanır. (6 P)
+Davranışlar 
+1. Verilen paraları sayarak toplam kaç para olduğunu söyler. 
+2. Alacağı nesnenin tutarı kadar verilen para ile alışveriş yapar. 
+3. Alacağı nesnenin tutarından fazla para verildiğinde para üstünü hesaplar.

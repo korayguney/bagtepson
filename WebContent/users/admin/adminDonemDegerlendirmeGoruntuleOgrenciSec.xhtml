@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui">
+
+<ui:composition template="/WEB-INF/templates/admin.xhtml">
+	<ui:define name="pageContent">
+	<div class="alert alert-info" align="center"><h3>Dönem Değerlendirme Görüntüleme Sayfası </h3> </div>
+	<div class="alert alert-success" align="center">
+	
+			<h:form>
+		    <p:growl id="msgs" showDetail="true" />
+	
+		 
+		    <p:panel header="Ders ve Öğrenci seçiniz." style="margin-bottom:10px;">
+		        <h:panelGrid columns="2" cellpadding="5">
+		            <p:outputLabel for="ders" value="Ders:  &nbsp;" />
+		            <p:selectOneMenu id="ders" value="#{ogrenciSecBean.ders}" style="width:200px">
+		            	<f:selectItem itemLabel="Ders seçiniz" itemValue="" noSelectionOption="true" />
+		                <f:selectItems value="#{ogrenciSecBean.tumdersler}" />
+		            </p:selectOneMenu>
+		 
+				    <p:outputLabel for="sinif" value="Sınıf:  &nbsp;" />
+		            <p:selectOneMenu id="sinif" value="#{ogrenciSecBean.sinif}" style="width:200px">
+		                <f:selectItem itemLabel="Sınıf seçiniz" itemValue="" noSelectionOption="true" />
+		                <f:selectItems value="#{ogrenciSecBean.tumsiniflar}" />
+		            </p:selectOneMenu>
+	       
+		        </h:panelGrid>
+		        
+		        <p:separator />
+		 
+		        <p:commandButton value="Öğrencileri Listele" update="dtable" action="#{ogrenciSecBean.ogrencilisteleDonemDegerlendirmeGoruntule()}" icon="ui-icon-circle-arrow-s" />
+		 
+		        <p:separator />
+		        		        
+		  		<p:dataTable id="dtable" var="ogrenci" value="#{ogrenciSecBean.ogrenciler}">
+					  
+					    <p:column headerText="Öğrenci No">
+					        <h:outputText value="#{ogrenci.ogrencino}" />
+					    </p:column>
+					 
+					    <p:column headerText="Öğrenci Adı">
+					        <h:outputText value="#{ogrenci.ad}" />
+					    </p:column>
+					 
+					    <p:column headerText="Öğrenci Soyadı">
+					        <h:outputText value="#{ogrenci.soyad}" />
+					    </p:column>
+					 
+					    <p:column headerText="Değerlendirme">
+					  
+					        <a href="adminDonemDegerlendirmeGoruntule.xhtml?oid=#{ogrenci.id}&amp;did=#{ogrenciSecBean.ders}&amp;classId=#{ogrenciSecBean.sinif}">Görüntüle</a>
+					    </p:column>
+				</p:dataTable> 
+				<p:messages id="messages" showDetail="true" autoUpdate="true" closable="true" />
+				
+		   </p:panel>
+	 	</h:form>
+	 	</div>
+	</ui:define>
+</ui:composition>
+
+</html>
+
+
+
+            
+         	 
+       

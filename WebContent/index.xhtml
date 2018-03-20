@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:p="http://primefaces.org/ui"> 
+
+
+<h:head>
+<title>BAGTEP || Bireysel Akademik Gelişimi Takip Etme Programı</title>
+<meta charset="utf-8"></meta>
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"></meta>
+		<link href="layout/styles/layout.css" rel="stylesheet" type="text/css"
+			media="all" ></link>
+</h:head>
+<body id="top">
+	
+	<div class="wrapper row0">
+		<div id="topbar" class="hoc clear">
+			
+			<div class="fl_left">
+				<ul class="nospace">
+					<li><i class="fa fa-phone"></i> +09 (216) 313 4113</li>
+					<li><i class="fa fa-envelope-o"></i>
+						bagtep@hotmail.com</li>
+				</ul>
+			</div>
+			<div class="fl_right">
+				<ul class="nospace">
+					<li><a href="index.xhtml"><i class="fa fa-lg fa-home"></i></a></li>
+					<li><a href="docs/afis.pdf" target="_blank">BAGTEP Hakkında</a></li>
+					<li><a href="http://sakirehanim.meb.k12.tr/tema/index.php"  target="_blank">Okulumuz Hakkında</a></li>
+				</ul>
+			</div>
+			<h:messages />
+		</div>
+	</div>
+	
+	<div class="wrapper bgded overlay"
+		style="background-image: url('style/pics/backgrounds/colors.jpg');">
+		<div id="pageintro" class="hoc clear" align="center">			
+			<article>
+			<p class="heading">T.C.<br /> MİLLÎ EĞİTİM BAKANLIĞI <br />ŞAKİRE HANIM ÖZEL EĞİTİM UYGULAMA MERKEZİ <br />İSTANBUL / ÜMRANİYE  </p>
+			<h2 class="heading">
+				<span class="block">BAGTEP</span></h2><h4>BİREYSEL AKADEMİK GELİŞİMİ TAKİP ETME PROGRAMI</h4>
+			
+			<footer>
+			<ul class="nospace inline pushright">
+				<h:form>
+		            <li><p:inputText value="#{loginBean.username}" placeholder="kullanıcı adı"/></li><br/><br/>
+		            <li><p:password value="#{loginBean.password}" placeholder="şifre"/></li><br/><br/>
+		            <li><p:commandButton action="#{loginBean.login()}" value="GİRİŞ" styleClass="btn inverse" ajax="false"/></li>
+		        	   	<p:growl></p:growl>
+				</h:form>
+			</ul>
+			</footer> </article>
+			<h:messages />
+		</div>
+	</div>
+	
+	<div class="wrapper row5">
+		<div id="copyright" class="hoc clear">
+			
+			<p class="fl_left">Copyright &copy; 2017 - Tüm Hakları Saklıdır.</p>
+			<p class="fl_right">
+				Program coded by <b><a class="btn inverse" href="atlantis.xhtml">AtLAnTiS TeaM</a></b>
+			</p>
+			
+		</div>
+	</div>
+	
+	<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+	<!-- JAVASCRIPTS -->
+	<script src="layout/scripts/jquery.min.js"></script>
+	<script src="layout/scripts/jquery.backtotop.js"></script>
+	<script src="layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>

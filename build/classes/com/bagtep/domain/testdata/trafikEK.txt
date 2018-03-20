@@ -1,0 +1,261 @@
+﻿Genel Amaç-1. Taşıtların günlük yaşamdaki önemini bilir. 
+
+Araç 157. Ulaşımda otobüs kullanır. (9 P)
+Davranışlar 
+1.Otobüs bileti alınan/doldurulan yere gider. 
+2.Bilet alırken kaçlık/ kaç liralık olduğunu söyler. 
+3.Parayı uzatır. 
+4.Biletini alır. 
+5.Varsa para üstünü alır. 
+6.Durağa gider. 
+7.Durakta sıraya girer. 
+8.Otobüs gelince sırayla biner. 
+9.Otobüs biletini kutuya atar/okuyucuya değdirir. 
+10.Arkaya doğru ilerler. 
+11.Boş yer varsa oturur. 
+12.Otobüste ayakta dururken uygun yerden tutunur. 
+13.İneceği duraktan önce kapıya yaklaşır. 
+14.Zile basar. 
+15.Otobüs durduğu zaman iner. 
+
+Amaç 158. Ulaşımda metro kullanır. (9 P)
+Davranışlar 
+1.Metro jetonu /bileti alınan yere gider. 
+2.Jeton/bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+3.Parayı uzatır. 
+4.Jetonu/bileti alır. 
+5.Varsa para üstünü alır. 
+6.Metro istasyonunda giriş turnikesini tanır. 
+7.Jetonu atar/bileti okuyucuya değdirir. 
+8.Turnikeden geçer. 
+9.Uygun perona gider. 
+10.Peronda uyarı çizgisini (kırmızı-sarı) geçmeden bekler. 
+11.Metro gelince durmasını bekler. 
+12.Metro kapısı açılınca araca biner. 
+13.Uygun bir yerde oturarak/ ayakta bekler. 
+14.İneceği duraktan önce kapıya yaklaşır. 
+15.Araç durunca iner. 
+
+Amaç 159. Ulaşımda vapur kullanır. (9 P)
+Davranışlar 
+1.Vapur jetonu alınan/ doldurulan yere gider. 
+2.Jeton/bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+3.Parayı uzatır. 
+4.Jetonu/bileti alır. 
+5.Varsa para üstünü alır. 
+6.Vapur iskelesinde giriş turnikesine gider. 
+7.Jetonu atar/bileti okuyucuya değdirir. 
+8.Turnikeden geçer. 
+9.Uygun kapıya gider. 
+10.Vapur gelene kadar bekler. 
+11.Vapurun iskeleye yanaşmasını bekler. 
+12.Vapur girişi açılınca biner. 
+13.Vapurda uygun bir yerde oturur/ayakta durur. 
+14.İneceği iskeleye gelene kadar bekler. 
+15.Vapurun iskeleye iyice yanaşmasını bekler. 
+16.Vapurdan iner. 
+
+Amaç 160. Ulaşımda tren kullanır. (8 P)
+Davranışlar 
+1.Tren istasyonuna gider. 
+2.Tren bileti alınan gişeye gider. 
+3.Bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+4.Parayı uzatır. 
+5.Bileti alır. 
+6.Varsa para üstünü alır. 
+7.Tren istasyona gelinceye kadar raylara yaklaşmadan bekler. 
+8.Tren istasyonda durunca vagona biner. 
+9.Tren biletini görevliye verir. 
+10.Biletinde belirtilen yere oturur. 
+11.İneceği istasyona gelinceye kadar oturarak /uygun bir yerde ayakta bekler. 
+12.İneceği duraktan önce kapıya yaklaşır.  
+13.Araç durunca iner. 
+
+Amaç 161. Ulaşımda dolmuş kullanır. (9 P)
+Davranışlar 
+1.Dolmuş durağına gider. 
+2.Gideceği yere uygun hattı seçer. 
+3.Elini kaldırarak dolmuşu durdurur. 
+4.Ücreti sorar. 
+5.Parayı uzatır. 
+6.Varsa para üstünü alır. 
+7.İneceği durağa yaklaşınca söyler. 
+8.Dolmuş durunca iner. 
+
+Amaç 117. Parayı günlük yaşamda kullanır. (8 P)
+Davranışlar 
+1. Verilen paraları sayarak toplam kaç para olduğunu söyler. 
+2. Alacağı nesnenin tutarı kadar verilen para ile alışveriş yapar. 
+3. Alacağı nesnenin tutarından fazla para verildiğinde para üstünü hesaplar. 
+
+Genel Amaç-2. Trafiği oluşturan öğeleri tanır.
+
+Genel Amaç-3. Trafik kazalarının nedenlerini kavrar. 
+
+Genel Amaç-4. Trafik kurallarına uyulmaması hâlinde karşılaşılabilecek tehlikeleri kavrar. 
+
+Amaç 51. Kaza türlerini tanır.(9 P)
+Davranışlar 
+1. Evde ve okulda karşılaşabileceği kazayı çeşitli materyallerden gösterir. 
+2. Evde ve okulda karşılaşabileceği kazaları söyler. 
+3. Yolda karşılaşabileceği kazayı çeşitli materyallerden gösterir. 
+4. Yolda karşılaşabileceği kazaları söyler. 
+
+Amaç 52. Kazalardan korunma yollarını bilir. (9 P)
+Davranışlar 
+1. Evde karşılaşabileceği kazalardan korunmak için yapılması gerekenleri söyler. 
+2. Okulda karşılaşabileceği kazalardan korunmak için yapılması gerekenleri söyler. 
+3. Yolda karşılaşabileceği kazalardan korunmak için yapılması gerekenleri söyler. 
+
+Araç 157. Ulaşımda otobüs kullanır.(5 P)
+Davranışlar 
+1.Otobüs bileti alınan/doldurulan yere gider. 
+2.Bilet alırken kaçlık/ kaç liralık olduğunu söyler. 
+3.Parayı uzatır. 
+4.Biletini alır. 
+5.Varsa para üstünü alır. 
+6.Durağa gider. 
+7.Durakta sıraya girer. 
+8.Otobüs gelince sırayla biner. 
+9.Otobüs biletini kutuya atar/okuyucuya değdirir. 
+10.Arkaya doğru ilerler. 
+11..Boş yer varsa oturur. 
+12.Otobüste ayakta dururken uygun yerden tutunur. 
+13.İneceği duraktan önce kapıya yaklaşır. 
+14.Zile basar. 
+15.Otobüs durduğu zaman iner. 
+
+Amaç 158. Ulaşımda metro kullanır. (5 P)
+Davranışlar 
+1.Metro jetonu /bileti alınan yere gider. 
+2.Jeton/bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+3.Parayı uzatır. 
+4.Jetonu/bileti alır. 
+5.Varsa para üstünü alır. 
+6.Metro istasyonunda giriş turnikesini tanır. 
+7.Jetonu atar/bileti okuyucuya değdirir. 
+8.Turnikeden geçer. 
+9.Uygun perona gider. 
+10.Peronda uyarı çizgisini (kırmızı-sarı) geçmeden bekler. 
+11.Metro gelince durmasını bekler. 
+12.Metro kapısı açılınca araca biner. 
+13.Uygun bir yerde oturarak/ ayakta bekler. 
+14.İneceği duraktan önce kapıya yaklaşır. 
+15.Araç durunca iner. 
+
+Amaç 159. Ulaşımda vapur kullanır. (5 P)
+Davranışlar 
+1.Vapur jetonu alınan/ doldurulan yere gider. 
+2.Jeton/bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+3.Parayı uzatır. 
+4.Jetonu/bileti alır. 
+5.Varsa para üstünü alır. 
+6.Vapur iskelesinde giriş turnikesine gider. 
+7.Jetonu atar/bileti okuyucuya değdirir. 
+8.Turnikeden geçer. 
+9.Uygun kapıya gider. 
+10.Vapur gelene kadar bekler. 
+11.Vapurun iskeleye yanaşmasını bekler. 
+12.Vapur girişi açılınca biner. 
+13.Vapurda uygun bir yerde oturur/ayakta durur. 
+14.İneceği iskeleye gelene kadar bekler. 
+15.Vapurun iskeleye iyice yanaşmasını bekler. 
+16.Vapurdan iner. 
+
+Amaç 160. Ulaşımda tren kullanır. (5 P)
+Davranışlar 
+1.Tren istasyonuna gider. 
+2.Tren bileti alınan gişeye gider. 
+3.Bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+4.Parayı uzatır. 
+5.Bileti alır. 
+6.Varsa para üstünü alır. 
+7.Tren istasyona gelinceye kadar raylara yaklaşmadan bekler. 
+8.Tren istasyonda durunca vagona biner. 
+9.Tren biletini görevliye verir. 
+10.Biletinde belirtilen yere oturur. 
+11.İneceği istasyona gelinceye kadar oturarak /uygun bir yerde ayakta bekler. 
+12.İneceği duraktan önce kapıya yaklaşır.  
+13.Araç durunca iner. 
+
+Genel Amaç-5. İlk yardımın insan hayatındaki önemini kavrar. 
+
+Amaç 53.  Ecza dolabında bulunan malzemeleri tanır. (12 P)
+Davranışlar  
+1. Ecza dolabını gösterir. 
+2. Adı söylenen malzemeyi gösterir. 
+3. Gösterilen malzemenin adını söyler. 
+4. Malzemeleri gerekli durumlarda bir yetişkine getirir. 
+
+Genel Amaç-6. Trafik kurallarına uyma alışkanlığı kazanır.
+
+Araç 157. Ulaşımda otobüs kullanır.(7 P)
+Davranışlar 
+1.Otobüs bileti alınan/doldurulan yere gider. 
+2.Bilet alırken kaçlık/ kaç liralık olduğunu söyler. 
+3.Parayı uzatır. 
+4.Biletini alır. 
+5.Varsa para üstünü alır. 
+6.Durağa gider. 
+7.Durakta sıraya girer. 
+8.Otobüs gelince sırayla biner. 
+9.Otobüs biletini kutuya atar/okuyucuya değdirir. 
+10.Arkaya doğru ilerler. 
+11.Boş yer varsa oturur. 
+12.Otobüste ayakta dururken uygun yerden tutunur. 
+13.İneceği duraktan önce kapıya yaklaşır. 
+14.Zile basar. 
+15.Otobüs durduğu zaman iner. 
+
+Amaç 158. Ulaşımda metro kullanır. (7 P)
+Davranışlar 
+1.Metro jetonu /bileti alınan yere gider. 
+2.Jeton/bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+3.Parayı uzatır. 
+4.Jetonu/bileti alır. 
+5.Varsa para üstünü alır. 
+6.Metro istasyonunda giriş turnikesini tanır. 
+7.Jetonu atar/bileti okuyucuya değdirir. 
+8.Turnikeden geçer. 
+9.Uygun perona gider. 
+10.Peronda uyarı çizgisini (kırmızı-sarı) geçmeden bekler. 
+11.Metro gelince durmasını bekler. 
+12.Metro kapısı açılınca araca biner. 
+13.Uygun bir yerde oturarak/ ayakta bekler. 
+14.İneceği duraktan önce kapıya yaklaşır. 
+15.Araç durunca iner. 
+
+Amaç 159. Ulaşımda vapur kullanır. (7 P)
+Davranışlar 
+1.Vapur jetonu alınan/ doldurulan yere gider. 
+2.Jeton/bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+3.Parayı uzatır. 
+4.Jetonu/bileti alır. 
+5.Varsa para üstünü alır. 
+6.Vapur iskelesinde giriş turnikesine gider. 
+7.Jetonu atar/bileti okuyucuya değdirir. 
+8.Turnikeden geçer. 
+9.Uygun kapıya gider. 
+10.Vapur gelene kadar bekler. 
+11.Vapurun iskeleye yanaşmasını bekler. 
+12.Vapur girişi açılınca biner. 
+13.Vapurda uygun bir yerde oturur/ayakta durur. 
+14.İneceği iskeleye gelene kadar bekler. 
+15.Vapurun iskeleye iyice yanaşmasını bekler. 
+16.Vapurdan iner. 
+
+Amaç 160. Ulaşımda tren kullanır. (7 P)
+Davranışlar 
+1.Tren istasyonuna gider. 
+2.Tren bileti alınan gişeye gider. 
+3.Bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+4.Parayı uzatır. 
+5.Bileti alır. 
+6.Varsa para üstünü alır. 
+7.Tren istasyona gelinceye kadar raylara yaklaşmadan bekler. 
+8.Tren istasyonda durunca vagona biner. 
+9.Tren biletini görevliye verir. 
+10.Biletinde belirtilen yere oturur. 
+11.İneceği istasyona gelinceye kadar oturarak /uygun bir yerde ayakta bekler. 
+12.İneceği duraktan önce kapıya yaklaşır.  
+13.Araç durunca iner. 

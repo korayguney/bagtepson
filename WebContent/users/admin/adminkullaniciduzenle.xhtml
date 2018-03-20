@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui">
+	
+<ui:composition template="/WEB-INF/templates/admin.xhtml">
+	<ui:define name="pageContent">
+
+	<div class="alert alert-info" align="center"><h3>Kullanıcı Düzenleme Sayfası </h3> </div>
+	<div class="alert alert-success" align="center">	
+	<h:form id="tableForm">
+		<p:dataTable id="dtable" value="#{kullaniciDuzenleBean.users}" var="user"
+			editable="true">
+			  <p:ajax event="rowEdit" listener="#{kullaniciDuzenleBean.onRowEdit}"
+			   update="dtable :growl" />
+			
+			<p:column headerText="Adı" sortBy="#{user.firstname}" >
+				<p:cellEditor>
+					<f:facet name="output">
+						#{user.firstname}
+					</f:facet>
+					<f:facet name="input">
+						<p:inputText value="#{user.firstname}" />
+					</f:facet>
+				</p:cellEditor>
+			</p:column>
+			
+			<p:column headerText="Soyadı" sortBy="#{user.lastname}" >
+				<p:cellEditor>
+					<f:facet name="output">
+						#{user.lastname}
+					</f:facet>
+					<f:facet name="input">
+						<p:inputText value="#{user.lastname}" />
+					</f:facet>
+				</p:cellEditor>
+			</p:column>
+			
+			<p:column headerText="Kullanıcı Adı" sortBy="#{user.username}">
+				<p:cellEditor>
+					<f:facet name="output">
+						#{user.username}
+					</f:facet>
+					<f:facet name="input">
+						<p:inputText value="#{user.username}" />
+					</f:facet>
+				</p:cellEditor>
+			</p:column>
+			
+			<p:column headerText="Parola">
+				<p:cellEditor>
+					<f:facet name="output">
+						#{user.password}
+					</f:facet>
+					<f:facet name="input">
+						<p:inputText value="#{user.password}" />
+					</f:facet>
+				</p:cellEditor>
+			</p:column>
+			
+			<p:column headerText="Rol / Yetki" sortBy="#{user.role}" >
+				<p:cellEditor>
+					<f:facet name="output">
+						#{user.role}
+					</f:facet>
+					<f:facet name="input">
+						<p:inputText value="#{user.role}" />
+					</f:facet>
+				</p:cellEditor>
+			</p:column>
+			
+			<p:column headerText="Düzenle">
+				<p:rowEditor />
+			</p:column>
+			
+			<p:column headerText="Sil">
+				<p:commandButton value="Sil" action="#{kullaniciDuzenleBean.selecttoDeleteKullanici(user.id)}"
+				update="dtable" oncomplete="$('#myModal').modal();" />
+			</p:column>
+
+		</p:dataTable>
+
+	</h:form>
+	<p:growl id="growl"></p:growl>
+
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Sayın #{mySessionScopedBean.firstname}  #{mySessionScopedBean.lastname}</h4>
+      </div>
+      <div class="modal-body">
+        <p>Seçtiğiniz Kullanıcı Silinecek. Emin misiniz?</p>
+      </div>
+      <div class="modal-footer">
+      <p:commandButton styleClass="btn btn-default" value="Sil" action="#{kullaniciDuzenleBean.deleteUser()}" oncomplete="$('#myModal').modal();location.reload();"/>
+     
+        <button type="button" class="btn btn-default" data-dismiss="modal">İptal</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+</div>
+	</ui:define>
+</ui:composition>
+
+</html>

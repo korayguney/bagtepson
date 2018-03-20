@@ -1,0 +1,400 @@
+﻿Genel Amaç-1. Taşıtların günlük yaşamdaki önemini bilir. 
+
+Amaç 1. Taşıtları tanır ve sınıflandırır.(10 P)
+Davranışlar 
+1. Adı söylenen taşıtı gösterir. 
+2. Gösterilen taşıtın adını söyler. 
+3. Kara taşıtını gösterir. 
+4. Kara taşıtlarının adlarını sıralar. 
+5. Hava taşıtını gösterir. 
+6. Hava taşıtlarının adlarını sıralar. 
+7. Deniz taşıtını gösterir. 
+8. Deniz taşıtlarının adlarını sıralar. 
+9. Toplu taşıma aracını gösterir. 
+10. Toplu taşıma araçlarının adlarını sıralar. 
+
+Amaç 2. Taşıtları kullananları tanır. (7 P)
+Davranışlar 
+1. Kara taşıtlarını kullananlara şoför ve makinist denildiğini söyler. 
+2. Hava taşıtlarını kullananlara pilot denildiğini söyler. 
+3. Deniz taşıtlarını kullananlara kaptan denildiğini söyler. 
+
+Amaç 3.Taşıtların kalkış yerlerini ayırt eder /gösterir/söyler.(8 P)
+Davranışlar 
+1.Verilen resimler arasından gar resmini gösterir. 
+2.Verilen resimler arasından terminal resmini gösterir. 
+3.Verilen resimler arasından durak resmini gösterir. 
+4.Kara taşıtlarının ilk hareket yerlerinin gar, terminal, durak olduğunu söyler. 
+5.Verilen resimler arasından hava alanı resmini gösterir. 
+6.Hava taşıtlarının hareket yerlerinin hava alanı olduğunu söyler. 
+7.Verilen resimler arasından liman resmini gösterir. 
+8.Deniz taşıtlarının hareket yerlerinin liman/iskele olduğunu söyler. 
+
+Amaç 5. Toplu taşıma araçlarıyla ilgili olguları ifade eder.   (3 P)
+Davranışlar
+1. Otobüs, metro vb. taşıtların toplu taşıma araçları olduğunu söyler. 
+2. Toplu taşıma araçlarından aynı anda çok sayıda kişinin yararlanabileceğini söyler. 
+3. Trafik yoğunluğunu azaltmak için toplu taşıma araçlarının seçilmesi gerektiğini söyler. 
+
+Amaç 6. Toplu taşıma araçlarında kullanılan belgeleri tanır. (4 P)
+Davranışlar 
+1. Adı söylenen belgeyi gösterir. 
+2. Gösterilen belgenin adını söyler. 
+3. Toplu taşıma araçlarında kullanılan belgelerin adlarını sıralar. 
+
+Amaç 7. Toplu taşıma araçlarıyla şehir içi yolculukta izlenmesi gereken sırayı bilir. (8 P)
+Davranışlar 
+1. Bineceği araca ait durağa/istasyona/iskeleye gitmesi gerektiğini söyler. 
+2. Araca binmek için sıraya girmesi gerektiğini söyler. 
+3. Araca binmeden önce kullanacağı belgeyi çıkarması gerektiğini söyler. 
+4. Gelen araçların gittiği yönü belirten yazıları okuyarak, gideceği yöne uygun araca binmesi gerektiğini söyler. 
+5. Araca binmek için kapının açılmasını beklemesi ya da kapıyı kendisinin açması gerektiğini söyler. 
+6. Araca bindikten sonra kartını basması/biletini atması/para vermesi gerektiğini söyler. 
+7. Araçta oturulacak yer varsa oturması yoksa arkaya doğru ilerleyip uygun bir yerden tutması gerektiğini söyler. 
+8. İneceği yere yaklaştığında hazırlanması gerektiğini söyler. 
+9. Araç durunca inmek için kapının açılmasını beklemesi ya da kapıyı kendisinin açması gerektiğini söyler. 
+
+Amaç 8. Yolculuk sırasında uyulması gereken kuralları bilir. (8 P)
+Davranışlar 
+1. Yolculuk sırasında alçak sesle konuşulması gerektiğini söyler. 
+2. Yolculuk sırasında yaşlı, çocuk ve hastalara yer verilmesi gerektiğini söyler. 
+3. Taşıt durduktan sonra taşıttan inilmesi ve binilmesi gerektiğini söyler. 
+4. Yolculuk sırasında taşıtların penceresinden kol ve başın çıkartılmaması gerektiğini söyler. 
+5. Yolculuk sırasında kokulu ve kabuklu yiyecek yenilmemesi 
+gerektiğini söyler. 
+6. Yolculuk sırasında şoförün ve diğer yolcuların rahatsız edilmemesi gerektiğini söyler. 
+7. Yolcuk sırasında taşıtların temiz tutulması gerektiğini söyler. 
+8. Yolculuk sırasında emniyet kemeri takılması gerektiğini söyler. 
+9. Yolculuk sırasında taşıtların penceresinden çeşitli maddelerin atılmaması gerektiğini söyler. 
+
+
+Genel Amaç-2. Trafiği oluşturan öğeleri tanır.
+
+Amaç 1. Taşıtları tanır ve sınıflandırır.(20 P)
+Davranışlar 
+1. Adı söylenen taşıtı gösterir. 
+2. Gösterilen taşıtın adını söyler. 
+3. Kara taşıtını gösterir. 
+4. Kara taşıtlarının adlarını sıralar. 
+5. Hava taşıtını gösterir. 
+6. Hava taşıtlarının adlarını sıralar. 
+7. Deniz taşıtını gösterir. 
+8. Deniz taşıtlarının adlarını sıralar. 
+9. Toplu taşıma aracını gösterir. 
+10. Toplu taşıma araçlarının adlarını sıralar. 
+
+Amaç 2. Taşıtları kullananları tanır. (6 P)
+Davranışlar 
+1. Kara taşıtlarını kullananlara şoför ve makinist denildiğini söyler. 
+2. Hava taşıtlarını kullananlara pilot denildiğini söyler. 
+3. Deniz taşıtlarını kullananlara kaptan denildiğini söyler. 
+
+Amaç 3.Taşıtların kalkış yerlerini ayırt eder/gösterir/söyler.(18 P)
+Davranışlar 
+1.Verilen resimler arasından gar resmini gösterir. 
+2.Verilen resimler arasından terminal resmini gösterir. 
+3.Verilen resimler arasından durak resmini gösterir. 
+4.Kara taşıtlarının ilk hareket yerlerinin gar, terminal, durak olduğunu söyler. 
+5.Verilen resimler arasından hava alanı resmini gösterir. 
+6.Hava taşıtlarının hareket yerlerinin hava alanı olduğunu söyler. 
+7.Verilen resimler arasından liman resmini gösterir. 
+8.Deniz taşıtlarının hareket yerlerinin liman/iskele olduğunu söyler. 
+
+Amaç 9. Trafiğin anlamını bilir. (4 P)
+Davranışlar 
+1. Trafiği oluşturan öğelerin taşıtlar, insanlar ve yollar olduğunu söyler. 
+2. Taşıtların ve insanların yol üzerindeki hareket düzenine "trafik" denildiğini söyler. 
+
+Amaç 10. Yayayı tanır. (6 P)
+Davranışlar 
+1. Yayayı gösterir. 
+2. Gösterilenin yaya olduğunu söyler. 
+3. Araç dışında, kara yolunda bulunan insanlara "yaya" denildiğini söyler. 
+
+Amaç 11. Yolcuyu tanır. (6 P)
+Davranışlar 
+1. Yolcuyu gösterir. 
+2. Gösterilenin yolcu olduğunu söyler. 
+3. Taşıtı kullanan kişi dışındaki insanlara "yolcu" denildiğini söyler. 
+
+Amaç 12. Taşıt yolunu tanır. (6 P)
+Davranışlar 
+1. Taşıt yolunu gösterir. 
+2. Gösterilenin taşıt yolu olduğunu söyler. 
+3. Kara yolunun taşıtlar tarafından kullanılan bölümüne "taşıt yolu" denildiğini söyler. 
+
+Amaç 13. Yaya yolunu tanır. (6 P)
+Davranışlar 
+1. Yaya yolunu gösterir. 
+2. Gösterilenin yaya yolu olduğunu söyler. 
+3. Kara yolunun yayalar tarafından kullanılan bölümüne "yaya yolu" denildiğini söyler. 
+
+Amaç 14. Trafik polisini tanır. (6 P)
+Davranışlar 
+1. Trafik polisini gösterir. 
+2. Gösterilenin trafik polisi olduğunu söyler. 
+3. Yayaların, kara taşıtlarının hareketlerini düzenleyen ve denetleyen kişiye "trafik polisi" denildiğini söyler. 
+
+Amaç 15. Yaya geçidini tanır. (8 P)
+Davranışlar 
+1. Adı söylenen yaya geçidini gösterir. 
+2. Gösterilen yaya geçidinin adını söyler. 
+3. Alt geçidin, üst geçidin ve yoldaki çizgilerle belirtilmiş geçidin yaya geçitleri olduğunu söyler. 
+4. Taşıt yolunda yayaların karşıya güvenli geçmelerini sağlayan alanlara "yaya geçidi" denildiğini söyler. 
+
+Amaç 16. Trafik lâmbasını tanır. (8 P)
+Davranışlar 
+1. Trafik lâmbasını gösterir. 
+2. Gösterilenin trafik lâmbası olduğunu söyler. 
+3. Trafik lâmbasının yayaların ve kara taşıtlarının hareketlerini düzenlediğini söyler. 
+
+Amaç 19. Başlıca trafik levhalarını tanır. (6 P)
+Davranışlar 
+1. Adı söylenen trafik levhasını gösterir. 
+2. Gösterilen trafik levhasının adını söyler. 
+3. Gösterilen levhanın anlamını söyler
+
+Genel Amaç-3. Trafik kazalarının nedenlerini kavrar. 
+
+Amaç 16. Trafik lâmbasını tanır. (12 P)
+Davranışlar 
+1.Trafik lâmbasını gösterir. 
+2.Gösterilenin trafik lâmbası olduğunu söyler. 
+3.Trafik lâmbasının yayaların ve kara taşıtlarının hareketlerini düzenlediğini söyler. 
+
+Amaç 17. Yayalar için kullanılan trafik lâmbasındaki ışıkların anlamını bilir. (8 P)
+Davranışlar 
+1.Kırmızı ışıkta durulması gerektiğini söyler. 
+2.Yeşil ışıkta karşıya geçilmesi gerektiğini söyler. 
+
+Amaç 18. Trafik ışıklarına uygun hareket eder.(28 P)
+Davranışlar 
+1.Işıklı trafik işaret cihazını gösterir. 
+2.Gösterilenin ışıklı trafik işaret cihazı olduğunu söyler. 
+3.Işıklı trafik işaret cihazının yayaların ve kara taşıtlarının hareketlerini düzenlediğini söyler. 
+4.Trafik ışıklarından kırmızı ışığı gösterir/söyler. 
+5.Trafik ışıklarından kırmızı ışığın "dur" anlamına geldiğini söyler. 
+6.Trafik ışıklarından sarı ışığı gösterir/söyler. 
+7.Trafik ışıklarından sarı ışığın "hazır ol" anlamına geldiğini söyler. 
+8.Trafik ışıklarından yeşil ışığı gösterir/söyler. 
+9.Trafik ışıklarından yeşil ışığın "geç" anlamına geldiğini söyler. 
+
+Amaç 19. Başlıca trafik levhalarını tanır. (12 P)
+Davranışlar 
+1. Adı söylenen trafik levhasını gösterir. 
+2. Gösterilen trafik levhasının adını söyler. 
+3. Gösterilen levhanın anlamını söyler. 
+
+Amaç 21. Karşıya güvenli geçiş yapılabilecek yerleri bilir. (16 P)
+Davranışlar 
+1. Trafik lâmbası olan yerde karşıya güvenli geçiş yapılabileceğini söyler.
+2. Trafik polisi olan yerde karşıya güvenli geçiş yapılabileceğini söyler. 
+3. Alt geçitten karşıya güvenli geçiş yapılabileceğini söyler. 
+4. Üst geçitten karşıya güvenli geçiş yapılabileceğini söyler. 
+
+Amaç 22. Trafik denetiminin ve geçitlerin olmadığı yerlerde karşıya güvenli geçişte izlenecek sırayı bilir. (24 P)
+Davranışlar 
+1. Karşıya geçmek için kaldırım kenarında durulması gerektiğini söyler. 
+2. Önce sola bakılması gerektiğini söyler. 
+3. Sonra sağa bakılması gerektiğini söyler. 
+4. Sonra tekrar sola bakılması gerektiğini söyler. 
+5. Gelen araç yoksa yolun ortasına kadar yürünmesi gerektiğini söyler. 
+6. Yolun ortasında tekrar sağa bakılması gerektiğini söyler. 
+7. Gelen bir araç yoksa karşıya geçilmesi gerektiğini söyler. 
+
+Genel Amaç-4. Trafik kurallarına uyulmaması hâlinde karşılaşılabilecek tehlikeleri kavrar. 
+
+Amaç 7. Toplu taşıma araçlarıyla şehir içi yolculukta izlenmesi gereken sırayı bilir. (9 P)
+Davranışlar 
+1. Bineceği araca ait durağa/istasyona/iskeleye gitmesi gerektiğini söyler. 
+2. Araca binmek için sıraya girmesi gerektiğini söyler. 
+3. Araca binmeden önce kullanacağı belgeyi çıkarması gerektiğini söyler. 
+4. Gelen araçların gittiği yönü belirten yazıları okuyarak, gideceği yöne uygun araca binmesi gerektiğini söyler. 
+5. Araca binmek için kapının açılmasını beklemesi ya da kapıyı kendisinin açması gerektiğini söyler. 
+6. Araca bindikten sonra kartını basması/biletini atması/para vermesi gerektiğini söyler. 
+7. Araçta oturulacak yer varsa oturması yoksa arkaya doğru ilerleyip uygun bir yerden tutması gerektiğini söyler. 
+8. İneceği yere yaklaştığında hazırlanması gerektiğini söyler. 
+9. Araç durunca inmek için kapının açılmasını beklemesi ya da kapıyı kendisinin açması gerektiğini söyler. 
+
+Amaç 8. Yolculuk sırasında uyulması gereken kuralları bilir. (9 P)
+Davranışlar 
+1. Yolculuk sırasında alçak sesle konuşulması gerektiğini söyler. 
+2. Yolculuk sırasında yaşlı, çocuk ve hastalara yer verilmesi gerektiğini söyler. 
+3. Taşıt durduktan sonra taşıttan inilmesi ve binilmesi gerektiğini söyler. 
+4. Yolculuk sırasında taşıtların penceresinden kol ve başın çıkartılmaması gerektiğini söyler. 
+5. Yolculuk sırasında kokulu ve kabuklu yiyecek yenilmemesi 
+gerektiğini söyler. 
+6. Yolculuk sırasında şoförün ve diğer yolcuların rahatsız edilmemesi gerektiğini söyler. 
+7. Yolcuk sırasında taşıtların temiz tutulması gerektiğini söyler. 
+8. Yolculuk sırasında emniyet kemeri takılması gerektiğini söyler. 
+9. Yolculuk sırasında taşıtların penceresinden çeşitli maddelerin atılmaması gerektiğini söyler. 
+
+Amaç 17. Yayalar için kullanılan trafik lâmbasındaki ışıkların anlamını bilir. (6 P)
+Davranışlar 
+1.Kırmızı ışıkta durulması gerektiğini söyler. 
+2.Yeşil ışıkta karşıya geçilmesi gerektiğini söyler. 
+
+Amaç 18. Trafik ışıklarına uygun hareket eder.(9 P)
+Davranışlar 
+1.Işıklı trafik işaret cihazını gösterir. 
+2.Gösterilenin ışıklı trafik işaret cihazı olduğunu söyler. 
+3.Işıklı trafik işaret cihazının yayaların ve kara taşıtlarının hareketlerini düzenlediğini söyler. 
+4.Trafik ışıklarından kırmızı ışığı gösterir/söyler. 
+5.Trafik ışıklarından kırmızı ışığın "dur" anlamına geldiğini söyler. 
+6.Trafik ışıklarından sarı ışığı gösterir/söyler. 
+7.Trafik ışıklarından sarı ışığın "hazır ol" anlamına geldiğini söyler. 
+8.Trafik ışıklarından yeşil ışığı gösterir/söyler. 
+9.Trafik ışıklarından yeşil ışığın "geç" anlamına geldiğini söyler. 
+
+Amaç 20. Güvenli oyun yerlerini tanır. (6 P)
+Davranışlar 
+1. Adı söylenen oyun alanını gösterir. 
+2. Gösterilen oyun alanının adını söyler. 
+3. Oyun alanlarının adlarını sıralar. 
+
+Amaç 21. Karşıya güvenli geçiş yapılabilecek yerleri bilir. (8 P)
+Davranışlar 
+1. Trafik lâmbası olan yerde karşıya güvenli geçiş yapılabileceğini söyler.
+2. Trafik polisi olan yerde karşıya güvenli geçiş yapılabileceğini söyler. 
+3. Alt geçitten karşıya güvenli geçiş yapılabileceğini söyler. 
+4. Üst geçitten karşıya güvenli geçiş yapılabileceğini söyler. 
+
+Amaç 22. Trafik denetiminin ve geçitlerin olmadığı yerlerde karşıya güvenli geçişte izlenecek sırayı bilir. (8 P)
+Davranışlar 
+1. Karşıya geçmek için kaldırım kenarında durulması gerektiğini söyler. 
+2. Önce sola bakılması gerektiğini söyler. 
+3. Sonra sağa bakılması gerektiğini söyler. 
+4. Sonra tekrar sola bakılması gerektiğini söyler. 
+5. Gelen araç yoksa yolun ortasına kadar yürünmesi gerektiğini söyler. 
+6. Yolun ortasında tekrar sağa bakılması gerektiğini söyler. 
+7. Gelen bir araç yoksa karşıya geçilmesi gerektiğini söyler. 
+
+Amaç 23. Yayaların uyması gereken kuralları bilir. (7 P)
+Davranışlar 
+1. Yayaların yaya yolundan yürümesi gerektiğini söyler. 
+2. Yayaların, yaya kaldırımının sağından yürümesi gerektiğini söyler. 
+3. Yayaların, yaya kaldırımı olmayan yerlerde gidiş yönüne göre taşıt yolunun solundan yürünmesi gerektiğini söyler. 
+4. Trafik denetiminin ve geçitlerin olduğu yerlerden karşıdan karşıya geçilmesi gerektiğini söyler. 
+5. Duran araçların arkasından ve önünden yola çıkılmaması gerektiğini söyler. 
+6. Oyunların oyun alanında oynanması gerektiğini söyler. 
+
+
+Genel Amaç-5. İlk yardımın insan hayatındaki önemini kavrar. 
+
+Amaç 20. Güvenli oyun yerlerini tanır. (8 P)
+Davranışlar 
+1. Adı söylenen oyun alanını gösterir. 
+2. Gösterilen oyun alanının adını söyler. 
+3. Oyun alanlarının adlarını sıralar. 
+
+Amaç 24. Trafik kazalarından korunma yollarını kavrar. (8 P)
+Davranışlar 
+1. Karşıdan karşıya geçişlerde kurallara uyulmadığında neler olabileceğini söyler. 
+2. Trafik levha ve ışıklarına uyulmadığında neler olabileceğini söyler. 
+3. Trafik polisinin uyarılarına uyulmadığında neler olabileceğini söyler. 
+4. Cadde ve sokaklarda oyun oynandığında neler olabileceğini söyler. 
+5. Yolculuklarda emniyet kemeri takılmadığında neler olabileceğini söyler. 
+
+Amaç 25. İlk yardımın anlamını bilir. (12 P)
+Davranışlar 
+1. Kazaya uğrayan kişileri bir sağlık kuruluşuna ulaştırıncaya kadar yapılan yardımın "ilk yardım" olduğunu söyler. 
+2. İlk yardımın yaşam kurtardığını söyler. 
+3. İlk yardımın olay yerindeki malzemelerle yapıldığını söyler. 
+
+Amaç 27. Ecza dolabında bulunan araç gereçleri tanır. (12 P)
+Davranışlar 
+1. Adı söylenen araç gereci gösterir. 
+2. Gösterilen araç gerecin adını söyler. 
+3. Ecza dolabında bulunan araç gereçlerin adlarını sıralar. 
+
+Amaç 28. Kaza durumunda yapılması gerekenleri bilir. (12 P)
+Davranışlar 
+1. Kaza durumunda en yakındaki kişiye haber verilmesi gerektiğini söyler. 
+2. İlk yardım konusunda bilgili olan kişilerce ilk yardım yapılması gerektiğini söyler. 
+3. Kaza geçirenlere ilk yardım yapıldıktan sonra en yakın sağlık kurumuna götürülmesi gerektiğini söyler. 
+
+Amaç 29. Basit yaralanmalarda ilk yardım yapar. (12 P)
+Davranışlar 
+1. Temiz bir bezle kanayan bölgeye bastırarak kanamayı durdurur. 
+2. Ellerini yıkar. 
+3. Yara çevresini sabunlu su ile temizler. 
+4. Yara üzerine gazlı bez koyar. 
+5. Gazlı bezin üzerini sargı beziyle sarar. 
+
+Amaç 30. Burun kanamalarında ilk yardım yapar. (12 P)
+Davranışlar 
+1. Burun kanatlarını parmaklarıyla kuvvetlice sıkar. 
+2. Kanayan burnu suyla yıkar. 
+3. Burnu kanayan kişiyi bir yere oturtur. 
+4. Burnu kanayan kişinin başını öne eğerek bekletir. 
+
+Amaç 31. Hafif yanıklarda ilk yardım yapar. (12 P)
+Davranışlar 
+1. Yanık bölgeyi suyla yıkar. 
+2. Yanık bölgeyi soğuk su/buz ile soğutur. 
+3. Yanık bölgeyi temiz sargı beziyle kapatır. 
+
+Genel Amaç-6. Trafik kurallarına uyma alışkanlığı kazanır.
+
+Amaç 7. Toplu taşıma araçlarıyla şehir içi yolculukta izlenmesi gereken sırayı bilir. (12 P)
+Davranışlar 
+1. Bineceği araca ait durağa/istasyona/iskeleye gitmesi gerektiğini söyler. 
+2. Araca binmek için sıraya girmesi gerektiğini söyler. 
+3. Araca binmeden önce kullanacağı belgeyi çıkarması gerektiğini söyler. 
+4. Gelen araçların gittiği yönü belirten yazıları okuyarak, gideceği yöne uygun araca binmesi gerektiğini söyler. 
+5. Araca binmek için kapının açılmasını beklemesi ya da kapıyı kendisinin açması gerektiğini söyler. 
+6. Araca bindikten sonra kartını basması/biletini atması/para vermesi gerektiğini söyler. 
+7. Araçta oturulacak yer varsa oturması yoksa arkaya doğru ilerleyip uygun bir yerden tutması gerektiğini söyler. 
+8. İneceği yere yaklaştığında hazırlanması gerektiğini söyler. 
+9. Araç durunca inmek için kapının açılmasını beklemesi ya da kapıyı kendisinin açması gerektiğini söyler. 
+
+Amaç 8. Yolculuk sırasında uyulması gereken kuralları bilir. (12 P)
+Davranışlar 
+1. Yolculuk sırasında alçak sesle konuşulması gerektiğini söyler. 
+2. Yolculuk sırasında yaşlı, çocuk ve hastalara yer verilmesi gerektiğini söyler. 
+3. Taşıt durduktan sonra taşıttan inilmesi ve binilmesi gerektiğini söyler. 
+4. Yolculuk sırasında taşıtların penceresinden kol ve başın çıkartılmaması gerektiğini söyler. 
+5. Yolculuk sırasında kokulu ve kabuklu yiyecek yenilmemesi 
+gerektiğini söyler. 
+6. Yolculuk sırasında şoförün ve diğer yolcuların rahatsız edilmemesi gerektiğini söyler. 
+7. Yolcuk sırasında taşıtların temiz tutulması gerektiğini söyler. 
+8. Yolculuk sırasında emniyet kemeri takılması gerektiğini söyler. 
+9. Yolculuk sırasında taşıtların penceresinden çeşitli maddelerin atılmaması gerektiğini söyler. 
+
+Amaç 18. Trafik ışıklarına uygun hareket eder.(12 P)
+Davranışlar
+1.Işıklı trafik işaret cihazını gösterir. 
+2.Gösterilenin ışıklı trafik işaret cihazı olduğunu söyler. 
+3.Işıklı trafik işaret cihazının yayaların ve kara taşıtlarının hareketlerini düzenlediğini söyler. 
+4.Trafik ışıklarından kırmızı ışığı gösterir/söyler. 
+5.Trafik ışıklarından kırmızı ışığın "dur" anlamına geldiğini söyler. 
+6.Trafik ışıklarından sarı ışığı gösterir/söyler. 
+7.Trafik ışıklarından sarı ışığın "hazır ol" anlamına geldiğini söyler. 
+8.Trafik ışıklarından yeşil ışığı gösterir/söyler. 
+9.Trafik ışıklarından yeşil ışığın "geç" anlamına geldiğini söyler. 
+
+Amaç 21. Karşıya güvenli geçiş yapılabilecek yerleri bilir. (12 P)
+Davranışlar 
+1. Trafik lâmbası olan yerde karşıya güvenli geçiş yapılabileceğini söyler.
+2. Trafik polisi olan yerde karşıya güvenli geçiş yapılabileceğini söyler. 
+3. Alt geçitten karşıya güvenli geçiş yapılabileceğini söyler. 
+4. Üst geçitten karşıya güvenli geçiş yapılabileceğini söyler. 
+
+Amaç 22. Trafik denetiminin ve geçitlerin olmadığı yerlerde karşıya güvenli geçişte izlenecek sırayı bilir. (12 P)
+Davranışlar 
+1. Karşıya geçmek için kaldırım kenarında durulması gerektiğini söyler. 
+2. Önce sola bakılması gerektiğini söyler. 
+3. Sonra sağa bakılması gerektiğini söyler. 
+4. Sonra tekrar sola bakılması gerektiğini söyler. 
+5. Gelen araç yoksa yolun ortasına kadar yürünmesi gerektiğini söyler. 
+6. Yolun ortasında tekrar sağa bakılması gerektiğini söyler. 
+7. Gelen bir araç yoksa karşıya geçilmesi gerektiğini söyler. 
+
+Amaç 23. Yayaların uyması gereken kuralları bilir. (12 P)
+Davranışlar 
+1. Yayaların yaya yolundan yürümesi gerektiğini söyler. 
+2. Yayaların, yaya kaldırımının sağından yürümesi gerektiğini söyler. 
+3. Yayaların, yaya kaldırımı olmayan yerlerde gidiş yönüne göre taşıt yolunun solundan yürünmesi gerektiğini söyler. 
+4. Trafik denetiminin ve geçitlerin olduğu yerlerden karşıdan karşıya geçilmesi gerektiğini söyler. 
+5. Duran araçların arkasından ve önünden yola çıkılmaması gerektiğini söyler. 
+6. Oyunların oyun alanında oynanması gerektiğini söyler. 

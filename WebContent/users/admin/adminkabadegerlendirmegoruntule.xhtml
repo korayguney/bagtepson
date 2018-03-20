@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui">
+
+<ui:composition template="/WEB-INF/templates/admin.xhtml">
+	<ui:define name="pageContent">
+
+		<div class="alert alert-info" align="center">
+			<h4>Kaba Değerlendirme Görüntüleme Sayfası</h4>
+			<div class="alert alert-success" align="center">
+				<h5>
+					<i class="fa fa-book fa-fw" /><b> Ders : </b>
+					<h:outputText value="#{kabaDegerlendirmeGoruntuleBean.dersAd}" />
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-child fa-fw" /><b>
+						Öğrenci : </b>
+					<h:outputText
+						value="#{kabaDegerlendirmeGoruntuleBean.ogrenciAd} #{kabaDegerlendirmeGoruntuleBean.ogrenciSoyad}" />
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<i class="fa fa-eye fa-fw" /><b> Değerlendirici : </b>
+					<h:outputText
+						value="#{mySessionScopedBean.firstname} #{mySessionScopedBean.lastname}" />
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<i class="fa fa-calendar fa-fw" /><b> Değerlendirme Tarihi : </b>
+					<h:outputText
+						value="#{kabaDegerlendirmeGoruntuleBean.degerlendirmeTarihiFormatla()}" />
+						
+				</h5>
+			</div>
+		</div>
+
+	<h:form>
+		<ui:repeat var="genelAmaclar" value="#{kabaDegerlendirmeBean.genelAmaclar}">
+		<p:accordionPanel activeIndex="null">
+			<p:tab title="#{genelAmaclar.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{genelAmaclar.ozelAmaclar}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="200">
+							<p:selectOneButton value="#{kabaDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}">
+								<f:selectItem itemLabel="Evet" itemValue="#{true}" />
+								<f:selectItem itemLabel="Hayır" itemValue="#{false}" />
+							</p:selectOneButton>
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{kabaDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{kabaDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+		</ui:repeat>
+		
+		
+
+		<div class="alert alert-info" align="center">
+			<p:commandButton actionListener="#{kabaDegerlendirmeGoruntuleBean.degerlendirmeGoruntuleKaydetBos()}" value="Değerlendirme Kaydet" oncomplete="$('#myModal').modal();" />
+		</div>
+		
+		
+	</h:form>
+	
+		<!-- Modal -->
+			<div id="myModal" class="modal fade" role="dialog">
+				<div class="modal-dialog">
+
+					<!-- Modal content-->
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal">&times;</button>
+							<h4 class="modal-title">Sayın
+								#{mySessionScopedBean.firstname} #{mySessionScopedBean.lastname}</h4>
+						</div>
+						<div class="modal-body" align="center">
+							<p><b>#{kabaDegerlendirmeGoruntuleBean.ogrenciAd} #{kabaDegerlendirmeGoruntuleBean.ogrenciSoyad}</b> için yeniden düzenlenen <b>#{kabaDegerlendirmeGoruntuleBean.dersAd}</b> Kaba Değerlendirmesi kaydedilecek. Emin misiniz?</p>
+						</div>
+						<div class="modal-footer">
+							<p:commandButton styleClass="btn btn-default" value="Kaydet"
+								action="#{kabaDegerlendirmeGoruntuleBean.degerlendirmeGoruntuleKaydetAdmin()}"
+								oncomplete="$('#myModal').modal();location.reload();" />
+
+							<button type="button" class="btn btn-default"
+								data-dismiss="modal">İptal</button>
+						</div>
+					</div>
+
+				</div>
+			</div>
+	
+	
+	</ui:define>
+</ui:composition>
+
+</html>
+
+
+
+
+
+
+

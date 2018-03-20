@@ -1,0 +1,243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui">
+<h:head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="description" content="" />
+	<meta name="author" content="" />
+
+	<title>BAGTEP || Bireysel Akademik Gelişimi Takip Programı</title>
+
+	<!-- Bootstrap Core CSS -->
+	<link href="#{request.contextPath}/style/css/bootstrap.min.css"
+		rel="stylesheet" />
+
+	<!-- MetisMenu CSS -->
+	<link href="#{request.contextPath}/style/css/metisMenu.min.css"
+		rel="stylesheet" />
+
+	<!-- Timeline CSS -->
+	<link href="#{request.contextPath}/style/css/timeline.css"
+		rel="stylesheet" />
+
+	<!-- Custom CSS -->
+	<link href="#{request.contextPath}/style/css/startmin.css"
+		rel="stylesheet" />
+
+	<!-- Morris Charts CSS -->
+	<link href="#{request.contextPath}/style/css/morris.css"
+		rel="stylesheet" />
+
+	<!-- Custom Fonts -->
+	<link href="#{request.contextPath}/style/css/font-awesome.min.css"
+		rel="stylesheet" type="text/css" />
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<h:outputScript library="primefaces" name="jquery/jquery.js" />
+	<h:outputScript library="primefaces" name="jquery/jquery-plugins.js" />
+</h:head>
+<body>
+
+	<div id="wrapper">
+
+		<!-- Navigation -->
+		<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="navbar-header">
+			<a href="#{request.contextPath}/users/ogretmen/ogretmenanasayfa.xhtml">
+			<img src="#{request.contextPath}/style/pics/100.png"
+				alt="logo" width="100" height="45" /></a> <a class="navbar-brand"
+				href="#{request.contextPath}/users/ogretmen/ogretmenanasayfa.xhtml">BAGTEP</a>
+
+		</div>
+
+		<button type="button" class="navbar-toggle" data-toggle="collapse"
+			data-target=".navbar-collapse">
+			<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span>
+			<span class="icon-bar"></span> <span class="icon-bar"></span>
+		</button>
+
+		<!-- Top Navigation: Left Menu -->
+		<ul class="nav navbar-nav navbar-right navbar-top-links">
+			<li><a href="http://sakirehanim.meb.k12.tr/meb_iys_dosyalar/34/21/747107/icerikler/bagtep_3331563.html?CHK=926688d201e683ae66cb8c4ebea1214d" target="_blank"><i
+					class="fa fa-heart fa-fw"></i> BAGTEP Hakkında</a></li>
+			<li><a href="http://sakirehanim.meb.k12.tr/tema/index.php"
+				target="_blank"><i class="fa fa-bookmark fa-fw"></i> Okulumuz
+					Hakkında</a></li>
+		</ul>
+
+		<!-- Top Navigation: Right Menu -->
+		<ul class="nav navbar-right navbar-top-links">
+			<li class="dropdown navbar-inverse"><a class="dropdown-toggle"
+				data-toggle="dropdown" href="#"> <i class="fa fa-bell fa-fw"></i>
+					<b class="caret"></b>
+			</a>
+				<ul class="dropdown-menu dropdown-alerts">
+					<li><a href="#">
+							<div>
+								<i class="fa fa-comment fa-fw"></i> New Comment <span
+									class="pull-right text-muted small">4 minutes ago</span>
+							</div>
+					</a></li>
+					<li class="divider"></li>
+					<li><a class="text-center" href="#"> <strong>See
+								All Alerts</strong> <i class="fa fa-angle-right"></i>
+					</a></li>
+				</ul></li>
+			<li class="dropdown"><a class="dropdown-toggle"
+				data-toggle="dropdown" href="#"> <i class="fa fa-user fa-fw"></i>
+					#{mySessionScopedBean.firstname} #{mySessionScopedBean.lastname} <b
+					class="caret"></b>
+			</a>
+				<ul class="dropdown-menu dropdown-user">
+					<li><a href="#"><i class="fa fa-user fa-fw"></i> Kullanıcı
+							Profili</a></li>
+					<li><a href="#"><i class="fa fa-gear fa-fw"></i> Ayarlar</a></li>
+					<li class="divider"></li>
+					<li><a
+						href="#{request.contextPath}/index.xhtml?#{mySessionScopedBean.username}=='' "><i
+							class="fa fa-sign-out fa-fw"></i>Çıkış</a></li>
+				</ul></li>
+		</ul>
+
+		<!-- Sidebar -->
+		<div class="navbar-default sidebar" role="navigation">
+			<div class="sidebar-nav navbar-collapse">
+
+				<ul class="nav" id="side-menu">
+					<li class="sidebar-search">
+						<div class="input-group custom-search-form">
+							<input type="text" class="form-control" placeholder="Ara...">
+								<span class="input-group-btn">
+									<button class="btn btn-primary" type="button">
+										<i class="fa fa-search"></i>
+									</button>
+							</span> </input>
+						</div>
+					</li>
+					
+					<li><a href="#"><i class="fa fa-sliders fa-fw"></i>
+							Değerlendirme İşlemleri<span class="fa arrow"></span></a>
+						<ul class="nav nav-second-level">
+							<li><a href="#"><i class="fa fa-list-ol fa-fw"></i> Kaba
+									Değerlendirme<span class="fa arrow"></span></a>
+
+								<ul class="nav nav-third-level">
+									<li><a
+										href="#{request.contextPath}/users/ogretmen/ogretmenkabadegerlendirmeyapogrencisec.xhtml"><i
+											class="fa fa-calendar-check-o fa-fw"></i> Değerlendirme Yap</a></li>
+									<li><a
+										href="#{request.contextPath}/users/ogretmen/ogretmenkabadegerlendirmegoruntuleogrencisec.xhtml"><i
+											class="fa fa-eye fa-fw"></i> Değerlendirme Görüntüle</a></li>
+
+								</ul></li>
+							<li><a
+								href="#{request.contextPath}/users/ogretmen/ogretmenBireyselEgitimPlaniOgrenciSec.xhtml"><i
+									class="fa fa-pencil-square fa-fw"></i> Bireysel Eğitim Planı</a></li>
+							<li><a href="#"><i class="fa fa-list-ol fa-fw"></i>
+									Dönem Değerlendirme<span class="fa arrow"></span></a>
+
+								<ul class="nav nav-third-level">
+									<li><a
+										href="#{request.contextPath}/users/ogretmen/ogretmenDonemDegerlendirmeYapOgrenciSec.xhtml"><i
+											class="fa fa-calendar-check-o fa-fw"></i> Değerlendirme Yap</a></li>
+									<li><a
+										href="#{request.contextPath}/users/ogretmen/ogretmenDonemDegerlendirmeGoruntuleOgrenciSec.xhtml"><i
+											class="fa fa-eye fa-fw"></i> Değerlendirme Görüntüle</a></li>
+
+								</ul></li>
+								<li><a href="#"><i class="fa fa-list-ol fa-fw"></i>
+									Yıl Sonu Değerlendirme<span class="fa arrow"></span></a>
+
+								<ul class="nav nav-third-level">
+									<li><a
+										href="#{request.contextPath}/users/ogretmen/ogretmenYilSonuDegerlendirmeYapOgrenciSec.xhtml"><i
+											class="fa fa-calendar-check-o fa-fw"></i> Değerlendirme Yap</a></li>
+									<li><a
+										href="#{request.contextPath}/users/ogretmen/ogretmenYilSonuDegerlendirmeGoruntuleOgrenciSec.xhtml"><i
+											class="fa fa-eye fa-fw"></i> Değerlendirme Görüntüle</a></li>
+
+								</ul></li>
+
+						</ul></li>
+
+					<li><a href="#"><i class="fa fa-file-text-o fa-fw"></i>
+							Raporlama İşlemleri<span class="fa arrow"></span></a>
+						<ul class="nav nav-second-level">
+							<li><a href="#"><i class="fa fa-pencil-square fa-fw"></i>
+									Bireysel Öğretim Planı</a></li>
+							<li><a href="#"><i class="fa fa-pencil-square fa-fw"></i>
+									Bireysel Gelişim Raporu</a></li>
+							<li><a
+								href="#{request.contextPath}/users/ogretmen/ogretmenkabadegerlendirmegelisimgoruntuleogrencisec.xhtml"><i
+									class="fa fa-line-chart fa-fw"></i> Gelişim Görüntüle</a></li>
+
+						</ul></li>
+
+				</ul>
+
+			</div>
+		</div>
+		</nav>
+
+		<!-- Page Content -->
+
+		<div id="page-wrapper">
+			<div class="container-fluid">
+
+				<div class="row">
+					<div class="col-lg-12" align="center">
+						<h1 class="page-header">
+							<a href="#"><img
+								src="#{request.contextPath}/style/pics/banner4.jpg" alt="logo" /></a>
+						</h1>
+
+					</div>
+				</div>
+
+				<ui:insert name="pageContent" />
+
+			</div>
+		</div>
+
+
+		<nav class="navbar navbar-inverse navbar-fixed-down" role="navigation">
+
+		<div align="center">
+			<font color="white">Copyright &copy; 2017 - Tüm Hakları
+				Saklıdır.			
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<img src="#{request.contextPath}/style/pics/atlantis.png"
+				alt="logo" width="90" height="45" />
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				
+				 Program coded by <b><a class="btn inverse" href="#{request.contextPath}/atlantis.xhtml">AtLAnTiS TeaM</a></b>
+			</font>
+		</div>
+		</nav>
+	</div>
+
+	<!-- jQuery 
+<script src="#{request.contextPath}/style/js/jquery.min.js"></script>
+-->
+
+	<!-- Bootstrap Core JavaScript -->
+	<script src="#{request.contextPath}/style/js/bootstrap.min.js"></script>
+
+	<!-- Metis Menu Plugin JavaScript -->
+	<script src="#{request.contextPath}/style/js/metisMenu.min.js"></script>
+
+	<!-- Custom Theme JavaScript -->
+	<script src="#{request.contextPath}/style/js/startmin.js"></script>
+
+</body>
+</html>

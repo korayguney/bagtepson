@@ -1,0 +1,1067 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui">
+
+<ui:composition template="/WEB-INF/templates/admin.xhtml">
+	<ui:define name="pageContent">
+
+		<div class="alert alert-info" align="center">
+			<h4>Dönem Değerlendirme Görüntüleme Sayfası</h4>
+			<div class="alert alert-success" align="center">
+				<h5>
+					<i class="fa fa-book fa-fw" /><b> Ders : </b>
+					<h:outputText value="#{donemDegerlendirmeGoruntuleBean.dersAd}" />
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-child fa-fw" /><b>
+						Öğrenci : </b>
+					<h:outputText
+						value="#{donemDegerlendirmeGoruntuleBean.ogrenciAd} #{donemDegerlendirmeGoruntuleBean.ogrenciSoyad}" />
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<i class="fa fa-eye fa-fw" /><b> Değerlendirici : </b>
+					<h:outputText
+						value="#{mySessionScopedBean.firstname} #{mySessionScopedBean.lastname}" />
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<i class="fa fa-calendar fa-fw" /><b> Değerlendirme Tarihi : </b>
+					<h:outputText
+						value="#{donemDegerlendirmeGoruntuleBean.degerlendirmeTarihiFormatla()}" />
+						
+				</h5>
+			</div>
+		</div>
+
+	<h:form>
+		<p:accordionPanel activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen1}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+						
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+				
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+		
+		<p:accordionPanel activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac2.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen2}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+						
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac2.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+		
+		<p:accordionPanel activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac3.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen3}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac3.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+		
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac4 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac4.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen4}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac4.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac5 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac5.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen5}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac5.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac6 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac6.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen6}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac6.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac7 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac7.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen7}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac7.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac8 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac8.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen8}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac8.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac9 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac9.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen9}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac9.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac10 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac10.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen10}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac10.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac11 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac11.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen11}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac11.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac12 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac12.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen12}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac12.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac13 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac13.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen13}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac13.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac14 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac14.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen14}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac14.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac15 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac15.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen15}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac15.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac16 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac16.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen16}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac16.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+	
+		<p:accordionPanel rendered="#{not empty donemDegerlendirmeGoruntuleBean.genelAmac17 }" activeIndex="null">
+			<p:tab title="#{donemDegerlendirmeGoruntuleBean.genelAmac17.icerik}">
+				<h:panelGrid columns="2" cellpadding="10">
+
+					<p:dataTable value="#{bireyselEgitimPlaniBean.ozelAmacBEPteSecilen17}"
+						var="ozelAmac" >
+
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMap[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorum[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+					<br />
+					<p:dataTable value="#{donemDegerlendirmeBean.genelAmac17.ozelAmaclarEK}"
+						var="ozelAmac" >
+						
+						<f:facet name="header">
+           					 GENEL AMACI DİĞER DERSLERDEN ETKİLEYEN ÖZEL AMAÇLAR
+        				</f:facet>
+						
+						<p:column headerText="Özel Amaçlar" width="600" >
+							<h:outputText value="Özel #{ozelAmac.icerik}" />
+						</p:column>
+						
+						<p:column headerText="Puanı" width="100" >
+							<h:outputText value="#{ozelAmac.degerlendirmePuani}" />
+						</p:column>
+
+						<p:column headerText="Değerlendirme" width="250">
+							<p:inputText value="#{donemDegerlendirmeGoruntuleBean.ozelAmaclarMapEK[ozelAmac.id]}"  />
+						</p:column>
+
+						<p:column headerText="Yorum" width="">
+							<p:inplace id="yorum" label="Düzenlemek için buraya tıklayınız. Mevcut yorum : #{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" effect="slide" editor="true" >
+								<p:inputTextarea rows="3" cols="90" counter="display" maxlength="200" counterTemplate="{0} karakter kaldı." value="#{donemDegerlendirmeGoruntuleBean.ozelAmacYorumEK[ozelAmac.id]}" />
+								<br /><h:outputText id="display" />
+							</p:inplace>
+						</p:column>
+					</p:dataTable>
+				</h:panelGrid>
+			</p:tab>
+			
+		</p:accordionPanel>
+
+		<div class="alert alert-info" align="center">
+			<p:commandButton actionListener="#{donemDegerlendirmeGoruntuleBean.degerlendirmeGoruntuleKaydetBos()}" value="Değerlendirme Kaydet" oncomplete="$('#myModal').modal();" />
+		</div>
+		
+		
+	</h:form>
+	
+	<!-- Modal -->
+			<div id="myModal" class="modal fade" role="dialog">
+				<div class="modal-dialog">
+
+					<!-- Modal content-->
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal">&times;</button>
+							<h4 class="modal-title">Sayın
+								#{mySessionScopedBean.firstname} #{mySessionScopedBean.lastname}</h4>
+						</div>
+						<div class="modal-body" align="center">
+							<p><b>#{donemDegerlendirmeGoruntuleBean.ogrenciAd} #{donemDegerlendirmeGoruntuleBean.ogrenciSoyad}</b> için yeniden düzenlenen <b>#{donemDegerlendirmeGoruntuleBean.dersAd}</b> Dönem Değerlendirmesi kaydedilecek.<br /> Emin misiniz?</p>
+						</div>
+						<div class="modal-footer">
+							<p:commandButton styleClass="btn btn-default" value="Kaydet"
+								action="#{donemDegerlendirmeGoruntuleBean.degerlendirmeGoruntuleKaydetAdmin()}"
+								oncomplete="$('#myModal').modal();location.reload();" />
+
+							<button type="button" class="btn btn-default"
+								data-dismiss="modal">İptal</button>
+						</div>
+					</div>
+
+				</div>
+			</div>
+	
+	
+	</ui:define>
+</ui:composition>
+
+</html>
+
+
+
+
+
+
+

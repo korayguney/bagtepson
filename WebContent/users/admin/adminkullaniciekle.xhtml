@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui">
+
+<ui:composition template="/WEB-INF/templates/admin.xhtml">
+	<ui:define name="pageContent">
+	
+	<div class="alert alert-info" align="center"><h3>Kullanıcı Ekleme Sayfası </h3> </div>
+		<div class="alert alert-success" align="center">
+	
+	<h:form id="addForm">
+	<table align="center">
+	<tr>
+		<td>Adı :</td> <td><p:inputText id="fname" value="#{userListBean.newUser.firstname}"  required="true" requiredMessage="Ad boş geçilemez!"/>
+		</td><td><p:message for="fname"/></td>
+	</tr>
+	<tr>
+		<td>Soyadı :</td> <td><p:inputText id="lname" value="#{userListBean.newUser.lastname}" required="true" requiredMessage="Soyad boş geçilemez!"/>
+				</td><td><p:message for="lname"/>
+				</td>
+			</tr>
+	<tr>
+		<td>Kullanıcı Adı :</td> <td><p:inputText id="username" value="#{userListBean.newUser.username}" required="true" requiredMessage="Kullanıcı adı boş geçilemez!"/>
+		</td><td><p:message for="username"/></td>
+		</tr>	
+	<tr>
+		<td>Parola : </td><td><p:password value="#{userListBean.newUser.password}" required="true" requiredMessage="Parola boş geçilemez!"/></td>
+		<td></td>
+			</tr>
+	<tr>
+			<td>Rolü : </td><td>
+			<p:selectOneMenu id="role" value="#{userListBean.newUser.role}" style="width:204px">
+	            <f:selectItem itemLabel="Rol Seçiniz" itemValue="" />
+	            <f:selectItems value="#{registerBean.roles}" />
+			</p:selectOneMenu></td>
+		<td></td>
+			</tr>
+			
+			
+	<tr><td></td><td colspan="2">
+	
+		<p:commandButton action="#{userListBean.add()}" value="Kullanıcı Ekle" ajax="false" />
+		<p:button href="userlist.xhtml" value="İptal"  />
+		</td><td></td>
+		</tr>
+	</table>
+	<p:messages id="messages" showDetail="true" autoUpdate="true" closable="true" />
+	</h:form>
+
+</div>	
+				
+	</ui:define>
+</ui:composition>
+
+</html>
+
+
+
+            
+         	 
+       

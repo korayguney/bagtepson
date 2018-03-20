@@ -1,0 +1,538 @@
+﻿Genel Amaç-1. Varlıklar arasındaki temel ilişkileri kavrar. 
+
+Genel Amaç-2.Zaman, yer ve sayılar arasındaki ilişkileri kavrar. 
+
+Amaç 28. Telefon numarasını tanır. (2 P)
+Davranışlar 
+1. İstenildiğinde telefon numarasını söyler.
+2. Telefon numarasının ilk beş hanesi verildiğinde son iki rakamı söyler.
+3. Telefon numarasının ilk üç hanesi verildiğinde son dört rakamı söyler.
+4. Karışık olarak verilen numara grupları arasından kendi telefon numarasını oluşturur.
+5. Karışık olarak verilen sayı kartlarından kendi telefon numarasını oluşturur.
+6. Verilen kartlardan telefon numarası yazılı kartı gösterir.
+
+Genel Amaç-3.Dört işlem yapma becerisi kazanır. 
+
+Amaç 155. Süpermarketten alışveriş yapar. (3 P)
+Davranışlar 
+1. Alışveriş sepetini/arabasını alır. 
+2. Alacağı yiyecek/içecek ile ilgili reyona gider. 
+3. Aldıklarını sepete/arabaya koyar. 
+4. Aldıklarını kasadaki banda koyar. 
+5. Aldıklarının kasadan geçmesini bekler. 
+6. Aldıklarını poşete yerleştirir. 
+7. Parayı kasiyere verir.  
+8. Varsa para üstünü alır. 
+9. Fişini alır
+
+Amaç 156. Mağazadan alışveriş yapar. (2 P)
+Davranışlar 
+1. Çarşıda/alışveriş merkezinde almak istediği malzemeyle ilgili mağazayı bulur. 
+2. Mağazaya girer. 
+3. Raftaki ve askıdaki ilgilendiği eşyalara dokunmadan bakar. 
+4. Beğendiği eşyaları/giysileri görevliden ister. 
+5. Eşyayı/giysiyi inceler. 
+6. Merak ettiği konuyu mağaza görevlisine sorar. 
+7. Kabinde giysiyi giyerek dener. 
+8. Almaya karar verirse eşyayı/giysiyi kasaya götürür. 
+9. Kasada sıraya girer. 
+10. Sırası gelene kadar bekler. 
+11. Giysinin parasını öder. 
+12. Varsa para üstünü alır. 
+13. Fişini alır. 
+
+Araç 157. Ulaşımda otobüs kullanır.  (2 P)
+Davranışlar 
+1. Otobüs bileti alınan/doldurulan yere gider. 
+2. Bilet alırken kaçlık/ kaç liralık olduğunu söyler. 
+3. Parayı uzatır. 
+4. Biletini alır. 
+5. Varsa para üstünü alır. 
+6. Durağa gider. 
+7. Durakta sıraya girer. 
+8. Otobüs gelince sırayla biner. 
+9. Otobüs biletini kutuya atar/okuyucuya değdirir. 
+10. Arkaya doğru ilerler. 
+11. Boş yer varsa oturur. 
+12. Otobüste ayakta dururken uygun yerden tutunur. 
+13. İneceği duraktan önce kapıya yaklaşır. 
+14. Zile basar. 
+15. Otobüs durduğu zaman iner. 
+
+Amaç 158. Ulaşımda metro kullanır. (2 P)
+Davranışlar 
+1. Metro jetonu /bileti alınan yere gider. 
+2. Jeton/bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+3. Parayı uzatır. 
+4. Jetonu/bileti alır. 
+5. Varsa para üstünü alır. 
+6. Metro istasyonunda giriş turnikesini tanır. 
+7. Jetonu atar/bileti okuyucuya değdirir. 
+8. Turnikeden geçer. 
+9. Uygun perona gider. 
+10. Peronda uyarı çizgisini (kırmızı-sarı) geçmeden bekler. 
+11. Metro gelince durmasını bekler. 
+12. Metro kapısı açılınca araca biner. 
+13. Uygun bir yerde oturarak/ ayakta bekler. 
+14. İneceği duraktan önce kapıya yaklaşır. 
+15. Araç durunca iner. 
+
+Amaç 159. Ulaşımda vapur kullanır. (2 P)
+Davranışlar 
+1. Vapur jetonu alınan/ doldurulan yere gider. 
+2. Jeton/bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+3. Parayı uzatır. 
+4. Jetonu/bileti alır. 
+5. Varsa para üstünü alır. 
+6. Vapur iskelesinde giriş turnikesine gider. 
+7. Jetonu atar/bileti okuyucuya değdirir. 
+8. Turnikeden geçer. 
+9. Uygun kapıya gider. 
+10. Vapur gelene kadar bekler. 
+11. Vapurun iskeleye yanaşmasını bekler. 
+12. Vapur girişi açılınca biner. 
+13. Vapurda uygun bir yerde oturur/ayakta durur. 
+14. İneceği iskeleye gelene kadar bekler. 
+15. Vapurun iskeleye iyice yanaşmasını bekler. 
+16. Vapurdan iner. 
+
+Amaç 160. Ulaşımda tren kullanır. (2 P)
+Davranışlar 
+1. Tren istasyonuna gider. 
+2. Tren bileti alınan gişeye gider. 
+3. Bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+4. Parayı uzatır. 
+5. Bileti alır. 
+6. Varsa para üstünü alır. 
+7. Tren istasyona gelinceye kadar raylara yaklaşmadan bekler. 
+8. Tren istasyonda durunca vagona biner. 
+9. Tren biletini görevliye verir. 
+10. Biletinde belirtilen yere oturur. 
+11. İneceği istasyona gelinceye kadar oturarak /uygun bir yerde ayakta bekler. 
+12. İneceği duraktan önce kapıya yaklaşır.  
+13. Araç durunca iner. 
+
+Amaç 161. Ulaşımda dolmuş kullanır. (3 P)
+Davranışlar 
+1. Dolmuş durağına gider. 
+2. Gideceği yere uygun hattı seçer. 
+3. Elini kaldırarak dolmuşu durdurur. 
+4. Ücreti sorar. 
+5. Parayı uzatır. 
+6. Varsa para üstünü alır. 
+7. İneceği durağa yaklaşınca söyler. 
+8. Dolmuş durunca iner. 
+
+Amaç 162. Restoran ve kafeterya vb. yerlerde kurallara uygun davranır. (2 P)
+Davranışlar 
+1. Gösterilen yere oturur. 
+2. Siparişini verir. 
+3. Uygun şekilde bekler. 
+4. Yiyeceğini tüketirken masayı kirletmeden yer. 
+5. Üstüne dökmeden yer. 
+6. Peçeteyle ağzını siler. 
+7. Hesabı ister. 
+8. Kasaya gider/hesabın masaya gelmesi bekler. 
+9. Hesabı ödemek için para verir.  
+10. Varsa para üstünü alır. 
+11. Fişini alır. 
+12. Giderken iyi günler/iyi akşamlar diler. 
+
+Amaç 163. Self-servis kafe ve restoranlarda kurallara uygun davranır. (2 P)
+Davranışlar 
+1. Kasaya gider. 
+2. Sıraya girer.  
+3. Siparişini verir. 
+4. Parayı verir.  
+5. Varsa para üstünü alır. 
+6. Fişini alır. 
+7. Uygun yerde tepsiye peçete/çatal/bıçak koyar.  
+8. Siparişinin verilmesini bekler. 
+9. Siparişini tepsiyle dökmeden masaya taşır. 
+10. Tepsiyi masaya koyar. 
+11. Sandalyeye oturur. 
+12. Kurallara uygun olarak yemeğini yer. 
+
+Amaç 165. Berberde traş olur. (2 P)
+Davranışlar 
+1. Berber dükkânına gider. 
+2. Yaptırmak istediği işlemi söyler. 
+3. Berber işini yaparken kıpırdamadan oturur. 
+4. İşi bitince kalkar. 
+5. Ücreti öder. 
+6. Varsa para üstünü alır. 
+
+Amaç 166. Kuaförden hizmet alır. (2 P)
+Davranışlar  
+1. Kuaför dükkânına gider. 
+2. Varsa sıra bekler. 
+3. Yaptırmak istediği işlemi söyler. 
+4. Kuaför işini bitirene kadar bekler. 
+5. İşi bitince kasaya gider. 
+6. Ücreti öder. 
+7. Varsa para üstünü alır
+
+Genel Amaç-4. Problem çözebilme becerisi kazanır. 
+
+Amaç 155. Süpermarketten alışveriş yapar. (4 P)
+Davranışlar 
+1. Alışveriş sepetini/arabasını alır. 
+2. Alacağı yiyecek/içecek ile ilgili reyona gider. 
+3. Aldıklarını sepete/arabaya koyar. 
+4. Aldıklarını kasadaki banda koyar. 
+5. Aldıklarının kasadan geçmesini bekler. 
+6. Aldıklarını poşete yerleştirir. 
+7. Parayı kasiyere verir.  
+8. Varsa para üstünü alır. 
+9. Fişini alır. 
+
+Amaç 156. Mağazadan alışveriş yapar. (4 P)
+Davranışlar 
+1. Çarşıda/alışveriş merkezinde almak istediği malzemeyle ilgili mağazayı bulur. 
+2. Mağazaya girer. 
+3. Raftaki ve askıdaki ilgilendiği eşyalara dokunmadan bakar. 
+4. Beğendiği eşyaları/giysileri görevliden ister. 
+5. Eşyayı/giysiyi inceler. 
+6. Merak ettiği konuyu mağaza görevlisine sorar. 
+7. Kabinde giysiyi giyerek dener. 
+8. Almaya karar verirse eşyayı/giysiyi kasaya götürür. 
+9. Kasada sıraya girer. 
+10. Sırası gelene kadar bekler. 
+11. Giysinin parasını öder. 
+12. Varsa para üstünü alır. 
+13. Fişini alır. 
+
+Araç 157. Ulaşımda otobüs kullanır.  (4 P)
+Davranışlar 
+1. Otobüs bileti alınan/doldurulan yere gider. 
+2. Bilet alırken kaçlık/ kaç liralık olduğunu söyler. 
+3. Parayı uzatır. 
+4. Biletini alır. 
+5. Varsa para üstünü alır. 
+6. Durağa gider. 
+7. Durakta sıraya girer. 
+8. Otobüs gelince sırayla biner. 
+9. Otobüs biletini kutuya atar/okuyucuya değdirir. 
+10. Arkaya doğru ilerler. 
+11. Boş yer varsa oturur. 
+12. Otobüste ayakta dururken uygun yerden tutunur. 
+13. İneceği duraktan önce kapıya yaklaşır. 
+14. Zile basar. 
+15. Otobüs durduğu zaman iner. 
+
+Amaç 158. Ulaşımda metro kullanır. (4 P)
+Davranışlar 
+1. Metro jetonu /bileti alınan yere gider. 
+2. Jeton/bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+3. Parayı uzatır. 
+4. Jetonu/bileti alır. 
+5. Varsa para üstünü alır. 
+6. Metro istasyonunda giriş turnikesini tanır. 
+7. Jetonu atar/bileti okuyucuya değdirir. 
+8. Turnikeden geçer. 
+9. Uygun perona gider. 
+10. Peronda uyarı çizgisini (kırmızı-sarı) geçmeden bekler. 
+11. Metro gelince durmasını bekler. 
+12. Metro kapısı açılınca araca biner. 
+13. Uygun bir yerde oturarak/ ayakta bekler. 
+14. İneceği duraktan önce kapıya yaklaşır. 
+15. Araç durunca iner. 
+
+Amaç 159. Ulaşımda vapur kullanır. (4 P)
+Davranışlar 
+1. Vapur jetonu alınan/ doldurulan yere gider. 
+2. Jeton/bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+3. Parayı uzatır. 
+4. Jetonu/bileti alır. 
+5. Varsa para üstünü alır. 
+6. Vapur iskelesinde giriş turnikesine gider. 
+7. Jetonu atar/bileti okuyucuya değdirir. 
+8. Turnikeden geçer. 
+9. Uygun kapıya gider. 
+10. Vapur gelene kadar bekler. 
+11. Vapurun iskeleye yanaşmasını bekler. 
+12. Vapur girişi açılınca biner. 
+13. Vapurda uygun bir yerde oturur/ayakta durur. 
+14. İneceği iskeleye gelene kadar bekler. 
+15. Vapurun iskeleye iyice yanaşmasını bekler. 
+16. Vapurdan iner. 
+
+Amaç 160. Ulaşımda tren kullanır. (4 P)
+Davranışlar 
+1. Tren istasyonuna gider. 
+2. Tren bileti alınan gişeye gider. 
+3. Bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+4. Parayı uzatır. 
+5. Bileti alır. 
+6. Varsa para üstünü alır. 
+7. Tren istasyona gelinceye kadar raylara yaklaşmadan bekler. 
+8. Tren istasyonda durunca vagona biner. 
+9. Tren biletini görevliye verir. 
+10. Biletinde belirtilen yere oturur. 
+11. İneceği istasyona gelinceye kadar oturarak /uygun bir yerde ayakta bekler. 
+12. İneceği duraktan önce kapıya yaklaşır.  
+13. Araç durunca iner. 
+
+Amaç 161. Ulaşımda dolmuş kullanır. (4 P)
+Davranışlar 
+1. Dolmuş durağına gider. 
+2. Gideceği yere uygun hattı seçer. 
+3. Elini kaldırarak dolmuşu durdurur. 
+4. Ücreti sorar. 
+5. Parayı uzatır. 
+6. Varsa para üstünü alır. 
+7. İneceği durağa yaklaşınca söyler. 
+8. Dolmuş durunca iner. 
+
+Amaç 162. Restoran ve kafeterya vb. yerlerde kurallara uygun davranır. (4 P)
+Davranışlar 
+1. Gösterilen yere oturur. 
+2. Siparişini verir. 
+3. Uygun şekilde bekler. 
+4. Yiyeceğini tüketirken masayı kirletmeden yer. 
+5. Üstüne dökmeden yer. 
+6. Peçeteyle ağzını siler. 
+7. Hesabı ister. 
+8. Kasaya gider/hesabın masaya gelmesi bekler. 
+9. Hesabı ödemek için para verir.  
+10. Varsa para üstünü alır. 
+11. Fişini alır. 
+12. Giderken iyi günler/iyi akşamlar diler. 
+
+Amaç 163. Self-servis kafe ve restoranlarda kurallara uygun davranır. (4 P)
+Davranışlar 
+1.	Kasaya gider. 
+2.	Sıraya girer.  
+3.	Siparişini verir. 
+4.	Parayı verir.  
+5.	Varsa para üstünü alır. 
+6.	Fişini alır. 
+7.	Uygun yerde tepsiye peçete/çatal/bıçak koyar.  
+8.	Siparişinin verilmesini bekler. 
+9.	Siparişini tepsiyle dökmeden masaya taşır. 
+10.	Tepsiyi masaya koyar. 
+11.	Sandalyeye oturur. 
+12.	Kurallara uygun olarak yemeğini yer. 
+
+Amaç 165. Berberde traş olur. (4 P)
+Davranışlar 
+1. Berber dükkânına gider. 
+2. Yaptırmak istediği işlemi söyler. 
+3. Berber işini yaparken kıpırdamadan oturur. 
+4. İşi bitince kalkar. 
+5. Ücreti öder. 
+6. Varsa para üstünü alır. 
+
+Amaç 166. Kuaförden hizmet alır. (4 P)
+Davranışlar  
+1. Kuaför dükkânına gider. 
+2. Varsa sıra bekler. 
+3. Yaptırmak istediği işlemi söyler. 
+4. Kuaför işini bitirene kadar bekler. 
+5. İşi bitince kasaya gider. 
+6. Ücreti öder. 
+7. Varsa para üstünü alır. 
+
+Genel Amaç-5. Geometrik şekiller arasındaki ilişkileri kavrar. 
+
+Amaç 35. Konulu resim çizer. (6 P)
+Davranışlar 
+1. Belirtilen konuyla ilgili, nesneleri/şekilleri modele bakarak çizer. 
+2. Belirtilen konuyla ilgili, nesneleri/şekilleri yönerge ile çizer. 
+3. Belirtilen konuyla ilgili, istediği nesneleri/şekilleri çizer. 
+4. Kendi seçtiği konuyla ilgili, istediği nesneleri/şekilleri çizer. 
+
+Genel Amaç-6. Matematiğin kazandırdığı bilgi ve becerileri bilir ve günlük yaşamda uygular. 
+
+Amaç 155. Süpermarketten alışveriş yapar. (3 P)
+Davranışlar 
+1. Alışveriş sepetini/arabasını alır. 
+2. Alacağı yiyecek/içecek ile ilgili reyona gider. 
+3. Aldıklarını sepete/arabaya koyar. 
+4. Aldıklarını kasadaki banda koyar. 
+5. Aldıklarının kasadan geçmesini bekler. 
+6. Aldıklarını poşete yerleştirir. 
+7. Parayı kasiyere verir.  
+8. Varsa para üstünü alır. 
+9. Fişini alır. 
+
+Amaç 156. Mağazadan alışveriş yapar. (3 P)
+Davranışlar 
+1. Çarşıda/alışveriş merkezinde almak istediği malzemeyle ilgili mağazayı bulur. 
+2. Mağazaya girer. 
+3. Raftaki ve askıdaki ilgilendiği eşyalara dokunmadan bakar. 
+4. Beğendiği eşyaları/giysileri görevliden ister. 
+5. Eşyayı/giysiyi inceler. 
+6. Merak ettiği konuyu mağaza görevlisine sorar. 
+7. Kabinde giysiyi giyerek dener. 
+8. Almaya karar verirse eşyayı/giysiyi kasaya götürür. 
+9. Kasada sıraya girer. 
+10. Sırası gelene kadar bekler. 
+11. Giysinin parasını öder. 
+12. Varsa para üstünü alır. 
+13. Fişini alır. 
+
+Araç 157. Ulaşımda otobüs kullanır.  (3 P)
+Davranışlar 
+1. Otobüs bileti alınan/doldurulan yere gider. 
+2. Bilet alırken kaçlık/ kaç liralık olduğunu söyler. 
+3. Parayı uzatır. 
+4. Biletini alır. 
+5. Varsa para üstünü alır. 
+6. Durağa gider. 
+7. Durakta sıraya girer. 
+8. Otobüs gelince sırayla biner. 
+9. Otobüs biletini kutuya atar/okuyucuya değdirir. 
+10. Arkaya doğru ilerler.
+11. Boş yer varsa oturur. 
+12. Otobüste ayakta dururken uygun yerden tutunur. 
+13. İneceği duraktan önce kapıya yaklaşır. 
+14. Zile basar. 
+15. Otobüs durduğu zaman iner. 
+
+Amaç 158. Ulaşımda metro kullanır. (2 P)
+Davranışlar 
+1. Metro jetonu /bileti alınan yere gider. 
+2. Jeton/bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+3. Parayı uzatır. 
+4. Jetonu/bileti alır. 
+5. Varsa para üstünü alır. 
+6. Metro istasyonunda giriş turnikesini tanır. 
+7. Jetonu atar/bileti okuyucuya değdirir. 
+8. Turnikeden geçer. 
+9. Uygun perona gider. 
+10. Peronda uyarı çizgisini (kırmızı-sarı) geçmeden bekler. 
+11. Metro gelince durmasını bekler. 
+12. Metro kapısı açılınca araca biner. 
+13. Uygun bir yerde oturarak/ ayakta bekler. 
+14. İneceği duraktan önce kapıya yaklaşır. 
+15. Araç durunca iner. 
+
+Amaç 159. Ulaşımda vapur kullanır. (2 P)
+Davranışlar 
+1. Vapur jetonu alınan/ doldurulan yere gider. 
+2. Jeton/bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+3. Parayı uzatır. 
+4. Jetonu/bileti alır. 
+5. Varsa para üstünü alır. 
+6. Vapur iskelesinde giriş turnikesine gider. 
+7. Jetonu atar/bileti okuyucuya değdirir. 
+8. Turnikeden geçer. 
+9. Uygun kapıya gider. 
+10. Vapur gelene kadar bekler. 
+11. Vapurun iskeleye yanaşmasını bekler. 
+12. Vapur girişi açılınca biner. 
+13. Vapurda uygun bir yerde oturur/ayakta durur. 
+14. İneceği iskeleye gelene kadar bekler. 
+15. Vapurun iskeleye iyice yanaşmasını bekler. 
+16. Vapurdan iner. 
+
+Amaç 160. Ulaşımda tren kullanır. (2 P)
+Davranışlar 
+1. Tren istasyonuna gider. 
+2. Tren bileti alınan gişeye gider. 
+3. Bilet alırken önce sayısını/ kaç liralık olduğunu söyler. 
+4. Parayı uzatır. 
+5. Bileti alır. 
+6. Varsa para üstünü alır. 
+7. Tren istasyona gelinceye kadar raylara yaklaşmadan bekler. 
+8. Tren istasyonda durunca vagona biner. 
+9. Tren biletini görevliye verir. 
+10. Biletinde belirtilen yere oturur. 
+11. İneceği istasyona gelinceye kadar oturarak /uygun bir yerde ayakta bekler. 
+12. İneceği duraktan önce kapıya yaklaşır.  
+13. Araç durunca iner. 
+
+Amaç 161. Ulaşımda dolmuş kullanır. (3 P)
+Davranışlar 
+1. Dolmuş durağına gider. 
+2. Gideceği yere uygun hattı seçer. 
+3. Elini kaldırarak dolmuşu durdurur. 
+4. Ücreti sorar. 
+5. Parayı uzatır. 
+6. Varsa para üstünü alır. 
+7. İneceği durağa yaklaşınca söyler. 
+8. Dolmuş durunca iner. 
+
+Amaç 162. Restoran ve kafeterya vb. yerlerde kurallara uygun davranır. (3 P)
+Davranışlar 
+1. Gösterilen yere oturur. 
+2. Siparişini verir. 
+3. Uygun şekilde bekler. 
+4. Yiyeceğini tüketirken masayı kirletmeden yer. 
+5. Üstüne dökmeden yer. 
+6. Peçeteyle ağzını siler. 
+7. Hesabı ister. 
+8. Kasaya gider/hesabın masaya gelmesi bekler. 
+9. Hesabı ödemek için para verir.  
+10. Varsa para üstünü alır. 
+11. Fişini alır. 
+12. Giderken iyi günler/iyi akşamlar diler. 
+
+Amaç 163. Self-servis kafe ve restoranlarda kurallara uygun davranır. (3 P)
+Davranışlar 
+1. Kasaya gider. 
+2. Sıraya girer.  
+3. Siparişini verir. 
+4. Parayı verir.  
+5. Varsa para üstünü alır. 
+6. Fişini alır. 
+7. Uygun yerde tepsiye peçete/çatal/bıçak koyar.  
+8. Siparişinin verilmesini bekler. 
+9. Siparişini tepsiyle dökmeden masaya taşır. 
+10. Tepsiyi masaya koyar. 
+11. Sandalyeye oturur. 
+12. Kurallara uygun olarak yemeğini yer. 
+
+Amaç 165. Berberde traş olur. (3 P)
+Davranışlar 
+1. Berber dükkânına gider. 
+2. Yaptırmak istediği işlemi söyler. 
+3. Berber işini yaparken kıpırdamadan oturur. 
+4. İşi bitince kalkar. 
+5. Ücreti öder. 
+6. Varsa para üstünü alır. 
+
+Amaç 166. Kuaförden hizmet alır. (3 P)
+Davranışlar  
+1. Kuaför dükkânına gider. 
+2. Varsa sıra bekler. 
+3. Yaptırmak istediği işlemi söyler. 
+4. Kuaför işini bitirene kadar bekler. 
+5. İşi bitince kasaya gider. 
+6. Ücreti öder. 
+7. Varsa para üstünü alır. 
+
+Amaç 168. Postaneden mektup atar. (2 P)
+Davranışlar 
+1. Mektup yazılı gişeye gider. 
+2. Mektup yazılı gişeye zarfı uzatır. 
+3. Parasını öder.  
+
+Amaç 169. Fatura yatırır. (2 P)
+Davranışlar 
+1. Yatırılacak faturayı alır. 
+2. Faturada belirtilen bankaya gider. 
+3. Sıra numarası alır. 
+4. Sıra kendine geldiğinde işlemlerin yapıldığı bölüme gider. 
+5. Faturayı verir. 
+6. Parayı öder. 
+7. Dekontu alır. 
+
+Amaç 170. Otomatik makineden "ATM" para çeker. (3 P)
+Davranışlar  
+1. Kartı alır. 
+2. Kartı, manyetik kısım altta kalacak şekilde tutar. 
+3. Kartı, makinenin kart takılan bölümüne, doğru yönde yerleştirir. 
+4. Şifreyi yazar. 
+5. Ekrandaki yönergelere uyar. 
+6. Parayı makineden alır. 
+7. Kartını makineden alır. 
+
+Amaç 24. Sayışmalı oyunlar oynar. (3 P)
+Davranışlar 
+1.	Verilen sayışmayı tekrar eder.
+2.	Verilen sayışmayı ritmik söyler.
+3.	Verilen sayışmanın hareketlerini taklit eder.
+4.	Verilen sayışmayı oynar.
+
